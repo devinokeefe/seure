@@ -1,9 +1,49 @@
-# Letter 39: Seure to de Fresne, Lisbon, 12 December 1558. The cipher passage of fo. 71r
+# Letter 39: Seure to de Fresne, Lisbon, 12 December 1558
 
 Source: BnF ms. fr. 3151, no. 39, fo. 71r (Gallica <https://gallica.bnf.fr/ark:/12148/btv1b9059865k>, view 72,
 right-hand page). The letter is in clear except for one cipher block of 20 lines (405 signs). It ends on fo. 71v
 with "De Lisbonne le xiie jour de decembre 1558". No contemporary decipherment of this letter was found in the
 volume, and none is known to us from elsewhere.
+
+## The reading
+
+`[...]` marks a gap, `[word?]` a weak reading, and square brackets inside a word mark letters that the signs do not
+support. Punctuation, word division and apostrophes are editorial.
+
+Period spelling:
+
+> [clear: ... non la facon] dont noz [...] a retraite des [musulmans?] [...] qu'ilz [disent?] verité, que la [ch?]ose
+> sera autrement, et ne l'aye [...] quoy qu'il en soit. Ce me sera plaisir d'en entendre la resolu[ti]on, car [.]
+> commence on a aprocher du temps que [...] ses deux ans. Y avons tenu icy la paix [pour faicte?]; ie ne scay ce
+> qu'il en sera, qui m'y [f]aisoit encores avoir plus de doute. Ie ne veulx plus demeurer icy gueres longuement, et
+> au pis aller n'y veux que achever mes deux ans. Ie suis en necessité, et ay eu tout plein de [dettes?], ces et de
+> [...] ce qui [con...] [clear text resumes]
+
+English:
+
+> ... of which our [...] the withdrawal of the [Muslims?] [...], if they are telling the truth, that the [matter] will
+> turn out otherwise, and I have not [...] it; whatever the case, I shall be glad to learn the decision on it, for we
+> are beginning to approach the time when [...] two years. Here we have taken the peace as concluded; I do not know
+> what will come of it, which made me doubt all the more. I no longer wish to stay here much longer, and at worst I
+> want only to complete my two years here. I am in want, and have had a great many [debts?] ... and of ... which ...
+
+Modern French:
+
+> ... dont nos [...] la retraite des [musulmans ?] [...], s'ils disent vrai, que la [chose] tournera autrement, et je
+> ne l'ai [...] ; quoi qu'il en soit, je serai heureux d'en apprendre la décision, car on commence à approcher du
+> moment où [...] deux ans. Ici, nous avons tenu la paix pour faite ; je ne sais ce qu'il en sera, ce qui me faisait
+> douter encore davantage. Je ne veux plus guère demeurer ici longtemps, et au pis aller je ne veux qu'y achever mes
+> deux ans. Je suis dans le besoin, et j'ai eu quantité de [dettes ?] ... et de ... ce qui ...
+
+The renderings smooth over the gaps and are no more certain than the word-by-word reading in section 3.
+
+Background, not evidence for the reading:
+
+- In December 1558 the peace talks between France and Spain, begun at Cercamp in the autumn, were under way; they
+  led to the treaty of Cateau-Cambrésis in April 1559. A remark from Lisbon that "here we have taken the peace as
+  made" fits that moment.
+- Seure's wish to leave Portugal and his want of money agree with his clear letters of January and February 1559,
+  printed by Falgairolle (1895). He was replaced by Jean Nicot in 1559.
 
 ## Status
 
@@ -17,13 +57,6 @@ volume, and none is known to us from elsewhere.
   of the 100 words are right; probably fewer, for the reasons given below.
 - There is nothing to verify the reading against. It will stand or fall with an independent re-reading of the
   signs, with further known plaintext, or with the discovery of a decipherment.
-
-**What the readable part says.** Seure writes that "here we have taken the peace as made"; he does not know what
-will come of it, which made him doubt still more. He does not want to stay here much longer and at worst wants only
-to finish his two years. He is in need ("en necessité") and has had a great many [debts?]. Before that, he says he
-will be glad to hear the decision ("resolution") on some matter, because the time of [his] two years is
-approaching. The first three lines speak of a withdrawal ("a retraite des ..."); the best-scoring word for what
-withdraws, "musulmans", is weak and unconfirmed.
 
 Not used as evidence: Seure's clear letters of January and February 1559, printed by Falgairolle, played no part
 in the decoding, in the language model or in the tests. Their wording ("ny puis gueres demeurer") resembles lines
@@ -391,48 +424,7 @@ Because the grades are judgment, the number of correct words cannot be read off 
 meaning of the grades (H about 0.85, M about 0.6, L about 0.3) it would be 66.5 of 100, and probably fewer for the
 reasons given under "How much can be expected".
 
-## 4. Continuous text (period spelling)
-
-- [...] marks a gap.
-- [word?] marks a weak reading (grade L).
-- Square brackets inside a word mark letters that the signs do not support.
-
-> [clear: ... non la facon] dont noz [...] a retraite des [musulmans?] [...] qu'ilz [disent?] verité, que la [ch?]ose
-> sera autrement, et ne l'aye [...] quoy qu'il en soit. Ce me sera plaisir d'en entendre la resolu[ti]on, car [.]
-> commence on a aprocher du temps que [...] ses deux ans. Y avons tenu icy la paix [pour faicte?]; ie ne scay ce
-> qu'il en sera, qui m'y [f]aisoit encores avoir plus de doute. Ie ne veulx plus demeurer icy gueres longuement, et
-> au pis aller n'y veux que achever mes deux ans. Ie suis en necessité, et ay eu tout plein de [dettes?], ces et de
-> [...] ce qui [con...] [clear text resumes]
-
-Punctuation, word division and apostrophes are editorial.
-
-## 5. Modern French rendering
-
-> ... dont nos [...] la retraite des [musulmans ?] [...], s'ils disent vrai, que la [chose] tournera autrement, et je
-> ne l'ai [...] ; quoi qu'il en soit, je serai heureux d'en apprendre la décision, car on commence à approcher du
-> moment où [...] deux ans. Ici, nous avons tenu la paix pour faite ; je ne sais ce qu'il en sera, ce qui me faisait
-> douter encore davantage. Je ne veux plus guère demeurer ici longtemps, et au pis aller je ne veux qu'y achever mes
-> deux ans. Je suis dans le besoin, et j'ai eu quantité de [dettes ?] ... et de ... ce qui ...
-
-## 6. English translation
-
-> ... of which our [...] the withdrawal of the [Muslims?] [...], if they are telling the truth, that the [matter] will
-> turn out otherwise, and I have not [...] it; whatever the case, I shall be glad to learn the decision on it, for we
-> are beginning to approach the time when [...] two years. Here we have taken the peace as concluded; I do not know
-> what will come of it, which made me doubt all the more. I no longer wish to stay here much longer, and at worst I
-> want only to complete my two years here. I am in want, and have had a great many [debts?] ... and of ... which ...
-
-The renderings smooth over the gaps and are no more certain than the word-by-word reading they rest on.
-
-**Context** (background, not evidence for the reading):
-
-- In December 1558 the peace talks between France and Spain, begun at Cercamp in the autumn, were under way; they
-  led to the treaty of Cateau-Cambrésis in April 1559. A remark from Lisbon that "here we have taken the peace as
-  made" fits that moment.
-- Seure's wish to leave Portugal and his want of money agree with his clear letters of January and February 1559,
-  printed by Falgairolle (1895). He was replaced by Jean Nicot in 1559.
-
-## 7. Alternatives and open points
+## 4. Alternatives and open points
 
 1. **Lines 1-3.** "dont noz" is fairly secure. The rest of line 2 is unread. "musulmans" is the best-scoring of the
    readings tried, but it needs an off-key value for `f` and a null `+`.
@@ -458,7 +450,7 @@ The renderings smooth over the gaps and are no more certain than the word-by-wor
 9. **Line 20.** "dettes" depends on whether L20 sign 0 is a sign, and even then the text would be "de tes", not "de
    dettes". It remains a possibility only.
 
-## 8. Hard limits
+## 5. Hard limits
 
 - **`Rr`** occurs nowhere in the known plaintext.
 - **Sign-reading noise.** The two readers disagree on 11-16% of the signs. Several disputed signs fall exactly in

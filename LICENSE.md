@@ -30,8 +30,8 @@ Applies to `README.md`, everything in `docs/`, the transcriptions, key files and
 You may share and adapt this material for any purpose, provided you give appropriate credit, link to the licence
 and indicate if changes were made. Full text: <https://creativecommons.org/licenses/by/4.0/legalcode>.
 
-Suggested credit: Devin O'Keefe, "The cipher of Michel de Seure's letters from Lisbon, December 1558 (BnF ms.
-fr. 3151)", 2026, <https://github.com/devinokeefe/seure>.
+Suggested credit: Devin O'Keefe, "Michel de Seure's cipher: letters from Lisbon, December 1558", 2026,
+<https://github.com/devinokeefe/seure>.
 
 The 16th-century texts themselves, and the 19th-century copy, are in the public domain; the licence covers the
 transcription, the analysis and the commentary.
