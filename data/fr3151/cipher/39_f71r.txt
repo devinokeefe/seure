@@ -1,0 +1,30 @@
+% BnF ms. fr. 3151, no. 39, fo. 71r (Gallica ark:/12148/btv1b9059865k, view 72): Seure to de Fresne, Lisbon, 12 December 1558.
+% Cipher block of 20 lines. No contemporary decipher of this letter is known.
+% FINAL READING (called "v4" in the documentation): the first reader's transcription (39_f71r_reader1.txt) with
+% every disagreement with an independent second reader (39_f71r_reader2.txt) re-examined on the image.
+% Line 1 begins after the clear words "... non la facon"; clear text resumes after line 20.
+% Notes after the line label: "kN old->new" = sign N of the line (counted from 0) was changed from the first
+% reader's label; "kept" = the first reader's label was kept against the second reader; "?" = still uncertain;
+% "?|x" = x is a close alternative.
+% Format: one manuscript line per text line; sign labels separated by spaces (see docs/SYMBOLS.md);
+% "%" starts a comment; "Lnn" = line number within the cipher block.
+2 * #p 14 = ooo 13 f 6 7   % L01 | k5 oo->ooo ?|oo three lobes on zoom (reader 2 ooo?); k7 +f->f heavy long descender, no loop (reader 2 f); k8 8->6 open-top б/G shape (reader 2 6?|8); same key value o
+n 3 #1 S oo B C = # lo E mm Q R 3 o +f Nf Hr ff ii Qb h   % L02 | k21 x->Qb identical to the Qb signs of L04/L06/L13/L19/L20 (reader 2 Qb?); k16 +f kept (reader 2 +d?): cross with loop on right arm; k20 ii kept? (reader 2 n?): two strokes, two dots above; k22 h kept? (reader 2 s): S body with bottom curl + lead-in stroke
+o sl M * Aq 1 R 12 z ### f + W ^ Cz +d ### o Cs   % L03
+mm # Q B vl n 6 J z 3s = Aq 3 ff +f Rr Qb 9 P cl Nf   % L04 | k2 Q kept? (reader 2 Cs?): large open curl with inner hook and tail, unlike both catalogue rows
+1 #1 # 3s z 1 h #b mt ooo +f 3s m ff f Aq Zb mm 9 vl   % L05
+o oo 3s # J ff 3 1 To ^ 6 oo N +d 3s = W #p II Qb 7   % L06 | k8 r->To T-bar ending in a loop, matches catalogue To (reader 2 To?); k13 +->+d ?|+ arms droop (reader 2 +?|+d); k18 E->II ?|E under the mm arc: two short uprights + bars (reader 2 II?); k4 J kept? (reader 2 3?): T-bar with stem from its left end
+s ts ff z 1 6 #b 8p vl o # 6 +f R f 3s xx ooo ff f * 7   % L07 | k11 6 kept? (reader 2 B?|S): slanted б with long descender
++f 3s cl Nf Hr ff W #p v d +f sl 8 xx + #b 6 C ss m   % L08 | k9 oo->d long heavy stroke ending in loops = d; the two loops are its end (reader 2 d); k12 d->8 ?|d small knot at the foot of the L07 f descender; the stroke into it belongs to that f (reader 2 8?|v); k17-18 "C ss" kept (reader 2 one sign Cx?): ss sits in a ruled box right of the C
+ff mm s #1 f # o 100 #b EE Hr #p p U 9 +f 6 ^ ooo 3s ts   % L09 | k3 #1 kept (reader 2 #?): the left upright is the L08 Nf leg
+g z P c Nf ### C #b oo ff #b +f th V d 3s z ff W R ^   % L10 | k13 V kept? (reader 2 vl?|cl): Y/V legs under the d stroke
+x o f # C Nf 3 #1 mm W Aq 1 = d sl + Cx +d o 8p   % L11
+#b Lc m A To Tr V 3s ## ff f 1 W + o oo s N +d 3s =   % L12 | k8 #->## one long bar x 2 uprights (reader 2 ##?|#); k2 m kept? (reader 2 mm?|m): 3 humps
+# ff 8 Nf N m Cx 3 #b sl z 6 cc Qb 3s = t #p +f 1 W   % L13 | k2 8 kept? (reader 2 z?|3); k7 3 kept? (reader 2: part of the Cx flourish): separate ʒ-bump at the right end of the C bowl
+o ^ #1 # Hr 8p vl 3 # R * 6 d a ooo 3s ## ff mm 1 3   % L14
+ff 3 +d m EE cl d W R m 3s d Hr 1 h # p Cx x ^   % L15 | k2 +->+d arms droop (reader 2 +?|+d); k3 m kept? (reader 2 mm); k18 x kept? (reader 2: part of Cx): separate mark inside the C bowl, as ^ in L17 and 1 in L19
+sl ff +f 1 Wl cl 6 mm Cx d 3s ts ff f Q Rq mt EE cc z   % L16 | k4 ae->Wl same sign as L17 last / L18 Wl (reader 2 Wl); k16 m->mt ?|m short m with C flourish and rising wavy tail, as L05 mt (reader 2 mm)
+o +d E h = Cx ^ ff ^ x P o + th 3s d 1 +f ### 3s Wl   % L17 | k1 +->+d arms droop (reader 2 +d)
+R ii 3 x o f # Rl ff z ^ ## # 3s = Ak mm 9 s Wl sl oo   % L18 | k11 #->## one long bar x 2 uprights (reader 2 ##?|#)
+ff 4b o Cx 1 ^ 12 Aq #1 14 d Qb 13 EE +d ff 2 cc f R 7   % L19 | k15 ff kept (reader 2 ae?): long legs below the looped top
+3s Qb 3s z 100 + J Zb R Tr J 12 ff 12 Cz Cx s N Tr x   % L20 | k0 B->3s ?|B ʒ-squiggle on the L19 ff leg at L20 height (reader 2 3s?|3); k7 To->Zb Ƶ with loops, matches Zb of L05 (reader 2 Zb)

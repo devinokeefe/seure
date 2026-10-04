@@ -1,0 +1,15 @@
+% set HC44 (heldout): 302 signs against 441 letters; cost 276.3; 196 signs on their key value.
+% sign=unit per sign ("_" = null, "[word]" = word code); "!" = the unit is not the key value of the sign; "(-x)" = plaintext letter x has no sign.
+start: (-i) (-l) (-z)
+44_f86r_C.L02: Tr=_ *=d M=_ ff=e d=u Cx=_! #p=o Lc=i Cz=_! 3s=e mm=n Aq=t 14=_ V=h 3=u +o=_ sl=i +=c Qb=t s=ce ff=n! #=s m=m #=i! Zb=l!
+44_f86r_C.L03: 2=_ P=esc! ^=u n=z mm=a! +=u! m=x! c=f 6=o sl=i 3=r! 3s=e r=s! R=de ###=m ff=e 6=_! f=d! Lc=i xx=n Nf=a N=qui cl=l h=z! #b=[auoient]! ^=fa! #1=ict! #=r! 9=e
+44_f86r_C.L04: Aq=t #b=a Hr=r R=de h=r A=[pour]! mm=n 6=a! 3=u 6=o Lc=i +=r! To=moy! ff=e ==n R=de E=c! #=e! Phi=f! #p=o d=u Hr=r f=n #1=ir! s=que! 2=[apres]! v=lar!
+44_f86r_C.L05: Hr=r Lc=i 3=u (-e) ff=e R=de +d=l (-a) vl=f! +d=l #p=o Qb=t Tq=te! E=le W=s 2=_ 14=que! vl=l n=z o=_! n=s! #1=o mm=n oo=t! sl=i ff=a! 8p=[payez]!
+44_f86r_C.L06: 8=et! R=de 7=_ ##=p! ^=u #=i! #=s Aq=t s=r! #p=o (-u) d=u 1=e f=n 6=o (-u) 3=u ff=e mt=a +=u! +=c +=re! y=dit! s=ce (-s) sl=i 6=o d=u Hr=r
+44_f86r_C.L07: ff=s! n=[passez]! ^=u xx=n Cx=g f=n o=a J=u! Lc=i +=r! 3s=e mm=n #1=o Hr=r ###=m M=_ #p=a! f=n oo=t! E=p! s=r! ##=i 3=nt! ooo=ung! (-p)
+44_f86r_C.L08: ff=e Qb=t Lc=i Aq=t f=n #=a! ^=u E=_! Tr=_ s=_! +=i! +f=r 3s=e R=de x=g! 3=u ff=e 7=_ s=rr! 3s=e R=de p=l! o=a +f=r #1=o 2=yn!
+44_f86r_C.L09: ff=e x=q! o=ui! s=[alloit]! #b=a s=ce Pb=que! +d=l #1=o ==n y=[dict]! Nf=a #=l! o=a sl=r! x=a! vl=che! Hr=po! A=ur 7=_ E=le 6=pre! +=ndr! ff=e xx=do!
+44_f86r_C.L10: mm=n Qb=t 9=e (-l) E=le #=a! 3s=e #=s 12=_ oo=_! R=t! Zb=e! 9=e xx=n Ce=g! h=r o=a f=n Aq=t p=c 8=o (-l) 3s=e Hr=r (-e)
+44_f86r_C.L11: 1=e Qb=t 3s=a! Lc=[faict]! ###=[arrester]! E=le W=s ###=[nauires]! R=de d=u o=o! n=z #=s J=u! x=b! ##=i 9=e n=ctz! N=qui U=est! #p=o sl=i 3s=e ==n (-t)
+44_f86r_C.L12: ###=par! 3=s! #1=o C=n! 14=_ mt=[royaulme]! t=m 9=a! ff=is! o=a cl=l #b=a c=f Lc=i f=n #=i! ff=e Cx=luy! Nf=a oo=y B=s a=_ sl=i 3s=bie! mm=n 7=rem!
+44_f86r_C.L13: +f=ons! ooo=t +=re! E=le Aq=t #p=o #=r! Qb=t Qb=que! o=a ^=u 7=_ #1=o Lc=i ooo=t d=s! #p=o ==n y=_! f=n #=_! Nf=a 3=u (-i) (-r) (-e) (-q) (-u) (-e) (-l) (-l) (-e) (-l) (-e) (-s) (-a) (-r) (-e) (-l) (-a) (-s) (-c) (-h) (-e) (-z)

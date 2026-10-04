@@ -1,0 +1,6 @@
+Key-fit control: letter-40 key (116 signs), first 350 signs of each text, LM weight 0.4, beam 200, 6 runs per control.
+z = (real - mean of the control) / standard deviation of the control
+
+text                     real             shuffled order               permuted key
+letter 44, fo. 84r    -1174.5    -1220.1 +-  5.3 (z  8.6)    -1469.3 +- 26.2 (z 11.3)
+letter 39, fo. 71r    -1124.3    -1212.2 +-  6.0 (z 14.8)    -1488.4 +- 30.5 (z 11.9)

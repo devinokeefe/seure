@@ -1,0 +1,50 @@
+% BnF ms. fr. 3151, no. 43 (Gallica ark:/12148/btv1b9059865k): Seure to Henri II, Lisbon. Another copy of the letter of
+% 12 December 1558 (the same text as no. 44), here enciphered almost in full.
+% fo. 80r (view 81, right-hand page): cipher after the clear opening "Sire je vous escripviz par ma derniere
+% lettre du xxviiie doctobre"; L02 = the cipher at the end of that clear line; L03-L41 = full cipher lines.
+% Plaintext: the text of no. 44 (data/fr3151/plain/12dec1558_text.tsv, segments CLEAR1 + A + CLEAR2 + B).
+% Labels seen only in letter 43: Tq = T with a horizontal loop on top; Ll = two tall strokes each ending in a loop at
+% the bottom; Lcs = an L-like sign followed by "cs". The large cup-and-stem shapes below some signs are swashes of
+% signs in the line above and are not transcribed.
+% Format: one manuscript line per text line; sign labels separated by spaces (see docs/SYMBOLS.md);
+% "%" starts a comment; "Lnn" = line number within the cipher block.
+#b Tr s   % L02
+To 100 P Cx Lc 8 3s Cs * 7 #p Q mm ii Nf 13 c 30 o d M f x   % L03
++ 6 * 14 # Aq +o ^ Cx 23 #p oo d 8 ### ff II xx Qb Zb V #p s   % L04
+# f 1 Ce o ae +d 3 #b = E R s n R s ca Rq cl Nf EE 3s Cx 7   % L05
+mm ff sl = To d #1 oo J 6 sl 3 f ooo = #p n ^ #1 Cz B f # A   % L06
+E ff 3 R z 8p 1 + #1 mm s N E d h 7 + J #1 Aq P c o   % L07
+c +d 6 Qb 3s N cl n Nf p oo ff = 8 #p Lc p f Aq * ^ Lcs R 3   % L08
+W Qb d 3s mm # Hr + Cx ff #b xx 1 o p +f # 3 P 6 8 f #b   % L09
+* M ^ Nf S #p R oo o 7 100 #b f N +d Nf 3 #1 Lc ooo #b + Aq   % L10
+ff = * d 9 1 3s s z # W E # R 12 x p W Aq 6 +f ff # E x   % L11
+II Nf s R x R ^ mm d W # 1 f #p sl Qb Hr 3s II #1 3 x =   % L12
+ff x #p xx W 9 mm oo d 6 Rl +f 3s ^ = # ^ ii ff cl E # 6   % L13
+R EE 3 # x c #b C p +d #1 Qb 3s J o * d ff Nf W 1 ^ 7   % L14
+ae vl E R # E 8 #1 3 +o n 3s # ff x ts 9 * 3 Tq Ll g po * 3s   % L15
+s P sl ff mm #b Cx 8p 1 d 3s V po h +f ff EE c Tq W Aq #p # s   % L16
+po Nf Q m c Tq A f #b 3 #1 cl Hr 3s d +d o x ### 6 B ## oo   % L17
+ff R = ^ #p oo 1 S E v E + Aq x +f 3s W Zb mt ## B P sl   % L18
+Nf po Qb ff mm * #1 Cx R # + o ^ #1 sl Hr sl ooo Tr + 3 vl   % L19
+II 1 8 3s t ff xx ooo cl # d 1 +f Qb Aq sl 3s R Qb 6 ^ ooo ff s   % L20
+c Nf W #p 8 1 P + E o #b 8 #1 Hr Aq s cl Nf P c E # ff   % L21
+### 8 mm Qb o R z x t Tr vl # #p xx z 6 x 3s f pa #b W   % L22
+Nf ^ ## 3 6 d sl po oo s xx # ### Rl cl E ff 7 + ^ n A s   % L23
+E + 7 #p oo EE V # M +d f 3 1 W Phi 3 = Cx m cc vl ##   % L24
+#1 mm A E # sl Qb f s v Rq s xx ooo +f d o Aq Hr ff ^ cc f r   % L25
+Qb n ### # + E A E W R c d f + ooo n N 6 = Aq E ^ s   % L26
+# th ff Hr # Aq # 1 S z sl R + o Zb #p 3 vl ooo + 3s s + #b To   % L27
+Nf +d E ^ Hr R Aq y #1 C W s f # Cs sl Aq E ff 3 + 3 n s   % L28
+mm P #1 + th 3s f cc c ff Phi #b +d # 6 c + 9 N W #p = Aq   % L29
+h E # R 12 y ff m 9 s R d ^ #1 oo cl ma o V d   % L30
+= ff t 1 Hr ^ 3s ## c E 3 h ff Phi 1 Tr J 1 ss ### 3s R P th   % L31
+#p # ff 6 #1 f Qb po n x m Nf = s 6 II 1 f ooo R W sl o #b   % L32
+R # 3s y z z ff +o 1 Hr A + J 3 Nf mm ff Rq mt W B A mt   % L33
+Aq #b = Qb Rl ooo #1 ^ Aq 1 E 3 6 3s S o f s Zb +f + ff po #p s   % L34
+3 Hr z d S 8 x oo S o cc #p E ## EE 1 # ss ### 3s mt   % L35
+Qb S ff z c #1 Cx W sl 1 8 o oo 3s z + S B ooo J R # 6 +f   % L36
+ae 3s #p mm * ff +d Nf R z d W po n J #1 ## 9 = ooo 3s f   % L37
+Aq 6 ^ lo xx Cx oo Rq d m ta S #1 f Aq lo Cx ff xx   % L38
+o ^ #p Lc Qb 3s 3 #b ooo Hr 9 R x 3 3s S ff N #1 mm Aq 7   % L39
+Nf ### 1 xx + Nf d ff + To ^ 1 z 3s 3 + 6 R d m ta   % L40
+R ^ 6 n W 3 Tr Cx ff po Qb n N c n S + y xx S Hr 1 + oo ?   % L41

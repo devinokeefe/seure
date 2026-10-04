@@ -1,0 +1,45 @@
+figure                                                                    documented                                       reproduced                                     
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+KEY
+  signs with a key value: training sets / all alignments                  156 / 159                                        156 / 159                                        ok
+  signs transcribed in letters 40 / 44 / 41 / 43 / 39                     1082 / 1874 / 1883 / 3522 / 405                  1082 / 1874 / 1883 / 3522 / 405                  ok
+  signs with known plaintext (letters 40, 41, 43, 44)                     8361                                             8361                                             ok
+  key values of high / medium / low confidence                            46 / 30 / 83                                     46 / 30 / 83                                     ok
+  alignment cost of the training sets at convergence                      5522.5                                           5522.5                                           ok
+  other seed (letter-40 key): signs with another value                    10 of 159 signs (214 of 8361 occurrences, 2.6%)  10 of 159 signs (214 of 8361 occurrences, 2.6%)  ok
+HELD-OUT BLOCK C (decoded blind)
+  held-out signs                                                          1057                                             1057                                             ok
+  character accuracy, LM weight 0.4: 44 C / 41 C / 43 PS / mean           0.508 / 0.553 / 0.705 / 0.589                    0.508 / 0.553 / 0.705 / 0.589                    ok
+  mean character accuracy at LM weights 0.3 / 0.4 / 0.5                   0.588 / 0.589 / 0.583                            0.588 / 0.589 / 0.583                            ok
+  mean at 0.4 with key updates n5maj / n5orig / n5all                     0.593 / 0.595 / 0.587                            0.593 / 0.595 / 0.587                            ok
+  words right, S1 stable / S2 stable / S3 stable                          51/59 / 21/32 / 37/64                            51/59 / 21/32 / 37/64                            ok
+  words right, S1 unstable / S2 unstable / S3 unstable                    17/28 / 3/12 / 19/76                             17/28 / 3/12 / 19/76                             ok
+  words right, all stable / all unstable / all                            109/155 / 39/116 / 148/271                       109/155 / 39/116 / 148/271                       ok
+LETTER 39
+  signs / lines                                                           405 / 20                                         405 / 20                                         ok
+  proposed reading: signs read / taken as nulls / unread                  365 / 4 / 36                                     365 / 4 / 36                                     ok
+  proposed reading: words read; graded H / M / L                          100; 45 / 39 / 16                                100; 45 / 39 / 16                                ok
+  words expected right under the meaning of the grades                    66.5 of 100                                      66.5 of 100                                      ok
+  machine decode: words expected right at held-out precision              65.1 of 107                                      65.1 of 107                                      ok
+  "des musul" / "des gens" (score, key as built)                          -64.8 / -80.1                                    -64.8 / -80.1                                    ok
+  "la resolucion" / "laredo surin" (main transcription)                   -33.7 / -33.3                                    -33.7 / -33.3                                    ok
+  "la resolucion" / "laredo surin" (L08 sign 8 read vl)                   -29.8 / -36.4                                    -29.8 / -36.4                                    ok
+  "et au pis aller": key as built / n5maj / n5orig                        -43.5 / -33.2 / -31.9                            -43.5 / -33.2 / -31.9                            ok
+  "en necessite" / "en une ce di e"                                       -26.3 / -41.6                                    -26.3 / -41.6                                    ok
+  two readers, before the comparison: exact / with alternatives           341/405 = 0.842 / 359/405 = 0.886                341/405 = 0.842 / 359/405 = 0.886                ok
+  final transcription against reader 2: exact / with alternatives         353/405 = 0.872 / 369/405 = 0.911                353/405 = 0.872 / 369/405 = 0.911                ok
+  signs changed after the comparison                                      17                                               17                                               ok
+  key fit, letter 44: real; z against shuffled order / permuted key       -1174.5; 8.6 / 11.3                              -1174.5; 8.6 / 11.3                              ok
+  key fit, letter 39: real; z against shuffled order / permuted key       -1124.3; 14.8 / 11.9                             -1124.3; 14.8 / 11.9                             ok
+NAF 6638
+  N. 4: signs; cost; signs on key value; z                                264; 252.5; 162; -23.3                           264; 252.5; 162; -23.3                           ok
+  N. 4: cost range of 14 other windows of the same letter                 369.2 to 383.7                                   369.2 to 383.7                                   ok
+  N. 5: signs as written; tokens aligned                                  4284; 4261                                       4284; 4261                                       ok
+  N. 5: words / letters of the clear text                                 1143 / 5266                                      1143 / 5266                                      ok
+  N. 5: cost; tokens on key value                                         2856.6; 3088 of 4261 (72.5%)                     2856.6; 3088 of 4261 (72.5%)                     ok
+  N. 5: 20 word-shuffles; z                                               5887.4 +- 10.8; -280.2                           5887.4 +- 10.8; -280.2                           ok
+  N. 5: cost added by leaving out the footnote of p. 31                   +74.8                                            +74.8                                            ok
+  N. 5: z per page, weakest / strongest                                   -34.4 / -56.9                                    -34.4 / -56.9                                    ok
+  Falgairolle variants: douze/onze + mille/mil; Barselonne clause; assez  +4.4; +41.2; +7.0                                +4.4; +41.2; +7.0                                ok
+
+37 of 37 figures reproduce

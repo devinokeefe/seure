@@ -1,0 +1,21 @@
+% set 44B (train): 428 signs against 507 letters; cost 301.0; 308 signs on their key value.
+% sign=unit per sign ("_" = null, "[word]" = word code); "!" = the unit is not the key value of the sign; "(-x)" = plaintext letter x has no sign.
+44_f86r_B.L00: 4b=et 12=_ 8p=p 23=_ ff=e 2=_ 3=u x=_! #b=a Cz=_! d=u Cx=_! o=a Ca=_
+44_f86r_B.L01: mm=n =o=_ Aq=t 6=_! s=ce 14=_ cl=l ff=_! 40=a 1=e xx=n sl=par! ooo=t cc=i 3=ro! #b=nt! 6=d! sl=i +=c (-y) Cx=de! ^=u f=x! 3s=a!
+44_f86r_B.L02: Wl=u! Aq=t +f=r ff=e (-s) R=de d=u ##=i f=n v=g! Qb=t t=h! 8=o 3=u S=r P=q v=ues! p=c 8=h! Nf=a +=r! C=ge! 9=e W=s
+44_f86r_B.L03: R=de #=[marchandises]! EE=p sl=o! s=u! Hr=r Q=_ 3s=_! v=_! A=_! c=f +d=l #b=a M=_ xx=n *=d ae=r! ff=e v=s N=qui 3=u mt=a (-u) cl=l
+44_f86r_B.L04: 6=d! +f=r #p=o ##=i 9=e f=n Qb=t ooo=bi! 3s=e ==n vl=l Nf=a g=p ff=e oo=i! f=n 9=e N_Phib=que s=ce ^=u cl=l x=x R=de *=d
+44_f86r_B.L05: Q=_ 3s=iep! 8p=p ff=e #1=o 3=u R=de L=s! #b=a ##=i mm=n +=c ooo=t t=m o=a 12=_ +d=l 8=o Cx=y! 9=e xx=n ooo=t 3s=e
+44_f86r_B.L06: f=n 6=d! sl=i (-s) #=s ff=e xx=n Aq=t p=c Nf=a Hr=r Cd=cel! E=le d=u mt=a cc=ul! *=d 3=ra! #=i! a=_ f=n c=f ##=i
+44_f86r_B.L07: xx=n sl=i 3s=_! ###=m ff=e f=n Qb=t (-e) Phi=t B=s (-i) xx=n Cx=y! mt=a (-u) +f=r o=a P=que! R=de 3=u mm=x! m=m 9=e v=s +=c 8=h!
+44_f86r_B.L08: Nf=a mm=n W=s ###=[nauires]! R=de g=g! ^=u 3s=e Hr=r II=re! #b=a +d=les! o=a (-c) x=com! 8p=p Nf=a #=i! v=g! f=n 9=e 3=r! ae=et!
+44_f86r_B.L09: 3s=e c=n! Aq=c! E=ore! #=s v=s #p=o xx=n ooo=t t=m #b=a Aq=l! W=[armez]! R=de Aq=t 6=o ^=u Qb=t ff=e #=s p=c 8=h! #1=o s=_!
+44_f86r_B.L10: #=s ff=e v=s s=ce c=l! E=le N=qui C=pa (-r) Qb=t ##=i ooo=t *=d #=i! p=c Cx=y! h=e! mm=n #=o! +=c ooo=t 8=o ooo=b! 3=r! 3s=e 6=_!
+44_f86r_B.L11: J=es II=t! xx=a! p=r! 6=r! Aq=iu! 9=e L=e R=a! EE=p 3=o! 3s=r! #=t! ff=e f=_! Aq=_! xx=n Cx=g #b=a +d=l #=i! s=ce o=a
+44_f86r_B.L12: p=t! ooo=t ff=e xx=n 6=d! Nf=a f=n Qb=t ###=m 9=e cc=i c=l! E=le ^=u +f=r Qb=t 3s=e t=m g=p v=s P=q c=uel! E=le
+44_f86r_B.L13: mm=n #=a! ff=e ^=u p=il! v=s 9=e f=n J=es (-t) sl=per! *=d 3=u N_Phib=que 12=_ c=l! N_Phib=que W=s +f=_! c=[nauires]! N=qui J=es (-t) #1=o sl=i 3s=e s=_!
+44_f86r_B.L14: xx=n Aq=t R=de x=g! Cx=r! Nf=a f=n R=de ^=u #=_! c=a! E=le d=u Hr=r E=le #=_! Qb=t 3=u +f=r (-c) f=n (-e) 3=u 7=_
+44_f86r_B.L15: B=eul! ooo=t g=p 8=o #=i! xx=n Qb=t #b=a #=s B=s (-i) ff=e Cx=g 1=e (-r) #p=o Hr=r x=_! ff=a! mm=n #1=o ^=u xx=n s=_!
+44_f86r_B.L16: 9=o! n=z d=u #p=o oo=y B=s (-i) f=n v=s #b=a ^=u #1=o Q=i! 1=e xx=n Aq=t 3s=e f=n 3=u 6=o oo=y ff=e R=de d=u
+44_f86r_B.L17: mm=x! +=m! sl=i c=l! E=h! v=o! #p=m! ###=m 9=e v=s vl=q! m=u! 3s=e p=il! n=z g=p ff=e mm=n #=s #1=o Q=i! 9=e xx=n
+44_f86r_B.L18: ooo=t N=a! Aq=s! y=s 12=_ R=e! 100=_ ^=z! #=bi! M=_ 9=e f=n ii=_ ooo=p! x=eu! +f=f! 14=_ 23=_ 40=a R=ire! Tr=_

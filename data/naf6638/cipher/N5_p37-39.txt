@@ -1,0 +1,139 @@
+% BnF ms. NAF 6638, piece "N. 5" (Gallica ark:/12148/btv1b525105423): cipher block, pp. 35-43 of the copy (views f47-f55).
+% Seure to Henri II, Lisbon, 12 February 1559; 19th-century copy of St Petersburg, National Library of Russia,
+% Dubrovsky autographs ms. 110 (the copy's margin marks the folios of the original: F. 12a to F. 14a).
+% Transcribed from the images, 2026-10-04. One line per line of the COPY. A comment line "% p. NN" starts a page.
+% Notation as in N4_p29.txt: label? = uncertain; a?|b = best guess a, alternative b.
+% THIS FILE: p. 37 (view f49), p. 38 (view f50), p. 39 (view f51); 31 lines per page.
+% Copy-shape -> label conventions: as N5_p35-36.txt, plus (shapes common on these pages):
+%   "2v" (2-like hook or looped stroke + v, often with a tilde) -> W?|v ; ſv / ſſv -> W?|ss ; tall ɯ / w -> W
+%   connected "2v2v" -> W?|v W?|v (two signs)
+%   "5"-shape (ʃ/S-descender under a top bar or loop running right) -> J?|z
+%   ʒ with slanted/ticked top, and short heavy-topped ƽ -> z?|3 ; plain ʒ (flat top, bowl) -> 3
+%   ß/ℨ crossed by a long stroke, or ʒ with a crossing loop/blot -> 3s?|Zb
+%   7/T with left-curling descender -> J or J?|7 ; the same with a ʒ-like bowl -> J?|3 / 3?|J
+%   tall "6" with open bowl and hooked ascender (ɧ) -> h ; small closed б-shape -> 6
+%   σ~ (small loop with a long right tail) -> vl? (= catalogue vl, ɑ~) ; small e -> vl?|c ; ee pair -> cl?|cc
+%   C with an inner small c/r hook -> C?|Cx ; C enclosing ʒ -> Cz?|Cx ; plain large C / brace -> C?
+%   ℊ / g with top bar or flat left foot -> g?|9 ; 9 with a flat left-hooking foot -> 9?|g
+%   p whose stem runs through the top of the bowl -> p?|Phi ; p with a curled-back foot (ℓp) -> lo?|p
+%   ʂ / s with a ball terminal -> s?|v ; small ɤ with a blob -> v?
+%   Ct / ℓt / ℓℓ struck by a bar (also by a long slanted bar) -> E? ; ŁŁ with curly feet -> Hr ; ℒℓ struck -> Hr?|E
+%   ψ-like arch pierced by a long diagonal -> +d?|A (once, p39 L14) ; x with a loop/r on the right -> x?|ae
+%   P with a long top bar -> P? ; light ≈ with hooks -> =?|xx ; heavier stacked waves with hooks -> xx?|=
+%   "V" with ball terminal -> V?|v ; N with thin lead-in, heavy diagonal -> N (recurring trigram "N vl?|c n?")
+% Clear-text letter groups inside the cipher (copied as letters, not signs):
+%   "tua" p37 L16 -> ta? ; "tas" p38 L10 and L25 (underlined) -> ta ; "per" p38 L24 -> NEW3 ; "vous" p39 L22 -> token
+%   vous (no catalogue label; no key value) ; "ss" p39 L26 -> ss ; numerals 14 (p38 L04),
+%   100 (p39 L30).
+% NEW labels:
+%   NEW1 (4x: p37 L16, L26, L27; p38 L08) = "2v" (the W?|v shape) crossed by a long thin hairline running lower-left to
+%     upper-right, like the stroke of 3s; alternative W.
+%   NEW2 (4x: p37 L14, p38 L21, p39 L07, L20) = ≈ (two wavy bars) crossed by a slanted stroke, i.e. a wavy ≠;
+%     alternative #1 (also possible: = / xx).
+%   NEW3 (1x: p38 L24) = the letters "per" written as one group; alternative pa (cf. the letter-group labels re, pa, ma).
+% Structure:
+%   Folio breaks of the original: margin "*F 12b" beside p37 L04, with a small raised * before the 4th sign ("c");
+%   margin "*F. 13a" beside p39 L01, with a small raised * before the 10th sign (E?). These asterisks are editorial
+%   (small, above the line, matching the margin note), are NOT transcribed, and differ from the cipher sign *
+%   (larger, on the line; e.g. p39 L02, L06, L11, L25).
+%   No catchwords at the foot of pp. 37-39 (page numbers only, top right). No headings or clear sentences on these pages.
+%   No repeated run of 6+ signs within pp. 37-39 or shared with pp. 35-36, so no dittography
+%   like N°4's. 5-sign run "P vl?|c P E? 9" occurs at p38 L20 and p36 L15.
+%   Copyist marks: ink blots on p39 L05 (9th sign, E?) and L10 (7th, ##?|#); long hairlines also cross p39 L09 ##?|#,
+%   L18 #b?|Cx and d?|dd, L21 d?|dd, L25 3s/#b?|Cx (labelled as the underlying sign); no visible corrections.
+% p. 37 (view f49)
+r? 8?|8p W?|v f a d?|dd vl?|c E? R c 9 f 6 oo?
+h o 6 Nf?|ff #? ff Hr #p cc 9 =?|xx E? o cl?|cc
+#b?|Cx v Nf?|ff ^ o f?|+f #b #1 ^ g?|9 ^?|A h #1 sl ff mm
+E? R W + s?|v x?|y cc Aq?|+f + Nf?|ff mm re?|v 3 9 vl?|c
+cc L? ii c #1 h Qb sl p?|Phi E?|cc p #b?|Cx + ##?|# v f P cl?|cc   % small raised editorial * before "c" (= folio break; margin "*F 12b"); "ii" = two dotted i-strokes
+#p xx oo V?|N Nf?|ff W?|v Aq?|+f 9 W 3s xx oo Phi R s cl?|cc Nf?|ff
+Hr ff ^ z?|3 + # h s?|v 7?|sl E?|Q ^ xx W?|v Qb h ff J?|z
+Cz?|Cx Hr #b mm ooo W ff h d?|dd # s o D?|d t Nf?|ff W?|v
+J 9 lo?|p #b Aq?|+f #1 ^ + ooo Hr 3s E? Cz?|Cx #b?|Cx cc f r?|v
+E? #p z?|3 Qb vl?|a # ^ h ff N vl?|c n? c 9 h #1 #
+3s mm ooo mm?|mt y Nf?|ff C?|vl 7? * d?|dd v?|N W Nf?|ff f 6
+#1 m sl xx Cz?|Cx #p 4?|4b =?|xx s? t a B?|h ff R *
+y?|sl #1 y ae?|8 mm?|mt Qb Hr 9 # 3s f 6 h #1 cc
+lo?|p ooo n? ae?|8 E? * 6?|v ### Nf?|ff ##?|# Cz?|Cx 9 N vl?|c n?
+p?|Phi ff h #1 cc 9 f E? o D?|d 3s NEW2?|#1 ff m oo
+C?|vl n? t 9 C?|vl ooo Aq?|+f #1 # 3s mm Qb ooo v 3 E?
+ff J?|z E? W?|ss ta? 9 xx Qb 3s vl?|c ff NEW1?|W Aq?|+f #p   % ta? = the letters "tua" written in clear
+C?|Cx P R R ^ mm + ^ ooo Hr W?|ss oo W?|ss Nf?|ff
+mm # #b 6? 9 d?|dd vl?|c Qb J?|7 h 3s 6 ^ Aq?|+f E?|Q xx
+ooo p J ff W?|v ^ 9 Aq?|+f 3s C?|vl xx ff mm J?|7 7?|sl 9 f
+6 3s?|Zb #p cc + E? ^ xx Cz?|Cx # ff z?|3 cl?|cc y
+#1 d?|dd vl?|c n? xx C?|Cx oo Aq?|+f s?|v sl Qb #1 d?|dd 3 # 9 f
+* h # + ooo ### Nf?|ff h lo?|p d #b xx?|= E? R cl?|cc
+Nf?|ff =?|xx C?|Cx mm #b?|Cx ^ # h 9 A?|^ oo Qb Aq?|+f Nf?|ff # C?|vl
+ooo 3s h 2?|z z?|3 #b = Q?|E o Nf?|ff vl?|c E? Hr 7?|sl ^ 3?|z
+P W Nf?|ff W?|v o mm #b?|Cx m Nf?|ff s +?|+f o # 9 N?|v J?|z
+#b?|Cx f W 6 o mm NEW1?|W 3s h p Nf?|ff Hr E? + 8?|8p
+ff ### oo xx?|= J W?|v NEW1?|W 3s ooo cc E? ae?|8 E? W?|ss v
+Nf?|ff a # Qb o f # R vl?|c o R g?|9 ff ooo # E? 9
+h 3s B y Qb #b?|Cx mm s #1 ^ c ooo h 3s s N vl?|c n? A?|^
+Aq?|+f #1 # xx oo ### ff mm 9 Aq?|+f p?|Phi #1 h s # lo?|p d Nf?|ff cl?|cc
+% p. 38 (view f50)
+3 g?|9 3s y Phi 8?|8p Nf?|ff W?|ss E? ff mm?|mt vl?|c x + v o
+Aq?|+f v 9 n? R d?|dd # ^ Hr 3s? W?|ss sl?|7 + o h 7?|sl z?|3 cc
+ff Hr 9 R p?|Phi d Nf?|ff Cz?|Cx h 3s? N ^ y?|sl ff xx ooo
++ v 9 #p cl?|cc Hr W?|v Aq?|+f 3s?|Zb # * ^ f v ### a
+h ff R 14 6 # #p W?|ss 6 vl?|c #b P vl?|c E? mm o C?|Cx   % numeral 14
+# Qb #b?|Cx 3s?|Zb d?|dd Nf?|ff ooo h ff cl?|cc # 9 ^ 3s?|Zb W?|ss *
+^ s y?|N 6? Nf?|ff mm o m #b?|Cx R ###?|# P vl?|c n? 2?|z n? J?|z
+9 W?|ss 3s Hr d?|dd cc h #1 ff xx E? mm?|mt Aq?|+f ff
+ooo s?|v ^ Aq?|+f A?|^ o NEW1?|W #p h Qb 9 Aq?|+f E? z?|3 Hr 8?|8p ^?|#1 Qb 7?|sl
+xx ae?|8 s N vl?|c n? mm?|mt Aq?|+f v? # ff f ooo y o + Nf?|ff
+W?|v 9 z?|3 s?|v n? N?|y n? ta P cc ff y?|N n? A?|^ Aq?|+f #p y?|sl   % ta = the letters "tas" in clear
+9 xx ooo mm?|mt sl Tr y B B 8?|8p #1 mm 3s?|Zb W?|v 9
+### a E? Nf?|ff vl?|c E? h o p ooo ff f 6 Hr 9 A?|^
+Qb s?|v 3 ooo cc ^ # vl?|c 3s E? ff y 7?|sl W?|ss E?
+W?|ss * #1 + # mm sl p P #1 ^ R # ff o R
+N v?|y v? mm Qb mm?|mt r? p? o 3s #b?|Cx Cz?|Cx ff 6 # lo?|p   % r? p? = one "2p"-like glyph, split
+Cz?|Cx 2?|z z?|3 Nf?|ff f * s?|v m cc f W?|v #p cl?|cc Nf?|ff
+p?|Phi vl?|c v Qb 3s?|Zb R # ff ^ sl vl?|c E? N W?|v o
+Aq?|+f cc d?|dd 9 Aq?|+f #b 3s xx vl? E? ff t Phi y cl?|cc
+Nf?|ff mm?|mt 3s?|Zb cl?|cc d?|dd J?|z Qb v? W ooo ae?|8 R ### 3s ^
+h ff Aq?|+f cl?|cc o P vl?|c P E? 9 m 3 z?|3 #b ^? ff +
+P J?|z 8?|8p W?|ss NEW2?|#1 9 J?|z Cz?|Cx ff Tr Nf?|ff h R W?|ss
+Phi p?|Phi s?|v Hr s W 8?|8p Nf?|ff Aq?|+f B # 9 mm W?|v ^ 3s?|Zb
+p ooo + #b Hr o n? xx ff c mm?|mt vl?|c 6 h #1
+#1? NEW3?|pa Qb g s?|v # xx p ooo R f Tr Nf?|ff ooo h   % NEW3 = the letters "per" in clear
+o 3s?|g 9 h ooo s?|v z?|3 W E? y ta E? W?|ss s ^   % ta = "tas" in clear, underlined
+xx W?|v # o W?|v W?|v Hr 3s J?|z E? W?|ss mm?|mt Qb h ff   % W?|v W?|v = one connected "2v2v"
+W?|ss 9 Tr ae?|8 3s?|Zb xx ^ f Cz?|Cx a 9 y s?|v sl
+mm W?|v cl?|cc Nf?|ff + E? ff xx B Aq?|+f ff mm?|mt m 9
+W?|ss ### 3s?|Zb g?|9 v Hr ooo R # o f R Tr * 6
+### cc mm Cz?|Cx #p Nf?|ff g?|9 h ff W?|ss p?|Phi o d?|dd s?|v
+% p. 39 (view f51)
+# h 8?|8p h ^ Nf?|ff Tr J?|z E? Phi W?|ss J Aq?|+f ff J?|z o
+# W?|v cc n? R ooo v ^ J?|z E? W?|ss a Nf?|ff # Qb 9   % small raised editorial * before E? (= folio break; margin "*F. 13a")
+mm?|mt f?|Qb x 6 ^ g?|9 v Aq?|+f ooo Phi R s vl?|c g?|9 * 3 W?|v
+v? Hr ooo R g?|9 cl?|cc o E? #b?|Cx N 3?|J mm?|mt mm #p
+Aq?|+f h?|6 R cl?|cc # f Tr ##?|# E? ff Tr o p?|Phi ### xx R
+Hr?|E ^ Aq?|+f #1 J?|z ooo ff h E? L? 9 mm R cl?|cc Nf?|ff   % E? (9th) heavily blotted
+* ^ 3s h ooo sl?|f z?|3 N vl? # ff h v? # E?
+^ mm 9 8?|8p s?|v NEW2?|#1 3s t #b?|Cx f ff 3s Aq?|+f 9 ff
+P s vl?|c g?|sl #1 ^ v? ^ vl?|c mm?|m N 9 xx mm?|mt Aq?|+f v mm   % v? (7th) faint
+E? + v Nf?|ff Aq?|+f #1 ff V?|v Tr d?|dd #p ^ cl?|cc J?|z ##?|#   % ##?|# crossed by a long hairline
+9 mm ooo o ^ v ##?|# Aq?|+f 9?|g Nf?|ff p 7?|sl ff mm   % ##?|# (7th) blotted
+s ae?|8 o + E? 9 f * h 3s x ### ff c v
+xx?|= Qb E? y p v h W?|ss o # Aq?|+f 9 W R E?
+^ o xx?|= E? E? ^ Hr # ff mm 9 m C? W?|ss
+Nf?|ff +d?|A o Phi #1 # ooo 3s?|Zb o ^ Nf?|ff p P W?|ss 8?|8p v?
+m?|mm Cz?|Cx ^ 9 + Qb ae?|8 Nf?|ff g?|9 h 9 3s?|Zb 3s m ff p
+^ ooo 9 # ^ p?|Phi o # vl?|c C?|Cx 3s C? J?|7 ff 9 mm
+ooo h x?|ae g?|9 h # xx?|= J?|z ff A?|a Aq?|+f s?|v # 9 xx ooo
+E? v ^ J?|z # v ^ J?|z #b?|Cx vl? E? h cl?|cc o #p d?|dd
+# 9 B Nf?|ff C? sl?|7 o y s?|v ^ g?|9 n? Qb Hr #1 3s 9
+Hr v cc 3s?|Zb mm ooo c?|vl v h s J?|z a #1 NEW2?|#1 ff
+y a 9 W?|ss #1 W?|v f 9 W?|ss N J?|3 E? #p d?|dd Qb
+s P g?|9 ^ # # B 3s f vous ff Tr Phi s P? 9   % "vous" written in clear letters
+xx?|= o 8?|8p 6 3s z?|3 #b?|Cx W?|v h ff mm 6?|vl Aq?|+f 9 f C?|Cx
+Nf?|ff oo?|ooo o xx?|= ooo J?|7 3s?|Zb C?|Cx d?|dd #b?|Cx f E? Nf?|ff Hr
+J?|z o lo?|p Qb ff xx?|= * Hr 9 3s J?|z #b?|Cx W?|ss v z?|3
+ff # ss t 9 B Nf?|ff C?|Cx mm?|mt ooo Aq?|+f 3s J?|z p?|Phi   % "ss" written as two letters
+#p oo W?|v ff # + Hr 7?|sl E? m 9 J?|z x?|ae ###
+a E? P W?|v ff h o g?|9 9 oo mm 3s Phi ff
+Aq?|+f 6 ^ 9 lo?|p #b?|Cx Hr R W?|v W?|v 3 cc # + 3   % W?|v W?|v = one connected "2v2v"
+100 J 3s R h =?|xx # ff Aq?|+f + v?|L =?|xx Nf?|ff mm?|mt m   % numeral 100; no catchword below

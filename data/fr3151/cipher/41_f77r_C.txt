@@ -1,0 +1,21 @@
+% BnF ms. fr. 3151, no. 41 (Gallica ark:/12148/btv1b9059865k): Seure to Henri II, Lisbon. Another copy of the letter of
+% 12 December 1558 (the same text as no. 44; the library catalogue describes it as a duplicate of no. 40).
+% fo. 77r (view 78, right-hand page): postscript cipher block C; 12 lines.
+% Plaintext: contemporary decipher on fo. 85r-v (data/fr3151/plain/12dec1558_text.tsv, segment C).
+% HELD OUT: block C is not used to build the key (set HC41 in data/sets.tsv).
+% Provisional label: N_lb = upright with a loop on top and a base bar (L04, L07, L11, L12), possibly a variant of Phi.
+% Knots at the end of cup-shaped swashes from the line above were transcribed as signs (o / 8 / oo).
+% Format: one manuscript line per text line; sign labels separated by spaces (see docs/SYMBOLS.md);
+% "%" starts a comment; "Lnn" = line number within the cipher block.
+p s r 7 R 6 ^ Ak #1 # 23 ff +f oo th J Qb sl p Aq s = W x cc Cz +d E 9 # 7 + d   % L01
+Cx = 3 8 ## sl 3 r R ### ff M 6 sl f #b N cc n o ^ #p cc 9 = V + ooo Nf Hr *   % L02
+ff g A mm # 3 +f # 1 + II 3s f R E W c 8 d Hr xx sl h P o + ff # o Nf Hr   % L03
+cc ^ 1 R cl #b 6 +d #p * 3s E y N_lb + n po n #1 mm Qb + o 8p Nf oo ff o Phi R EE J C   % L04
++ ooo Hr #1 d 1 f 6 ^ 3s m S ff 6 sl Aq x cc #p 3 4 # #b z 9 * d   % L05
+= c f o ^ # Aq v xx + Hr ### f ff 8p 3s cc mm ooo ^ xx ff Tr Cx EE Aq # Qb f   % L06
+# 3 sl + 3s ^ R x d 9 ff Hr 1 R s 4 o S # c M 3s N +d ff x #b 7 o s N_lb + 8 xx   % L07
+3 Nf # #b # cl cc + A E 3 Hr ff f * S 9 8 #p mm Qb 3s c E o 7 ff 1 = z S Nf   % L08
+f oo p #1 +d 3s Aq ff 4b v Hr 1 6 3s = #1 S E W mm R ^ 6 * J vl sl Aq + oo ?   % L09
+N 7 # x 9 f Qb z #1 xx S 6 oo Tr Cx m m 3s ff #b cl o c # mm sl ff v Nf oo B   % L10
++ cc 9 f + 3s + #1 ae W Aq Hr A E Qb #1 S ooo N_lb Aq ^ + + Aq * o f 6 * o J sl   % L11
+S 1 N_lb 100 6 E M E z o x R 7 +d Aq Zb Rl Cx W 23 3s N Tr n +o Ak 14 12 =o   % L12

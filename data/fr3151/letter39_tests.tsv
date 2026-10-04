@@ -1,0 +1,26 @@
+% Competing readings of spans of letter 39 that were scored against each other (code/score_reading.py; results quoted
+% in docs/LETTER39.md). Columns: name, transcription file (in data/fr3151/cipher/), span (line.sign, counted from 0,
+% both ends inclusive), candidate readings separated by " | " (letters after normalisation: u for v, i for j;
+% [word] = a word written with one word sign).
+dont noz	39_f71r	L01.1-L02.0	dont noz | dont uoz | dont uo | dont nous
+retraite des ...	39_f71r	L02.17-L03.15	a retraite des musul | a retraite des gens | a retraite des turcs | a retraite des soldatz
+quilz disent uerite	39_f71r	L04.2-L04.19	quilz disent uerite | quilz des sent uerite | silz disent uerite | quilz dessent uerite | qui les sentent uerite
+chose	39_f71r	L05.0-L05.3	chose | liose | lose | rose | close | eose
+autrement	39_f71r	L05.8-L05.15	aultrement | autrement | aultrement et
+laye ... quoy	39_f71r	L05.19-L06.12	laye ses eue quoy | lay sceue quoy | laye les eue quoy | lay sceu quoy | layes eue quoy
+ce me sera plaisir	39_f71r	L07.0-L08.1	ce me sera plaisir den entendre | cesse daplaisir den entendre | ce me sera plaisir de nen tendre
+resolution	39_f71r	L08.2-L08.13	la resolution | la resolucion | laredo surin | la resoluiion | la resolurion
+resolution (alt: L08 sign 8 = vl)	39_f71r_alt	L08.2-L08.13	la resolution | la resolucion | laredo surin | la resolurion
+car commence	39_f71r	L08.14-L09.2	car ia commence | car y commence | carne commence | car commence | car il commence | car desia commence
+on a aprocher du temps	39_f71r	L09.0-L10.1	ence on a aprocher du temps | ence on sait pro cher du temps | ence on a approcher du temps | ence on sa aprocher du temps
+que	39_f71r	L10.2-L10.3	que | quelle | quil
+ses deux ans y auons	39_f71r	L10.16-L11.9	ses deux ans y auons | ses deux ans auons | ses deux ans que auons | ses deux ans nous auons
+pour faicte	39_f71r	L12.3-L12.7	[pour][faict]e | urge | he | ceste | [pour]ce | [pour]faicte
+my faisoit	39_f71r	L13.5-L13.13	my faisoit | my aisoit | mai soit | me faisoit | mauaisoit
+encores	39_f71r	L13.14-L13.20	encores | en mores | en cores | encor es
+au pis aller	39_f71r	L16.14-L17.3	et a pis aller | et au pis aller | et agis aller | et auis aller | et mais aller | et apres aller
+ny ueux que	39_f71r	L17.4-L17.10	ny ueux que | ny eu | ny ueulx que | ny ueux
+necessite	39_f71r	L18.13-L19.0	en necessite | en une ce di e | en neces site | en grande necessite
+tout plein	39_f71r	L19.6-L19.18	tout plein | tout ple in
+dettes	39_f71r	L19.19-L20.6	de dettes ces | de detes ces | de etes ces | deetes ces | de tes ces
+dettes (alt: L20 first sign omitted)	39_f71r_alt	L19.19-L20.5	de dettes ces | de detes ces | de tes ces | dettes ces

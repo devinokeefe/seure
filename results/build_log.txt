@@ -1,0 +1,9 @@
+seed data/key/seed_previous_pass.tsv: 155 signs; 9 sets, 8361 signs (7304 for training)
+iteration 0: training cost 5524.5, signs that change value 1
+   set:cost/signs on their key value/signs  40:761.0/749/1082 44A:895.8/784/1144 44B:301.0/308/428 41A:890.7/747/1083 41B:325.7/293/427 43m:2350.3/2229/3140 HC44:276.3/196/302 HC41:317.3/243/373 HC43:245.6/286/382
+iteration 1: training cost 5522.5, signs that change value 0
+   set:cost/signs on their key value/signs  40:761.0/749/1082 44A:895.8/784/1144 44B:301.0/308/428 41A:890.7/747/1083 41B:323.7/294/427 43m:2350.3/2229/3140 HC44:276.3/196/302 HC41:317.3/243/373 HC43:245.6/286/382
+key (training sets only): 156 signs; key table (all alignments): 159 signs
+signs per letter: no. 40: 1082, no. 44: 1874, no. 41: 1883, no. 43: 3522, no. 39: 405; known plaintext in all: 8361
+confidence: high 46, medium 30, low 83
+compared with data/key/key.csv: 0 of 159 signs have another value (0 of 8361 aligned occurrences, 0.0%); signs in one table only: none

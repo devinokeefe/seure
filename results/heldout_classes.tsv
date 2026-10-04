@@ -1,0 +1,10 @@
+% Word-class precision on held-out block C (code/heldout.py, no key update). Columns: support bin, stability, right, words.
+S1	stable	51	59
+S2	stable	21	32
+S3	stable	37	64
+S1	unstable	17	28
+S2	unstable	3	12
+S3	unstable	19	76
+all	stable	109	155
+all	unstable	39	116
+all	all	148	271

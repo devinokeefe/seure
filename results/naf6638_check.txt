@@ -1,0 +1,42 @@
+NAF 6638: known-plaintext tests of the two cipher blocks against the clear text of the copy.
+cost = alignment cost under a fixed key (lower = better fit); z = (real - mean of the word-shuffled controls) / their standard deviation
+
+== N. 4 (p. 29): 264 signs (70 marked uncertain) against the clear text that follows the block (407 letters, 85 words; the plaintext may run on past the cipher). Key: letter 40 alone.
+real text: cost 252.5; 162 of 264 signs on their key value (61%)
+20 word-shuffles of the same text: cost 358.6 +- 4.6 (lowest 349.7); z = -23.3
+14 windows of equal length from the clear text BEFORE the block (same letter, same subject): cost 369.2 to 383.7
+
+== N. 5 (pp. 35-43): 4284 signs as written
+  dropped p41 line 30 signs 0-13: second copy of a dittography (13 of 14 readings share a label with the first copy)
+  dropped p42 line 0 signs 0-11: second copy of a dittography (12 of 12 readings share a label with the first copy)
+  inserted the clear word "pour" after p41 line 8 sign 12
+  inserted the clear word "po~" after p43 line 13 sign 9
+  inserted the clear word "pour" after p43 line 14 sign 2
+  -> 4261 tokens (4258 cipher signs and 3 clear words) against the clear text from "n'apporte" (p. 29) to the end of p. 34 (1143 words, 5266 letters, footnote of p. 31 inserted at its mark). Key: final key from fr. 3151.
+real text: cost 2856.6; 3088 of 4261 tokens on their key value (72.5%)
+20 word-shuffles: cost 5887.4 +- 10.8 (lowest 5858.8; on key value 1638); z = -280.2
+without the footnote of p. 31: cost 2931.4 (+74.8): the cipher contains the footnote text
+coverage: letters 0-5266 of 5266 aligned (from "napporte" to "dhommes"); 119 letters without a sign; 142 tokens aligned to nothing (88 of them signs whose key value is null)
+the last 9 signs of the block have no plaintext: 30 O? S?|s 12 7 H?|ff A?|^ R A?|^
+
+per page of the cipher (signs of the page against the stretch of text the whole-block alignment gives it; 20 word-shuffles of that stretch)
+page  tokens  letters  text (copy page.line)                                real   shuffled        z   on key value
+p35     488     594   p29.09 "napporte" - p30.14 "attendre"            298.4   664.5 +-  6.5   -56.4   367/488
+p36     482     589   p30.14 "attendre" - p31.01 "il"                  273.9   656.9 +-  6.9   -55.4   378/482
+p37     492     594   p31.01 "ny" - p31.15 "chalupes"                  330.9   681.6 +-  7.2   -49.0   355/492
+p38     484     586   p31.15 "chalupes" - p32.02 "lauoir"              339.3   674.9 +-  6.7   -49.9   338/484
+p39     474     585   p32.02 "lauoir" - p32.20 "augmente"              356.0   666.6 +-  5.9   -52.4   324/474
+p40     464     605   p32.20 "augmente" - p33.07 "aultrement"          308.8   641.5 +-  5.8   -56.9   340/464
+p41     469     612   p33.07 "aultrement" - p33.25 "des"               302.1   651.4 +-  8.3   -42.3   348/469
+p42     445     581   p33.25 "nauires" - p34.11 "pour"                 344.0   631.8 +-  5.4   -53.5   308/445
+p43     463     564   p34.11 "pour" - p34.28 "dhommes"                 321.3   643.3 +-  9.3   -34.4   332/463
+
+variants of the text printed by Falgairolle (1895) against the copy: cost with the copy's words / with the printed words (positive difference = the cipher fits the copy better)
+"mille ou douze cens" / "mil ou onze cens": 2856.6 / 2861.0, difference +4.4
+   of which douze / onze alone: 2856.6 / 2858.8, difference +2.2
+   of which mille / mil alone: 2856.6 / 2858.8, difference +2.2
+clause "pour envoyer hors d'Espaigne ... a Barselonne" present / omitted: 2856.6 / 2897.8, difference +41.2
+"ne trouveront gueres" / "ne trouverons gueres": 2856.6 / 2858.6, difference +2.0
+"sans soy guieres" / "sans ny gueres": 2856.6 / 2858.4, difference +1.8
+"ilz pourroient desmollir" / "ilz porront desmollir": 2856.6 / 2859.0, difference +2.4
+"assez desnuez d'hommes" / "desnuez d'hommes": 2856.6 / 2863.6, difference +7.0

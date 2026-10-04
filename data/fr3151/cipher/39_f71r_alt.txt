@@ -1,0 +1,27 @@
+% BnF ms. fr. 3151, no. 39, fo. 71r (Gallica ark:/12148/btv1b9059865k, view 72): Seure to de Fresne, Lisbon, 12 December 1558.
+% Cipher block of 20 lines. No contemporary decipher of this letter is known.
+% VARIANT of the final reading 39_f71r.txt with two alternative readings, used to test how much the reading of two
+% uncertain passages depends on them (docs/LETTER39.md, "Alternatives"): line 8 sign 8 read vl instead of v;
+% line 20 first sign (3s) omitted, i.e. taken as part of the descender of the ff above it.
+% Format: one manuscript line per text line; sign labels separated by spaces (see docs/SYMBOLS.md);
+% "%" starts a comment; "Lnn" = line number within the cipher block.
+2 * #p 14 = ooo 13 f 6 7   % L01
+n 3 #1 S oo B C = # lo E mm Q R 3 o +f Nf Hr ff ii Qb h   % L02
+o sl M * Aq 1 R 12 z ### f + W ^ Cz +d ### o Cs   % L03
+mm # Q B vl n 6 J z 3s = Aq 3 ff +f Rr Qb 9 P cl Nf   % L04
+1 #1 # 3s z 1 h #b mt ooo +f 3s m ff f Aq Zb mm 9 vl   % L05
+o oo 3s # J ff 3 1 To ^ 6 oo N +d 3s = W #p II Qb 7   % L06
+s ts ff z 1 6 #b 8p vl o # 6 +f R f 3s xx ooo ff f * 7   % L07
++f 3s cl Nf Hr ff W #p vl d +f sl 8 xx + #b 6 C ss m   % L08
+ff mm s #1 f # o 100 #b EE Hr #p p U 9 +f 6 ^ ooo 3s ts   % L09
+g z P c Nf ### C #b oo ff #b +f th V d 3s z ff W R ^   % L10
+x o f # C Nf 3 #1 mm W Aq 1 = d sl + Cx +d o 8p   % L11
+#b Lc m A To Tr V 3s ## ff f 1 W + o oo s N +d 3s =   % L12
+# ff 8 Nf N m Cx 3 #b sl z 6 cc Qb 3s = t #p +f 1 W   % L13
+o ^ #1 # Hr 8p vl 3 # R * 6 d a ooo 3s ## ff mm 1 3   % L14
+ff 3 +d m EE cl d W R m 3s d Hr 1 h # p Cx x ^   % L15
+sl ff +f 1 Wl cl 6 mm Cx d 3s ts ff f Q Rq mt EE cc z   % L16
+o +d E h = Cx ^ ff ^ x P o + th 3s d 1 +f ### 3s Wl   % L17
+R ii 3 x o f # Rl ff z ^ ## # 3s = Ak mm 9 s Wl sl oo   % L18
+ff 4b o Cx 1 ^ 12 Aq #1 14 d Qb 13 EE +d ff 2 cc f R 7   % L19
+Qb 3s z 100 + J Zb R Tr J 12 ff 12 Cz Cx s N Tr x   % L20

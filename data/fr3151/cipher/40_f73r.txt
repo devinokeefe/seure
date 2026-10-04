@@ -1,0 +1,22 @@
+% BnF ms. fr. 3151, no. 40 (Gallica ark:/12148/btv1b9059865k): Seure to Henri II, Lisbon, 27 December 1558.
+% fo. 73r (view 74, right-hand page): cipher lines of the main block.
+% Plaintext: contemporary decipher on fo. 74r (data/fr3151/plain/40_decipher_f74r.txt).
+% Format: one manuscript line per text line; sign labels separated by spaces (see docs/SYMBOLS.md);
+% "%" starts a comment; "Lnn" = line number within the cipher block.
+B To J O s Cs P l ## bar d A # 1 + Ve s z Ca ff 7 g 6 h 100 ff s   % L01
+W ii 9 xx M + x 1 f t 7 = d ooo 6 ff ^ #b Aq +f o Cz xx 9 Hr Ve R 6   % L02
+3 m s f # + +f Ob #1 z + d n N ff #1 ae ff = Ve o ^ mm z d B 7   % L03
+## 1 R Cx cc # W 3s E # P k n z Pb f ooo x Phi sl W Pt n uT Nf 6 #1   % L04
+To x xx ff R ae #b EE 1 +f m # # Q o k 6 Hr R mt 6 #b Q oo g V   % L05
+m a # II 8p 3s # R EE #1 3 6 sl +f ff mm d #p x J Hr 3 = vl cc   % L06
+W E R cl #b Aq ff 6 M s +f o ta ## Hr 1 y Phi 6 k # + sl 3s   % L07
+9 z A h ff t p ^ +f 1 Hr E y pa N O #b J 3s cl o Aq * ff 1 f g   % L08
+ff y #b II Aq Zb Phi 3 # W o mm s R p d Nf #1 Ve sl ff +f Q 6 h   % L09
+* #1 f 1 h +d Nf R # ^ z o W II mm EE c d # 6 Hr 1 Ve E W z 9 =   % L10
+# R 8 sl 3s oo R s g #b oo W t yb #1 ^ ff f ooo * sl 1 mm J Hr Dt mm Ce   % L11
+3s 8 ### ff #b vl o d 1 +f ae Aq y 1 J + Nf * A h +f ff = # E vt R   % L12
+d 3 mm p 2 n Hr 6 x W R ii ae = 1 E ^ * 3s E ooo C m sl Ce c *   % L13
+oo #p uT Aq ff mm 3 #1 Cx 1 Nf oo #1 ^ Ve 3s 6 cx cc # Cx ff = s * *   % L14
+9 ^ 3 3s sl o ff N + n mm 1 E Hr 3 + #1 d h ff t ooo x t 1 # J s   % L15
+sl ### 3s N 6 H ff ff c 1 +f 6 xx Aq 8 # 3s = Nf a h ff ts 9 ? f t R s   % L16
+# Tr cc ^ sl # ### 3s #1 y ff Zb R Hr = ae 1 d 3s W d s ff + V 9 23   % L17

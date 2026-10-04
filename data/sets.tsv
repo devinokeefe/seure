@@ -1,0 +1,14 @@
+% Known-plaintext sets: which cipher files are aligned with which plaintext (used by code/build_key.py).
+% Columns (tab-separated): tag, role (train = used to build the key; heldout = aligned with the final key only),
+% cipher files in reading order (comma-separated), plaintext (file, or segment file#TAG+TAG), band (half-width of the
+% alignment band, in letters), ratio (letters per sign assumed for the band centre; - = letters/signs of the set),
+% endfree (cost per plaintext letter left over at the end; 0 = the plaintext may run on past the cipher).
+40	train	data/fr3151/cipher/40_f73r.txt,data/fr3151/cipher/40_f73v.txt	data/fr3151/plain/40_decipher_f74r.txt	250	-	0.6
+44A	train	data/fr3151/cipher/44_f84r.txt,data/fr3151/cipher/44_f84v.txt	data/fr3151/plain/12dec1558_text.tsv#A	300	-	0.6
+44B	train	data/fr3151/cipher/44_f86r_B.txt	data/fr3151/plain/12dec1558_text.tsv#B	200	-	0.6
+41A	train	data/fr3151/cipher/41_f76r.txt,data/fr3151/cipher/41_f76v.txt	data/fr3151/plain/12dec1558_text.tsv#A	300	-	0.6
+41B	train	data/fr3151/cipher/41_f77r_B.txt	data/fr3151/plain/12dec1558_text.tsv#B	250	-	0.6
+43m	train	data/fr3151/cipher/43_f80r.txt,data/fr3151/cipher/43_f80v.txt,data/fr3151/cipher/43_f81r.txt,data/fr3151/cipher/43_f81v.txt	data/fr3151/plain/12dec1558_text.tsv#CLEAR1+A+CLEAR2+B	400	1.25	0.0
+HC44	heldout	data/fr3151/cipher/44_f86r_C.txt	data/fr3151/plain/12dec1558_text.tsv#C	200	1.2	0.0
+HC41	heldout	data/fr3151/cipher/41_f77r_C.txt	data/fr3151/plain/12dec1558_text.tsv#C	200	-	0.6
+HC43	heldout	data/fr3151/cipher/43_f82r_PS.txt	data/fr3151/plain/12dec1558_text.tsv#C	200	-	0.6

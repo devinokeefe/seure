@@ -1,0 +1,27 @@
+% BnF ms. fr. 3151, no. 44 (Gallica ark:/12148/btv1b9059865k): Seure to Henri II, Lisbon, 12 December 1558.
+% fo. 86r (view 87, right-hand page): cipher block B. L00 = the cipher at the end of the clear-text line
+% "... Calis a ceste fin de janvier"; L01-L18 = the full cipher lines that follow.
+% Plaintext: contemporary decipher on fo. 85r-v (data/fr3151/plain/12dec1558_text.tsv, segment B).
+% Provisional labels: N_Phib = round or two-lobed loop on a short upright with a crossbar under the loop and a base
+% bar (L04, L13), possibly a variant of Phi or ^; 40 = numeral written "4" + small o.
+% Format: one manuscript line per text line; sign labels separated by spaces (see docs/SYMBOLS.md);
+% "%" starts a comment; "Lnn" = line number within the cipher block.
+4b 12 8p 23 ff 2 3 x #b Cz d Cx o Ca   % L00
+mm =o Aq 6 s 14 cl ff 40 1 xx sl ooo cc 3 #b 6 sl + Cx ^ f 3s   % L01
+Wl Aq +f ff R d ## f v Qb t 8 3 S P v p 8 Nf + C 9 W   % L02
+R # EE sl s Hr Q 3s v A c +d #b M xx * ae ff v N 3 mt cl   % L03
+6 +f #p ## 9 f Qb ooo 3s = vl Nf g ff oo f 9 N_Phib s ^ cl x R *   % L04
+Q 3s 8p ff #1 3 R L #b ## mm + ooo t o 12 +d 8 Cx 9 xx ooo 3s   % L05
+f 6 sl # ff xx Aq p Nf Hr Cd E d mt cc * 3 # a f c ##   % L06
+xx sl 3s ### ff f Qb Phi B xx Cx mt +f o P R 3 mm m 9 v + 8   % L07
+Nf mm W ### R g ^ 3s Hr II #b +d o x 8p Nf # v f 9 3 ae   % L08
+3s c Aq E # v #p xx ooo t #b Aq W R Aq 6 ^ Qb ff # p 8 #1 s   % L09
+# ff v s c E N C Qb ## ooo * # p Cx h mm # + ooo 8 ooo 3 3s 6   % L10
+J II xx p 6 Aq 9 L R EE 3 3s # ff f Aq xx Cx #b +d # s o   % L11
+p ooo ff xx 6 Nf f Qb ### 9 cc c E ^ +f Qb 3s t g v P c E   % L12
+mm # ff ^ p v 9 f J sl * 3 N_Phib 12 c N_Phib W +f c N J #1 sl 3s s   % L13
+xx Aq R x Cx Nf f R ^ # c E d Hr E # Qb 3 +f f 3 7   % L14
+B ooo g 8 # xx Qb #b # B ff Cx 1 #p Hr x ff mm #1 ^ xx s   % L15
+9 n d #p oo B f v #b ^ #1 Q 1 xx Aq 3s f 3 6 oo ff R d   % L16
+mm + sl c E v #p ### 9 v vl m 3s p n g ff mm # #1 Q 9 xx   % L17
+ooo N Aq y 12 R 100 ^ # M 9 f ii ooo x +f 14 23 40 R Tr   % L18

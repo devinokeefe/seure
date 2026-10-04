@@ -1,0 +1,251 @@
+Scores = emission + 0.4 * LM, per key variant (none, n5maj, n5orig, n5all); higher is better; * = best of the readings tried for that variant. em = emission alone. "impossible" = the signs cannot give the reading
+even with off-key single letters (a letter group or word sign is needed that the sign never has).
+
+## dont noz: 39_f71r L01.1-L02.0: * #p 14 = ooo 13 f 6 7 n
+reading                                LM       none em / score      n5maj em / score     n5orig em / score      n5all em / score
+'dont noz'                          -14.2      -21.1 /   -26.8*      -20.7 /   -26.4*      -20.7 /   -26.4*      -20.8 /   -26.4*
+      none: *=d #p=o 14=_ ==n ooo=t 13=_ f=n 6=o 7=_ n=z
+'dont uoz'                          -11.7      -25.3 /   -30.0       -24.9 /   -29.6       -24.9 /   -29.6       -25.0 /   -29.7 
+      none: *=d #p=o 14=_ ==n ooo=t 13=_ f=u 6=o 7=_ n=z
+'dont uo'                           -21.2      -30.9 /   -39.4       -30.6 /   -39.0       -30.5 /   -39.0       -30.6 /   -39.1 
+      none: *=d #p=o 14=_ ==n ooo=t 13=_ f=u 6=o 7=_ n=_
+'dont nous'                         -10.1      -31.8 /   -35.8       -31.4 /   -35.4       -31.4 /   -35.4       -31.4 /   -35.5 
+      none: *=d #p=o 14=_ ==n ooo=t 13=_ f=n 6=o 7=u n=s
+
+## retraite des ...: 39_f71r L02.17-L03.15: Nf Hr ff ii Qb h o sl M * Aq 1 R 12 z ### f + W ^ Cz +d
+reading                                LM       none em / score      n5maj em / score     n5orig em / score      n5all em / score
+'a retraite des musul'              -33.5      -51.4 /   -64.8*      -51.4 /   -64.8*      -51.3 /   -64.7*      -51.5 /   -64.9*
+      none: Nf=a Hr=r ff=e ii=_ Qb=t h=r o=a sl=i M=_ *=_ Aq=t 1=e R=de 12=_ z=s ###=m f=u +=_ W=s ^=u Cz=_ +d=l
+'a retraite des gens'               -25.0      -70.1 /   -80.1       -70.1 /   -80.1       -70.0 /   -80.0       -70.2 /   -80.2 
+      none: Nf=a Hr=r ff=e ii=_ Qb=t h=r o=a sl=i M=_ *=_ Aq=t 1=e R=de 12=s z=g ###=e f=n +=_ W=s ^=_ Cz=_ +d=_
+'a retraite des turcs'              -25.7      -69.3 /   -79.6       -69.3 /   -79.5       -69.1 /   -79.4       -69.4 /   -79.6 
+      none: Nf=a Hr=r ff=e ii=_ Qb=t h=r o=a sl=i M=_ *=_ Aq=t 1=e R=de 12=_ z=s ###=t f=u +=r W=c ^=_ Cz=_ +d=s
+'a retraite des soldatz'            -27.3      -77.9 /   -88.8       -77.8 /   -88.8       -77.7 /   -88.6       -77.9 /   -88.8 
+      none: Nf=a Hr=r ff=e ii=_ Qb=t h=r o=a sl=i M=_ *=_ Aq=t 1=e R=de 12=_ z=s ###=s f=o +=l W=d ^=a Cz=t +d=z
+
+## quilz disent uerite: 39_f71r L04.2-L04.19: Q B vl n 6 J z 3s = Aq 3 ff +f Rr Qb 9 P cl
+reading                                LM       none em / score      n5maj em / score     n5orig em / score      n5all em / score
+'quilz disent uerite'               -25.9      -51.3 /   -61.6       -51.3 /   -61.7       -51.3 /   -61.6       -50.9 /   -61.3 
+      none: Q=_ B=qui vl=l n=z 6=d J=i z=s 3s=e ==n Aq=t 3=u ff=e +f=r Rr=i Qb=t 9=e P=_ cl=_
+'quilz des sent uerite'             -36.2      -42.7 /   -57.2*      -42.8 /   -57.3*      -42.8 /   -57.3*      -42.4 /   -56.9*
+      none: Q=_ B=qui vl=l n=z 6=d J=es z=s 3s=e ==n Aq=t 3=u ff=e +f=r Rr=i Qb=t 9=e P=_ cl=_
+'silz disent uerite'                -28.7      -57.9 /   -69.4       -57.9 /   -69.4       -57.9 /   -69.4       -57.5 /   -69.0 
+      none: Q=s B=i vl=l n=z 6=d J=i z=s 3s=e ==n Aq=t 3=u ff=e +f=r Rr=i Qb=t 9=e P=_ cl=_
+'quilz dessent uerite'              -40.6      -42.7 /   -59.0       -42.8 /   -59.0       -42.8 /   -59.0       -42.4 /   -58.6 
+      none: Q=_ B=qui vl=l n=z 6=d J=es z=s 3s=e ==n Aq=t 3=u ff=e +f=r Rr=i Qb=t 9=e P=_ cl=_
+'qui les sentent uerite'            -36.1      -82.3 /   -96.7       -82.3 /   -96.7       -82.3 /   -96.7       -82.4 /   -96.8 
+      none: Q=_ B=qui vl=l n=_ 6=_ J=es z=s 3s=e ==n Aq=t 3=e ff=nt +f=u Rr=e Qb=r 9=i P=t cl=e
+
+## chose: 39_f71r L05.0-L05.3: 1 #1 # 3s
+reading                                LM       none em / score      n5maj em / score     n5orig em / score      n5all em / score
+'chose'                              -7.8            impossible            impossible            impossible            impossible
+'liose'                             -14.5       -7.7 /   -13.5        -7.7 /   -13.5        -7.7 /   -13.5        -7.7 /   -13.5 
+      none: 1=li #1=o #=s 3s=e
+'lose'                              -14.9      -13.2 /   -19.2       -13.2 /   -19.2       -13.2 /   -19.2       -13.2 /   -19.2 
+      none: 1=l #1=o #=s 3s=e
+'rose'                              -16.2       -8.9 /   -15.4        -8.9 /   -15.4        -9.0 /   -15.4        -9.0 /   -15.4 
+      none: 1=r #1=o #=s 3s=e
+'close'                             -18.2            impossible            impossible            impossible            impossible
+'eose'                              -15.9       -5.8 /   -12.1*       -5.8 /   -12.1*       -5.8 /   -12.1*       -5.8 /   -12.1*
+      none: 1=e #1=o #=s 3s=e
+
+## autrement: 39_f71r L05.8-L05.15: mt ooo +f 3s m ff f Aq
+reading                                LM       none em / score      n5maj em / score     n5orig em / score      n5all em / score
+'aultrement'                        -10.5      -15.4 /   -19.6*      -15.4 /   -19.7       -13.4 /   -17.6       -15.4 /   -19.6 
+      none: mt=a ooo=ult +f=r 3s=e m=m ff=e f=n Aq=t
+'autrement'                          -9.8            impossible      -12.5 /   -16.4*      -11.2 /   -15.1*      -12.5 /   -16.4*
+'aultrement et'                     -13.6            impossible            impossible            impossible            impossible
+
+## laye ... quoy: 39_f71r L05.19-L06.12: vl o oo 3s # J ff 3 1 To ^ 6 oo N
+reading                                LM       none em / score      n5maj em / score     n5orig em / score      n5all em / score
+'laye ses eue quoy'                 -50.6      -25.0 /   -45.3       -25.0 /   -45.3       -25.0 /   -45.2       -25.1 /   -45.3 
+      none: vl=l o=a oo=y 3s=e #=s J=es ff=e 3=u 1=e To=q ^=u 6=o oo=y N=_
+'lay sceue quoy'                    -42.6      -36.7 /   -53.7       -36.7 /   -53.7       -36.6 /   -53.7       -36.7 /   -53.8 
+      none: vl=l o=a oo=y 3s=_ #=s J=c ff=e 3=u 1=e To=q ^=u 6=o oo=y N=_
+'laye les eue quoy'                 -39.2      -27.6 /   -43.3*      -27.7 /   -43.3*      -27.6 /   -43.3*      -27.7 /   -43.4*
+      none: vl=l o=a oo=y 3s=e #=l J=es ff=e 3=u 1=e To=q ^=u 6=o oo=y N=_
+'lay sceu quoy'                     -33.1      -39.6 /   -52.8       -39.6 /   -52.9       -39.5 /   -52.8       -39.6 /   -52.9 
+      none: vl=l o=a oo=y 3s=_ #=s J=c ff=e 3=u 1=_ To=q ^=u 6=o oo=y N=_
+'layes eue quoy'                    -43.8      -30.0 /   -47.5       -30.0 /   -47.5       -29.9 /   -47.4       -30.1 /   -47.6 
+      none: vl=l o=a oo=y 3s=e #=s J=_ ff=e 3=u 1=e To=q ^=u 6=o oo=y N=_
+
+## ce me sera plaisir: 39_f71r L07.0-L08.1: s ts ff z 1 6 #b 8p vl o # 6 +f R f 3s xx ooo ff f * 7 +f 3s
+reading                                LM       none em / score      n5maj em / score     n5orig em / score      n5all em / score
+'ce me sera plaisir den entendre'   -48.2      -42.5 /   -61.8*      -42.6 /   -61.9*      -42.5 /   -61.8*      -42.7 /   -61.9*
+      none: s=ce ts=m ff=e z=s 1=e 6=r #b=a 8p=p vl=l o=a #=i 6=si +f=r R=de f=n 3s=e xx=n ooo=t ff=e f=n *=d 7=_ +f=r 3s=e
+'cesse daplaisir den entendre'      -55.4      -45.4 /   -67.6       -45.4 /   -67.6       -45.4 /   -67.5       -45.5 /   -67.7 
+      none: s=ce ts=s ff=_ z=s 1=e 6=d #b=a 8p=p vl=l o=a #=i 6=si +f=r R=de f=n 3s=e xx=n ooo=t ff=e f=n *=d 7=_ +f=r 3s=e
+'ce me sera plaisir de nen tendre'  -50.0      -42.5 /   -62.5       -42.6 /   -62.6       -42.5 /   -62.5       -42.7 /   -62.7 
+      none: s=ce ts=m ff=e z=s 1=e 6=r #b=a 8p=p vl=l o=a #=i 6=si +f=r R=de f=n 3s=e xx=n ooo=t ff=e f=n *=d 7=_ +f=r 3s=e
+
+## resolution: 39_f71r L08.2-L08.13: cl Nf Hr ff W #p v d +f sl 8 xx
+reading                                LM       none em / score      n5maj em / score     n5orig em / score      n5all em / score
+'la resolution'                     -13.2      -30.4 /   -35.7       -30.4 /   -35.7       -30.4 /   -35.7       -30.4 /   -35.7 
+      none: cl=l Nf=a Hr=r ff=e W=s #p=o v=l d=u +f=t sl=i 8=o xx=n
+'la resolucion'                     -18.6      -26.2 /   -33.7       -26.2 /   -33.7       -26.2 /   -33.6       -26.2 /   -33.7 
+      none: cl=l Nf=a Hr=r ff=e W=s #p=o v=l d=u +f=c sl=i 8=o xx=n
+'laredo surin'                      -20.9      -24.9 /   -33.3*      -24.9 /   -33.3*      -24.9 /   -33.3*      -25.0 /   -33.3*
+      none: cl=l Nf=a Hr=r ff=e W=d #p=o v=s d=u +f=r sl=i 8=_ xx=n
+'la resoluiion'                     -24.4      -26.5 /   -36.3       -26.5 /   -36.3       -26.5 /   -36.2       -26.5 /   -36.3 
+      none: cl=l Nf=a Hr=r ff=e W=s #p=o v=l d=u +f=i sl=i 8=o xx=n
+'la resolurion'                     -30.5      -23.0 /   -35.2       -23.0 /   -35.2       -23.0 /   -35.2       -23.0 /   -35.2 
+      none: cl=l Nf=a Hr=r ff=e W=s #p=o v=l d=u +f=r sl=i 8=o xx=n
+
+## resolution (alt: L08 sign 8 = vl): 39_f71r_alt L08.2-L08.13: cl Nf Hr ff W #p vl d +f sl 8 xx
+reading                                LM       none em / score      n5maj em / score     n5orig em / score      n5all em / score
+'la resolution'                     -13.2      -26.5 /   -31.8       -26.5 /   -31.8       -26.5 /   -31.8       -26.6 /   -31.8 
+      none: cl=l Nf=a Hr=r ff=e W=s #p=o vl=l d=u +f=t sl=i 8=o xx=n
+'la resolucion'                     -18.6      -22.3 /   -29.8*      -22.3 /   -29.8*      -22.3 /   -29.7*      -22.4 /   -29.8*
+      none: cl=l Nf=a Hr=r ff=e W=s #p=o vl=l d=u +f=c sl=i 8=o xx=n
+'laredo surin'                      -20.9      -28.1 /   -36.4       -28.1 /   -36.5       -28.0 /   -36.4       -28.1 /   -36.5 
+      none: cl=l Nf=a Hr=r ff=e W=d #p=o vl=s d=u +f=r sl=i 8=_ xx=n
+'la resolurion'                     -30.5      -19.1 /   -31.3       -19.1 /   -31.3       -19.1 /   -31.3       -19.2 /   -31.3 
+      none: cl=l Nf=a Hr=r ff=e W=s #p=o vl=l d=u +f=r sl=i 8=o xx=n
+
+## car commence: 39_f71r L08.14-L09.2: + #b 6 C ss m ff mm s
+reading                                LM       none em / score      n5maj em / score     n5orig em / score      n5all em / score
+'car ia commence'                   -22.9      -28.4 /   -37.5       -28.5 /   -37.6       -28.4 /   -37.6       -28.5 /   -37.7 
+      none: +=_ #b=car 6=i C=a ss=com m=m ff=e mm=n s=ce
+'car y commence'                    -31.1      -17.5 /   -29.9       -17.6 /   -30.0       -17.6 /   -30.0       -17.6 /   -30.0 
+      none: +=c #b=a 6=r C=y ss=com m=m ff=e mm=n s=ce
+'carne commence'                    -19.9      -18.5 /   -26.4       -18.6 /   -26.5       -18.5 /   -26.5       -18.6 /   -26.5 
+      none: +=c #b=a 6=r C=ne ss=com m=m ff=e mm=n s=ce
+'car commence'                      -13.8      -20.6 /   -26.2*      -20.7 /   -26.2*      -20.7 /   -26.2*      -20.7 /   -26.3*
+      none: +=c #b=a 6=_ C=r ss=com m=m ff=e mm=n s=ce
+'car il commence'                   -20.2      -29.5 /   -37.6       -29.6 /   -37.7       -29.6 /   -37.7       -29.6 /   -37.7 
+      none: +=_ #b=car 6=il C=c ss=om m=m ff=e mm=n s=ce
+'car desia commence'                -28.1            impossible            impossible            impossible            impossible
+
+## on a aprocher du temps: 39_f71r L09.0-L10.1: ff mm s #1 f # o 100 #b EE Hr #p p U 9 +f 6 ^ ooo 3s ts g z
+reading                                LM       none em / score      n5maj em / score     n5orig em / score      n5all em / score
+'ence on a aprocher du temps'       -61.4      -42.3 /   -66.8       -42.4 /   -66.9       -42.3 /   -66.8       -42.4 /   -67.0 
+      none: ff=e mm=n s=ce #1=o f=n #=_ o=a 100=_ #b=a EE=p Hr=r #p=o p=c U=h 9=e +f=r 6=d ^=u ooo=t 3s=e ts=m g=p z=s
+'ence on sait pro cher du temps'    -54.8      -42.7 /   -64.6*      -42.7 /   -64.7*      -42.7 /   -64.6*      -42.8 /   -64.7*
+      none: ff=e mm=n s=ce #1=o f=n #=s o=a 100=_ #b=it EE=p Hr=r #p=o p=c U=h 9=e +f=r 6=d ^=u ooo=t 3s=e ts=m g=p z=s
+'ence on a approcher du temps'      -51.1      -50.3 /   -70.8       -50.4 /   -70.8       -50.3 /   -70.7       -50.5 /   -70.9 
+      none: ff=e mm=n s=ce #1=o f=n #=a o=a 100=_ #b=p EE=p Hr=r #p=o p=c U=h 9=e +f=r 6=d ^=u ooo=t 3s=e ts=m g=p z=s
+'ence on sa aprocher du temps'      -74.8      -40.4 /   -70.4       -40.5 /   -70.4       -40.4 /   -70.3       -40.6 /   -70.5 
+      none: ff=e mm=n s=ce #1=o f=n #=s o=a 100=_ #b=a EE=p Hr=r #p=o p=c U=h 9=e +f=r 6=d ^=u ooo=t 3s=e ts=m g=p z=s
+
+## que: 39_f71r L10.2-L10.3: P c
+reading                                LM       none em / score      n5maj em / score     n5orig em / score      n5all em / score
+'que'                                -4.3       -5.1 /    -6.8*       -5.1 /    -6.8*       -5.1 /    -6.8*       -5.1 /    -6.8*
+      none: P=q c=ue
+'quelle'                             -7.2       -5.4 /    -8.3        -4.6 /    -7.4        -4.6 /    -7.4        -4.6 /    -7.4 
+      none: P=que c=lle
+'quil'                               -5.9       -4.8 /    -7.2        -4.8 /    -7.2        -4.8 /    -7.2        -4.8 /    -7.2 
+      none: P=q c=uil
+
+## ses deux ans y auons: 39_f71r L10.16-L11.9: z ff W R ^ x o f # C Nf 3 #1 mm W
+reading                                LM       none em / score      n5maj em / score     n5orig em / score      n5all em / score
+'ses deux ans y auons'              -35.0      -21.5 /   -35.5*      -21.5 /   -35.5*      -21.4 /   -35.4*      -21.5 /   -35.5*
+      none: z=s ff=e W=s R=de ^=u x=x o=a f=n #=s C=y Nf=a 3=u #1=o mm=n W=s
+'ses deux ans auons'                -23.6      -28.0 /   -37.4       -28.0 /   -37.4       -27.9 /   -37.3       -28.0 /   -37.5 
+      none: z=s ff=e W=s R=de ^=u x=x o=a f=n #=s C=_ Nf=a 3=u #1=o mm=n W=s
+'ses deux ans que auons'            -33.3            impossible            impossible            impossible            impossible
+'ses deux ans nous auons'           -28.4            impossible            impossible            impossible            impossible
+
+## pour faicte: 39_f71r L12.3-L12.7: A To Tr V 3s
+reading                                LM       none em / score      n5maj em / score     n5orig em / score      n5all em / score
+'[pour][faict]e'                    -27.4      -12.4 /   -23.4       -11.5 /   -22.4       -11.1 /   -22.0       -11.5 /   -22.5 
+      none: A=[pour] To=_ Tr=_ V=[faict] 3s=e
+'urge'                              -14.4      -14.1 /   -19.9*      -14.1 /   -19.9*      -15.7 /   -21.5       -14.2 /   -20.0 
+      none: A=ur To=_ Tr=_ V=g 3s=e
+'he'                                -10.2      -16.0 /   -20.1       -16.0 /   -20.1       -16.0 /   -20.1*      -15.6 /   -19.7*
+      none: A=_ To=_ Tr=_ V=h 3s=e
+'ceste'                              -6.4      -22.3 /   -24.8       -22.3 /   -24.8       -22.3 /   -24.8       -17.3 /   -19.8 
+      none: A=c To=est Tr=_ V=_ 3s=e
+'[pour]ce'                          -10.9      -19.4 /   -23.7       -18.8 /   -23.1       -18.4 /   -22.7       -18.8 /   -23.2 
+      none: A=[pour] To=_ Tr=_ V=c 3s=e
+'[pour]faicte'                      -27.4      -25.3 /   -36.3       -24.7 /   -35.7       -24.3 /   -35.3       -24.2 /   -35.1 
+      none: A=[pour] To=f Tr=a V=ict 3s=e
+
+## my faisoit: 39_f71r L13.5-L13.13: m Cx 3 #b sl z 6 cc Qb
+reading                                LM       none em / score      n5maj em / score     n5orig em / score      n5all em / score
+'my faisoit'                        -21.3      -18.2 /   -26.7       -18.2 /   -26.8       -18.2 /   -26.7       -18.2 /   -26.8 
+      none: m=m Cx=y 3=f #b=a sl=i z=s 6=o cc=i Qb=t
+'my aisoit'                         -27.1      -18.4 /   -29.3       -18.5 /   -29.4       -18.5 /   -29.3       -18.5 /   -29.4 
+      none: m=m Cx=y 3=_ #b=a sl=i z=s 6=o cc=i Qb=t
+'mai soit'                          -13.7      -20.7 /   -26.2*      -20.8 /   -26.3*      -20.7 /   -26.2*      -20.8 /   -26.3*
+      none: m=m Cx=_ 3=_ #b=a sl=i z=s 6=o cc=i Qb=t
+'me faisoit'                        -12.7      -22.8 /   -27.8       -22.8 /   -27.9       -22.8 /   -27.9       -22.8 /   -27.9 
+      none: m=m Cx=e 3=f #b=a sl=i z=s 6=o cc=i Qb=t
+'mauaisoit'                         -26.5      -18.7 /   -29.3       -18.8 /   -29.4       -18.7 /   -29.3       -18.8 /   -29.4 
+      none: m=m Cx=a 3=u #b=a sl=i z=s 6=o cc=i Qb=t
+
+## encores: 39_f71r L13.14-L13.20: 3s = t #p +f 1 W
+reading                                LM       none em / score      n5maj em / score     n5orig em / score      n5all em / score
+'encores'                            -7.8      -14.9 /   -18.0       -14.9 /   -18.0       -14.9 /   -18.0       -14.9 /   -18.0 
+      none: 3s=e ==n t=c #p=o +f=r 1=e W=s
+'en mores'                          -13.4      -12.4 /   -17.8*      -11.8 /   -17.2*      -11.8 /   -17.2*      -11.8 /   -17.2*
+      none: 3s=e ==n t=m #p=o +f=r 1=e W=s
+'en cores'                          -12.4      -14.9 /   -19.8       -14.9 /   -19.8       -14.9 /   -19.8       -14.9 /   -19.8 
+      none: 3s=e ==n t=c #p=o +f=r 1=e W=s
+'encor es'                          -31.1      -14.9 /   -27.3       -14.9 /   -27.3       -14.9 /   -27.3       -14.9 /   -27.3 
+      none: 3s=e ==n t=c #p=o +f=r 1=e W=s
+
+## au pis aller: 39_f71r L16.14-L17.3: Q Rq mt EE cc z o +d E h
+reading                                LM       none em / score      n5maj em / score     n5orig em / score      n5all em / score
+'et a pis aller'                    -34.9      -20.9 /   -34.9       -21.0 /   -34.9       -23.5 /   -37.4       -20.9 /   -34.9 
+      none: Q=_ Rq=et mt=a EE=p cc=i z=s o=a +d=l E=le h=r
+'et au pis aller'                   -32.5      -30.5 /   -43.5       -20.2 /   -33.2       -18.9 /   -31.9       -20.2 /   -33.2 
+      none: Q=et Rq=a mt=u EE=p cc=i z=s o=a +d=l E=le h=r
+'et agis aller'                     -24.6      -23.1 /   -32.9*      -23.1 /   -33.0*      -25.6 /   -35.5       -23.1 /   -32.9*
+      none: Q=_ Rq=et mt=a EE=g cc=i z=s o=a +d=l E=le h=r
+'et auis aller'                     -21.7      -28.6 /   -37.3       -24.3 /   -33.0       -23.0 /   -31.7*      -24.3 /   -33.0 
+      none: Q=_ Rq=et mt=a EE=u cc=i z=s o=a +d=l E=le h=r
+'et mais aller'                     -20.4      -31.5 /   -39.7       -31.6 /   -39.8       -34.1 /   -42.3       -31.5 /   -39.7 
+      none: Q=et Rq=m mt=a EE=_ cc=i z=s o=a +d=l E=le h=r
+'et apres aller'                    -23.5      -29.2 /   -38.6       -29.3 /   -38.7       -31.8 /   -41.2       -29.2 /   -38.7 
+      none: Q=_ Rq=et mt=a EE=_ cc=p z=res o=a +d=l E=le h=r
+
+## ny ueux que: 39_f71r L17.4-L17.10: = Cx ^ ff ^ x P
+reading                                LM       none em / score      n5maj em / score     n5orig em / score      n5all em / score
+'ny ueux que'                       -22.3      -11.0 /   -19.9*      -10.1 /   -19.0*      -10.1 /   -19.0*      -10.1 /   -19.0*
+      none: ==n Cx=y ^=u ff=e ^=u x=x P=que
+'ny eu'                             -14.1      -20.0 /   -25.6       -20.0 /   -25.6       -20.0 /   -25.6       -19.6 /   -25.2 
+      none: ==n Cx=y ^=_ ff=e ^=u x=_ P=_
+'ny ueulx que'                      -20.5            impossible            impossible            impossible            impossible
+'ny ueux'                           -19.1      -14.0 /   -21.7       -14.0 /   -21.7       -14.0 /   -21.7       -13.6 /   -21.2 
+      none: ==n Cx=y ^=u ff=e ^=u x=x P=_
+
+## necessite: 39_f71r L18.13-L19.0: 3s = Ak mm 9 s Wl sl oo ff
+reading                                LM       none em / score      n5maj em / score     n5orig em / score      n5all em / score
+'en necessite'                      -11.9      -21.6 /   -26.3*      -21.6 /   -26.3*      -21.6 /   -26.3*      -21.6 /   -26.4*
+      none: 3s=e ==n Ak=_ mm=n 9=e s=ce Wl=ss sl=i oo=t ff=e
+'en une ce di e'                    -27.7      -30.6 /   -41.6       -30.6 /   -41.7       -30.6 /   -41.7       -30.6 /   -41.7 
+      none: 3s=e ==n Ak=u mm=n 9=e s=ce Wl=d sl=i oo=_ ff=e
+'en neces site'                     -18.5      -21.6 /   -28.9       -21.6 /   -29.0       -21.6 /   -29.0       -21.6 /   -29.0 
+      none: 3s=e ==n Ak=_ mm=n 9=e s=ce Wl=ss sl=i oo=t ff=e
+'en grande necessite'               -16.4            impossible            impossible            impossible            impossible
+
+## tout plein: 39_f71r L19.6-L19.18: 12 Aq #1 14 d Qb 13 EE +d ff 2 cc f
+reading                                LM       none em / score      n5maj em / score     n5orig em / score      n5all em / score
+'tout plein'                        -19.3      -29.7 /   -37.4*      -29.3 /   -37.0*      -29.3 /   -37.0*      -29.3 /   -37.1*
+      none: 12=_ Aq=t #1=o 14=_ d=u Qb=t 13=_ EE=p +d=l ff=e 2=_ cc=i f=n
+'tout ple in'                       -27.7      -29.7 /   -40.8       -29.3 /   -40.4       -29.3 /   -40.3       -29.3 /   -40.4 
+      none: 12=_ Aq=t #1=o 14=_ d=u Qb=t 13=_ EE=p +d=l ff=e 2=_ cc=i f=n
+
+## dettes: 39_f71r L19.19-L20.6: R 7 3s Qb 3s z 100 + J
+reading                                LM       none em / score      n5maj em / score     n5orig em / score      n5all em / score
+'de dettes ces'                     -19.1      -31.1 /   -38.8       -31.2 /   -38.8       -31.2 /   -38.8       -31.2 /   -38.8 
+      none: R=de 7=d 3s=e Qb=t 3s=t z=_ 100=_ +=esc J=es
+'de detes ces'                      -27.7      -20.7 /   -31.8       -20.7 /   -31.8       -20.8 /   -31.8       -20.8 /   -31.8 
+      none: R=de 7=d 3s=e Qb=t 3s=e z=s 100=_ +=c J=es
+'de etes ces'                       -35.3      -14.3 /   -28.4       -14.3 /   -28.4       -14.3 /   -28.4       -14.3 /   -28.5 
+      none: R=de 7=_ 3s=e Qb=t 3s=e z=s 100=_ +=c J=es
+'deetes ces'                        -30.7      -14.3 /   -26.5       -14.3 /   -26.6       -14.3 /   -26.6       -14.3 /   -26.6 
+      none: R=de 7=_ 3s=e Qb=t 3s=e z=s 100=_ +=c J=es
+'de tes ces'                        -20.3      -17.4 /   -25.5*      -17.4 /   -25.5*      -17.4 /   -25.5*      -17.5 /   -25.6*
+      none: R=de 7=_ 3s=_ Qb=t 3s=e z=s 100=_ +=c J=es
+
+## dettes (alt: L20 first sign omitted): 39_f71r_alt L19.19-L20.5: R 7 Qb 3s z 100 + J
+reading                                LM       none em / score      n5maj em / score     n5orig em / score      n5all em / score
+'de dettes ces'                     -19.1      -36.4 /   -44.0       -36.4 /   -44.0       -36.4 /   -44.0       -36.4 /   -44.1 
+      none: R=de 7=_ Qb=d 3s=e z=t 100=t +=esc J=es
+'de detes ces'                      -27.7      -30.8 /   -41.9       -30.8 /   -41.9       -30.8 /   -41.9       -30.9 /   -41.9 
+      none: R=de 7=_ Qb=d 3s=e z=t 100=_ +=esc J=es
+'de tes ces'                        -20.3      -12.9 /   -21.0*      -12.9 /   -21.0*      -12.9 /   -21.0*      -12.9 /   -21.1*
+      none: R=de 7=_ Qb=t 3s=e z=s 100=_ +=c J=es
+'dettes ces'                        -14.6      -16.2 /   -22.0       -16.2 /   -22.0       -16.2 /   -22.0       -16.2 /   -22.0 
+      none: R=de 7=t Qb=t 3s=e z=s 100=_ +=c J=es

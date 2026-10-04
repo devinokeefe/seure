@@ -1,0 +1,121 @@
+% Key from letter 40 alone (fo. 73r-v against the decipher on fo. 74r), made at the first stage of the work, before
+% the sign classes oo/ooo, 8/8p, p/po, cc/cl, t/ts were split. Used (1) as an alternative starting key for
+% code/build_key.py --seed, to show how far the result depends on the seed; (2) as the fixed key of the tests that
+% were run at that stage (code/keyfit_control.py, the N. 4 test of code/naf6638_check.py).
+% Columns: sign, value, evidence, distribution of aligned units.
+ff	e	36/46	e:36 _:3 s:1 as:1 nt:1 n:1 a:1 u:1 la:1
+#	s	19/35	s:19 i:9 _:6 of:1
+1	e	25/32	e:25 _:4 lz:1 il:1 n:1
+R	de	29/32	de:29 _:2 i:1
+#1	o	24/31	o:24 _:3 s:2 e:1 [marie]:1
+3s	e	26/31	e:26 _:3 c:1 po:1
+xx	n	25/29	n:25 p:1 nne:1 _:1 do:1
+6	o	11/28	o:11 _:5 r:3 d:3 p:1 u:1 e:1 i:1 er:1 den:1
+E	le	16/27	le:16 n:2 _:2 l:1 [leuer]:1 ett:1 es:1 f:1 p:1 r:1
+*	d	10/25	d:10 ss:2 _:2 s:2 b:1 po:1 lz:1 res:1 q:1 as:1 [royne]:1 [despaigne]:1 mm:1
+d	u	13/24	u:13 h:2 a:2 on:1 ai:1 ff:1 r:1 d:1 i:1 _:1
+Hr	r	20/24	r:20 arm:1 po:1 m:1 _:1
+W	s	20/22	s:20 n:1 _:1
+#b	a	19/22	a:19 r:1 ain:1 _:1
+s	ce	10/21	ce:10 _:4 t:2 c:1 q:1 ep:1 iff:1 roy:1
+f	n	16/21	n:16 i:3 o:1 _:1
+oo	t	10/21	t:10 y:7 _:2 n:1 ye:1
+o	a	18/21	a:18 il:1 me:1 rty:1
+mm	n	18/21	n:18 _:2 c:1
++	t	5/20	t:5 c:4 _:2 m:1 fic:1 l:1 sc:1 cal:1 s:1 [lest]:1 o:1 go:1
+^	u	16/20	u:16 _:2 m:1 e:1
++f	r	15/19	r:15 i:2 s:1 _:1
+Aq	t	11/18	t:11 _:3 i:1 il:1 r:1 o:1
+3	u	11/18	u:11 e:3 _:3 p:1
+h	r	13/17	r:13 s:1 e:1 z:1 _:1
+9	e	15/16	e:15 rs:1
+t	m	4/16	m:4 _:3 t:3 n:2 c:1 u:1 nu:1 ict:1
+n	z	14/16	z:14 s:1 [aussi]:1
+Nf	a	13/16	a:13 _:2 car:1
+p	c	9/16	c:9 il:3 ou:1 f:1 uff:1 p:1
+x	y	4/15	y:4 i:2 g:2 c:1 q:1 s:1 di:1 x:1 _:1 p:1
+sl	i	13/14	i:13 _:1
+m	m	6/13	m:6 _:2 x:1 e:1 u:1 a:1 oys:1
+cc	l	6/12	l:6 i:3 _:1 tar:1 bi:1
+8	p	4/12	p:4 o:3 b:2 om:1 ou:1 _:1
+vl	l	10/12	l:10 g:2
+J	es	8/11	es:8 e:1 _:1 p:1
+z	s	5/11	s:5 g:2 u:1 po:1 luy:1 ff:1
+#p	o	9/11	o:9 is:1 p:1
+##	i	8/10	i:8 m:1 _:1
+Ve	t	3/10	t:3 r:3 _:2 que:2
+=	n	10/10	n:10
+N	qui	10/10	qui:10
+c	y	3/10	y:3 f:3 l:1 i:1 il:1 o:1
+v	s	8/10	s:8 el:1 sfa:1
+B	s	4/9	s:4 o:1 tr:1 d:1 tre:1 _:1
+ooo	t	7/9	t:7 u:1 es:1
+A	ur	5/8	ur:5 [pour]:2 _:1
+7	est	2/7	est:2 _:2 a:1 e:1 m:1
+ae	[portugal]	2/7	[portugal]:2 i:2 toi:1 t:1 et:1
+2	t	2/7	t:2 _:2 qu:1 que:1 p:1
+P	q	3/6	q:3 que:3
+Cx	g	4/6	g:4 y:2
+y	s	3/6	s:3 arg:1 e:1 dit:1
+C	pa	3/6	pa:3 per:1 y:1 a:1
+Qb	t	6/6	t:6
+g	p	5/5	p:5
+M	_	5/5	_:5
+Phi	onf	1/5	onf:1 [armez]:1 p:1 e:1 t:1
+V	h	2/5	h:2 [faict]:1 ict:1 fa:1
+Zb	et	2/5	et:2 _:2 ge:1
++d	l	5/5	l:5
+###	m	5/5	m:5
+k	ue	1/4	ue:1 cc:1 t:1 g:1
+a	l	1/4	l:1 i:1 b:1 u:1
+II	p	1/4	p:1 n:1 o:1 r:1
+23	_	3/4	_:3 s:1
+th	h	4/4	h:4
+To	i	1/3	i:1 _:1 moy:1
+l	ue	1/3	ue:1 il:1 les:1
+EE	p	3/3	p:3
+Q	et	2/3	et:2 o:1
+ta	nau	2/3	nau:2 [nauires]:1
++2	i	3/3	i:3
+r	i	1/3	i:1 g:1 _:1
+O	t	1/2	t:1 y:1
+100	_	2/2	_:2
+ii	_	2/2	_:2
+Ob	l	1/2	l:1 ur:1
+uT	l	1/2	l:1 n:1
+Ce	ge	1/2	ge:1 s:1
+vt	s	1/2	s:1 l:1
+?	_	2/2	_:2
+8b	r	1/2	r:1 t:1
+Cd	p	1/2	p:1 y:1
+12	ue	1/2	ue:1 [lest]:1
+L	e	1/2	e:1 deb:1
+Cs	e	1/1	e:1
+bar	_	1/1	_:1
+Ca	e	1/1	e:1
+Cz	p	1/1	p:1
+Pb	o	1/1	o:1
+Pt	que	1/1	que:1
+mt	a	1/1	a:1
+pa	ent	1/1	ent:1
+yb	r	1/1	r:1
+Dt	a	1/1	a:1
+cx	il	1/1	il:1
+H	lz	1/1	lz:1
+Tr	p	1/1	p:1
+C3	a	1/1	a:1
+S	si	1/1	si:1
+ss	q	1/1	q:1
+tl	u	1/1	u:1
+U	h	1/1	h:1
+Ak	di	1/1	di:1
+Lam	s	1/1	s:1
+#x	li	1/1	li:1
+4	est	1/1	est:1
+ca	la	1/1	la:1
+ma	e	1/1	e:1
+Il	_	1/1	_:1
+dd	_	1/1	_:1
+30	_	1/1	_:1
+13	_	1/1	_:1
+Td	[castille]	1/1	[castille]:1

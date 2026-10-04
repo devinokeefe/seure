@@ -1,0 +1,10 @@
+% BnF ms. NAF 6638, piece "N. 4", p. 29 (Gallica ark:/12148/btv1b525105423, view f41): the clear text that stands immediately
+% AFTER the cipher block, in the first reading made of it (accents not marked; line breaks not those of the copy).
+% The later line-by-line transcription of the same lines is the p. 29 part of copy_p29-34.txt; it differs in one
+% word (line 7: "toutes l'esperance", here "toute"). Kept because the N. 4 test quoted in docs/NAF6638.md was run on
+% this file (code/naf6638_check.py).
+Par ou Vostre majeste peult veoir que l'occasion dont il luy a pleu m'escripre est passee a cause de la venue
+de la flotte, et neantmoins puis que elle est en ceste bonne volunte d'entendre a telles et si necessaires
+besongnes, et que asseurement toute l'esperance de vostre ennemy, si vous n'avez la paix, est mise sur l'aller et
+retour de ceste ditte flotte qui va maintenant, laquelle, encores que elle n'apporte riens des repartimens,
+amenera certainement troys ou quatre millions d'or pour les partyes

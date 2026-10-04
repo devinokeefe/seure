@@ -1,0 +1,181 @@
+% BnF ms. NAF 6638, piece "N. 5" (Gallica ark:/12148/btv1b525105423): cipher block, pp. 35-43 of the copy (views f47-f55).
+% Seure to Henri II, Lisbon, 12 February 1559; 19th-century copy of St Petersburg, National Library of Russia,
+% Dubrovsky autographs ms. 110 (the copy's margin marks the folios of the original: F. 12a to F. 14a).
+% Transcribed from the images, 2026-10-04. One line per line of the COPY. A comment line "% p. NN" starts a page.
+% Notation as in N4_p29.txt: label? = uncertain; a?|b = best guess a, alternative b.
+% THIS FILE: pp. 40-43 (views f52-f55), the last four pages of the cipher block; clear text resumes on p. 44
+% (view f56). 31 lines per page. In the comments, "Lnn" = line of the page counted from 0 and "sign k" = sign
+% of the line counted from 0.
+% Copy-shape -> label conventions: as N5_p35-36.txt and N4_p29.txt, plus these, fixed on these pages:
+%   ≈ (two rows, light or with hooks) -> = ; ≋ (three rows / heavy stacked) -> xx  [weight is not always clear; = and xx are both n]
+%   ꝛꝛ / "2v" / "2zv~" (two r-rotundas run together) -> rr? ; ꝛ with long lead-in -> r? ; small ʀ with top loop -> r?|R
+%   LL / KK with curly feet but NO bar -> Hr? ; ŁŁ with bar -> Hr ; ££ / ℓℓ struck -> E?|Hr ; ℓt / Ot struck -> E? or Q?|E (loop closed)
+%   box with stem (中/4-like) -> #b ; the same with an extra inner stroke or crossbar -> #b?|Cx
+%   ß crossed by a slash ($-like) -> 3s?|B ; ß with lead-in (no slash) -> B
+%   "5" (S with flat top bar) -> z?|3 ; S-hook without top bar -> s?|z ; small cursive s -> s ; ζ/ξ (ʒ with top hook/curl) -> z
+%   cursive h family: diagonal ascender (looped or not) + hump + descender to lower left -> h (short, no descender -> h?|6)
+%   fork-top S-tail (ɣ/ʏ with S-shaped tail) -> y?|v ; y with straight tail -> y
+%   cross with arched/drooping arm (ꭓ crossed) -> +d?|x ; plain + -> + ; α pierced by slash -> Aq?|+d ; small θ/ø crossed -> Aq?|+f
+%   small e -> vl?|c ; tall ℓℓ -> cc ; small ee -> cl?|cc ; "Res" (one cursive group) -> R vl?|c s (as p35) ; "yer~" -> y vl?|c r?
+%   ∂d -> d?|dd ; ∂e / ∂ with small loop -> d?|Q ; ∂ alone -> d
+%   ρ / ♀ (loop on a stem, often with lead-in) -> lo?|p ; looped ℓ / ℒ / "<"-L -> L?|lo
+%   C with loop on top -> C?|Q ; C enclosing ʒ -> Cz?|Cx ; C with small r/c inside -> Cx?|Cz or Cx?|C ; { / open C with hook -> C?
+%   G (C with inner tongue, no slash; p40 L19, p43 L18, L25) -> Cx? ; G crossed by a slash -> Phi?|6 ; ∞ pierced by a slash -> Phi?|oo
+%   & / big ℰ with two loops and a tail -> ae?|8 or ae?|C ; ȣ / 8 with top flourish -> 8?|8p ; ℊ / ϱ-like open g -> g?|9
+%   √ + arrow -> V ^ ; √7 -> V?|7 ; closed-top 4 with curl -> 4b?|4 ; numerals written as such: 12 13 14 30 40 100
+%   "pa" group -> pa ; "ma" group -> ma ; "tas/las" -> ta ; capital M with loop -> mm?|M ; π (small, only p43 L30) -> Nf? (SYMBOLS: "ʎ/π-like")
+%   ⊙ (circle with dot, p43 L30) -> O? ; final "HARA" (p43 L30) -> H?|ff A?|^ R A?|^ (the "H" is an ff-like double upright with bar)
+% NEW shapes (provisional labels, no key value):
+%   NEW1 (p42 L14 sign 0): long ʃ-curve rising to a flat top bar ending in a down-hook, with a heavy small closed loop inside
+%        (like "∫" + bar + "o"). Nearest labels: To (7/τ with loop)? Phi?
+%   NEW2 (p42 L22 sign 6): lower bowl of a ʒ joined at a blob to a tall arch (∩) rising to the right. Possibly ʒ+η run together
+%        or an S/ß variant.
+% NOT cipher signs (kept out of the token lines, noted in comments):
+%   - clear words in the copy's text hand: "pour" p41 L08 (after sign 13), "po~" (pour abbreviated?) p43 L13 (after sign 9),
+%     "pour" p43 L14 (after sign 2). If "po~" is instead cipher, it would read p o.
+%   - folio-break marks: raised small * in the text matching margin notes "*F.13b" (p41 L02, between ooo and W?|ss) and
+%     "*F.14a" (p43 L07, between 3 and R). (p35 had "F. 12a".)
+%   - copyist dots: p40 L14 after #p and after ff; p40 L19 comma after Qb; p40 L20 after 6 and after v; p42 L00 after ta;
+%     p42 L21 after mt?|m and after v; p42 L29 after v; p43 L07 under f (sign 5); p43 L15 free-standing dot after sign 3;
+%     p43 L23 over 9 (sign 2) and after h (sign 5); p43 L24 under P (sign 6); final full stop after HARA.
+% STRUCTURE:
+%   - DITTOGRAPHY: p41 L28 signs 1-13 + p41 L29 (26 signs, "#p d ... Qb | 3 C?|Q 9 mm # ff + # vl?|c E? L?|lo R y?|v") are
+%     copied again as p41 L30 + p42 L00 signs 0-11; the text then goes on with "ta". The two copies differ in shape here and
+%     there (d?|dd vs d?|Q; #b?|Cx vs #b; 3 vs 3s; ʏ vs y). Kept as written (not deleted).
+%   - corrected / overwritten / blotted signs: p40 L16 f?|sl; p41 L13 "7?|sl 3s?" (overlapping strokes); p42 L04 sign 0
+%     (3s?|Qb) and E?; p42 L08 t?|+; p43 L13 ff (sign 7, re-inked); p43 L19 g?|9 (blotted); p43 L20 f?|sl (blotted);
+%     p43 L25 E?|Hr (sign 5) is struck by an unusually long bar, possibly a deletion.
+%   - no catchwords. The cipher ends on p43 L30 "14 π ff w 100 B 30 ⊙ S 12 7 HARA." The sign before 7 is written
+%     "12" in the copy.
+% Context after (p. 44, clear text, first lines as written in the copy):
+%   "Au demeurant, Sire, je vous supplye tres hum-|blement me rappeller de cest charge et | m'envoyer ung successeur,
+%   si tant est que | aiez volunté et qu'il vous semble necessaire | de tenir ambassadeur par deça, dont à la |
+%   verité il n'est pas grant besoing, ce me | semble; je ne vous y faiz nul service et ..."
+% p. 40 (view f52)
+9 f Qb 3s o Aq?|+f v = #b?|Cx vl?|c ^ Nf?|ff Hr? #p N o
+3 + 7?|sl ooo 3s d?|dd Nf?|ff E? h ff v? ^ + cc
+mm C?|Q ta 7?|sl Tr A?|^ Hr # L?|lo #p Aq?|+f ooo 9 *
+mt?|m E? Hr 3s Qb #b?|Cx xx ooo Qb f J?|7 g?|9 #1 # s?|z
+ae?|8 E? R z?|3 v h ff o Aq?|+f ### ff Hr ta cl?|cc J 9
+3s = ^ #1 n? lo?|p #1 W Qb ff # N z?|3 v 7?|sl 9
+= E? A?|^ Phi?|6 7 #p h ooo 3s Aq?|+f R Aq?|+f cl?|cc Nf?|ff = s
+P Hr W rr? #1 Hr E? d?|dd Cz?|Cx o oo # C?|Q t
+### #p?|#b Hr Nf?|ff mm z?|3 N W v = Qb d o a # ooo
+Nf?|ff = # L?|lo R +?|+d #b f ff mm o * +f?|^ 7?|sl z?|3
+9 = E? L?|lo R + #b x? m R? vl?|8 n? p? ff cc
+Hr 9 = Qb R s?|z f # 3s Aq?|+f ff + 9 mm ooo
+P E?|Hr ae?|8 Nf?|ff z v = R p vl?|c 3s Aq?|+f ff # z?|3
+#1 h E? ##?|# Qb N c ff 3 ooo #p *?|x Nf?|ff B #1
+f P 6 v? xx #b cl?|cc d?|dd o Hr #p z ff Qb
+#1 ^ h mm o 9 f #b?|Cx Aq?|+f 7?|sl 3s Hr ff Phi ###
+9 = Nf?|ff g?|9 +d?|x d?|dd z?|3 rr? h? #b?|Cx = Cz?|Cx f?|sl + m
+ae?|8 Aq?|+f 3s R ta N vl?|c = #b?|Cx 3 v # Qb s o +
+#p d?|dd z?|3 ooo ^ t ff ff?|ss R p J?|7 9 g?|9 Aq?|+f 3s m
+7?|sl ff Hr 9 Qb s?|z v 3 # 3s?|B mm ff Cx? 3s d?|dd
+9 = ooo 6 v ^ a E? 3s m h + Nf?|ff h g?|9 c
+mt?|m cl?|cc Qb rr? ^ ae?|8 +d?|x # ff Aq?|+f N vl?|c n? 3?|z #1?|Qb
+f ooo W o o + #b?|Cx cc r? 9 Aq?|+f E? y vl?|c ff
+mm o h # 3s?|B # W?|ss m ff g?|9 n? p?|Phi 9 Aq?|+f v # 9
+xx E? Nf?|ff cc y 3s t 9 f Qb ff = g?|9 Nf?|ff y?|v
+#b?|Cx = E? # o oo 3s?|B 7?|sl Qb 9 mm * ^ C? R
+# rr? #p h ooo z?|3 Cz?|Cx Nf?|ff c?|C W z?|3 9 + Aq?|+f
+ff E?|Q 3s m 9 f Qb R?|Rl lo?|p z?|2 vl?|c v #1 y
+ff #b?|Cx y?|3s 3s?|B d?|Q d? ff W 3s # mt?|m cl?|cc v
+mm Cz?|Cx R vl?|c o h? 7?|sl 3 oo 9 Aq?|+f ff R y?|v
+Nf?|ff ### o n? #p Qb 3s W mm?|mt ooo Hr 9 m
+% p. 41 (view f53)
+ff xx ooo y?|v 3s #1 s?|z 9 x?|ae o f #b?|Cx lo?|p V?|7 +d?|x Nf?|ff
+g?|9 c ^ # rr? Aq?|+f Nf?|ff mm R Hr cc ^ C? 3 s?|z
+9 6 #1 = Qb +d?|x 6 f #b 7?|sl C?|Cz ooo W?|ss Cz?|Cx f v 7?|sl   % raised small * between ooo and W?|ss = folio mark (margin "*F.13b"), not transcribed
+z?|3 Nf?|ff = s Phi 9 h 3s = 6 3 Nf?|ff mm o Hr? #
+#b?|Cx f s mt?|m N ooo * ^ R vl?|c s 4b?|4 + v z?|3 Aq?|+f Qb To?
+d?|dd o B ### cc vl?|c E?|Hr cl?|cc # ff z?|3 3s W # #p
+^ a n? E? N = #1?|Qb + 7?|sl Nf?|ff +d?|x 9 vl?|c E?|Hr J R *
+cc p?|Phi # p 7?|sl vl?|c Hr 3s Qb ff A?|^ ta h 8?|8p
+mm 6 n? Phi f 3s # 9 g?|9 ff ^ vl?|c ooo p? J   % clear word 'pour' after sign 13
+3s x? P z?|3 E? 9 P vl?|c d?|dd ff + R W c 3
+# E? 3s z?|3 4b?|4 ae?|8 s?|z cc rr? #b?|Cx = Qb 7?|sl = W
+R Aq?|+f t ff 3 mm rr? 9 ^ g?|9 + Nf?|ff f ooo Phi?|6 h
+ff ### # 3s Aq?|+f 9 m ff = Q?|E P vl?|c P W 3s f
+6 Hr v # p?|k ooo n? 9 Aq?|+f ff y R +d?|x 7?|sl 3s? o
+cl?|cc #b?|Cx m 3s # ### 9 + v y ooo 3s E? W g?|9
+6 Aq?|+f ooo ^ Cz?|Cx o Cx?|Cz W vl?|c #b?|#p t Nf?|ff cc mm Qb
+7?|sl ff = 3s f ooo R E? ^ Aq?|+f Hr ff L?|lo E?|Hr
+# p cc #p = ff 9 vl?|c E? V?|7 R y?|v + Nf?|ff W
+E?|Q 7?|sl vl?|c 3s f z # 9 E? ^ Hr? ff mm +d?|x o
+##?|# # 3s E? R a o Qb W?|ss t ff 3s = lo?|p #1 z
+9 W R ### o vl?|c 3 3s d?|dd #p r?|z ^ vl?|c n? 6 cc
+y ff f ooo P E? W y?|v n? + Nf?|ff # E? 3s cl?|cc
+#b?|Cx = z?|3 Aq?|+f ff Qb #1 z?|3 Aq?|+f = 9 f ooo p?|P z?|2 3s o mm
+9 4? ^ ff + p cc = Cz?|Cx ta N vl?|c n? v f E? V
+n? 3s mm +d?|x o ### 9 h * # d?|dd Aq?|+f # v = Nf?|ff
+# o ff f ^ #p Cx?|Cz 9 3 = 3s L?|lo Qb oo 9 R
+y W v? +d?|x * o ooo n? P B #b?|Cx oo 3s z?|3 p s?|z 7?|sl
+E? P cl?|cc v = E? d?|dd v cc Qb 9 xx Nf?|ff f 6
+#b?|Cx #p d?|dd n? # ff o cl?|cc #b?|Cx Cz?|Cx #1 cl?|cc E?|Hr Qb   % signs 1-13 + next line: first copy of the dittography
+3 C?|Q 9 mm # ff + # vl?|c E? L?|lo R y?|v
+#p d?|Q n? # ff o cl?|cc #b Cz?|Cx #1 cl?|cc E?|Hr Qb 3s   % dittography: = p41 L28 signs 1-13 (second copy)
+% p. 42 (view f54)
+C?|Q 9 mm # ff + # vl?|c E? L?|lo R y ta   % dittography: signs 0-11 = p41 L29; "ta" continues the text
+d?|Q N vl?|c n? Nf?|ff ^ v # ff mm ooo o t #b?|Cx E?
+rr? Nf?|ff Phi + o Aq?|+f ooo #b?|Cx Cz?|Cx 3s mm Nf?|ff +d?|x o cl?|cc
+#b?|Cx Hr ### 9 J a cc ff f Cz?|Cx h #1 W
+3s?|Qb Nf?|ff vl?|c o y 9 rr? v?|d +d?|x cc E? ff p Nf?|ff
+h * Aq?|+f o Cz?|Cx ^ ooo y 3s = 3 #b?|Cx Hr
+#p oo R Qb v d?|dd = 7?|sl y?|v #b?|Cx s N 6 # y
+3s mm ooo B vl?|c n? = z?|x h ff m 3 *
+E?|Hr 9 f?|sl E? vl?|c #1 = Qb ff f sl?|t r?|z oo t?|+ R
+# 9 d?|dd s vl?|c E? p?|Phi v Aq?|+f s t ^ vl?|c E?|Hr ooo
+n? lo?|p d?|v Nf?|ff Hr rr? 9 n? R h ff o c E?|Hr
+y #b?|Cx ^ Nf?|ff +d?|x o 6?|th v cl?|cc # + 4b?|4 ae?|8 Nf?|ff
+Aq?|+f y 3s vl?|c #1 mm 9 A?|^ ff x?|ae v Tr ^ #p Cx?|Cz z?|3
+Hr v v h W 6 ma 3s z Nf?|ff mm Qb o s vl?|c
+NEW1 P #1 f g?|9 #p Aq?|+f ooo 9 #b?|Cx a o Hr # ff   % sign 0 = NEW1
+cl?|cc W? = 3?|z g?|9 Nf?|ff Aq?|Phi C? E? ##?|# 9 = Qb mm?|mt
+cl?|cc x?|Aq Cz?|Cx ff f z? d?|dd v oo y?|v N p?|Phi ff cc Aq?|+f
+ff = E? E? L?|lo oo Cx?|Cz lo?|p z?|2 9 Tr J?|7 3s?|B g?|9 o
+W 9 E? y P vl?|c n? ff ^ Aq?|+f f Q?|E +d?|x 7?|sl s xx
+s R Qb # z 3s Aq?|+f sl?|g E? 3 Hr y L?|lo ooo oo ^
+= rr? ### +d?|x 7?|sl #p = ae?|8 R t oo * y vl?|c r? C?|Q
+d?|dd #b?|Cx mm Q?|E o vl?|c mt?|m J?|7 z ff +d?|x v f
+z = #b?|Cx V Nf?|ff p NEW2 Tr d 9 mm?|m 7?|sl f ff h   % sign 6 = NEW2
+o cl?|cc Nf?|ff Aq?|+f 3s 6 #p P vl?|c P # t ff Phi?|oo B y?|v z
+V ^ mm r?|R + v o = Cz?|Cx 3s?|B R z?|3 7?|sl #b?|Cx f s?|z
+cc 9 Hr Phi?|6 # ff o ^ = rr? mt?|m J?|7 Aq?|+f ff Cz?|Cx
+z mm 9 3 + oo W R B m s xx z?|3 ###
+vl?|c E? ff p ^ n? P +d?|x v = 8?|8p ae?|8 Nf?|ff 7?|sl +d?|x
+E? L?|lo R + o A?|^ cl?|cc # 3 h?|3s Aq?|+f 3 mm c? vl?|c
+#b?|Cx f * Hr 9 # A?|^ J?|7 v ^ ooo t Nf?|ff 6 y
+lo?|p r? rr? #b?|Cx cc f ff 6 7?|sl x d 3 # + z?|2
+% p. 43 (view f55)
+A?|^ s = E? p sl?|7 A?|^ z d?|dd cc ooo h E?|Hr W
+R # 9 z = s y 4b?|4 v #b n? o Aq?|+f * n? R cl?|cc Nf?|ff
+t 9 Hr ae?|C C?|Q Aq?|+f #p oo 7?|sl ff = N +d?|x f 3s?|B
+E?|Hr ^ z R ### 9 z?|3 Aq?|+f ff rr? ^ # 3s?|B Hr 9 ##?|#
+6 pa m # = Qb ff mm o f ooo 3s y?|v ### Nf?|ff cc?|E
+= W R # R d?|dd m ### 7?|sl vl?|c v f y ae?|C ooo
+h #1 oo W s = # ### cc vl?|c E? ff y?|v + ^ n? d?|dd
+3s?|B f 3 R Hr f 7?|sl 9 h ff + z?|2 = E? * z   % raised small * between 3 and R = folio mark (margin "*F.14a"), not transcribed
+R vl?|c s + Nf?|ff Aq?|+f g?|9 n? #1 = Qb rr? #b?|Cx r? 9 d ^
+Hr? p ooo s mm # m cc vl?|c E? ff y + d?|dd
+n? N vl?|c n? R 3 v # 3s = E? Nf?|ff ### 9 v
+7?|sl f #b?|Cx ^ h o Cx?|C J?|sl P s cl?|cc Nf?|ff E? ^ Aq?|+f J?|7
+3 = Cz?|Cx L?|lo ff mm R Qb Hr #1 d?|dd 9 h?|6
+f #1 ^ 3 mt?|m + Aq?|+f ff y Phi?|oo E?|Hr 3 Hr   % clear word 'po~' after sign 10
+3s?|z Nf?|ff c W g?|9 n? #1 xx ooo z xx + v   % clear word 'pour' after sign 3
+h 9 # #b?|Cx E? Aq?|+f ff o rr? ff R z ^ oo
+y s +d?|x Nf?|ff R ^ m s f W m Hr? +d?|x E? 3s #
+p?|#p ^ n? N mm #b?|Cx ^ v # ff = Qb C? 3 h
+9 Cz?|Cx sl? lo?|p ooo Aq?|+f ff n? 4b?|4 y?|v v mm E? o Cx?
+Hr J?|7 W s cl?|cc g?|9 N + J?|7 R W 9 ### a
+Nf?|ff Aq?|+f P 3s?|B #b?|Cx #p Hr 9 z?|3 ff f?|sl z?|3 cc t
+ff N vl?|c n? = r? rr? h #1 Aq?|+d ##?|# L?|lo Qb 3s?|B Aq?|+f
+v f ooo Hr # 3s?|B mm y?|v + Nf?|ff Aq?|+f g?|9 n? #p
+= E? 9 ^ Qb h v rr? R +d?|x #p oo B Aq?|+f 9?|g
+n? #1 = Qb ff L?|lo P vl?|c P o cl?|cc Nf?|ff Hr ### 9 *
+3 h v x?|ae R E?|Hr ff s s vl?|c Nf?|ff y ff Cx?
+#b?|Cx y z ae?|C 9 mm o ^ #1 cc ff = Qb
+rr? Hr Nf?|ff = R + h 7?|n #b?|Cx 7?|sl = p ooo 3s?|B
+P A?|^ J?|7 Aq?|+f 12 9 mm?|M o y Cx?|Q ff n? P R #
+R f d?|dd B 3s?|B n? B * 40 d 13 #p L?|lo t?|E
+14 Nf? ff W 100 B 30 O? S?|s 12 7 H?|ff A?|^ R A?|^   % end of cipher; followed by a full stop

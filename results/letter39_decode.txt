@@ -1,0 +1,159 @@
+Letter 39, data/fr3151/cipher/39_f71r.txt: 405 signs in 20 lines. Key: all alignments in results/, update none. Language model with block C. Beam 300.
+Signs without a key value: ['Rr']
+
+== machine decodes (words as divided by the decoder; nulls omitted)
+LM weight 0.3 (score -1043.9): dont noz uorts gens il lendeur a retraite des m n c sul mans quilz des sent uerte que la liose sera aultrement et ne laye les euequoy quil en soit ce me sera plaisir de n en tendre la resolu rioncay commence on sait pro cher du temps que lamyayer h hue ses deux ans y auons tenu icy la paix urge ie ne scay ce quil en sera qui au guaisoit en mores auoir plus de doubte ie ne ueulx plus de meurer icy guieres longue men et apis aller ny ueux que acheuer mes deux ans ie suis en necessite et ay eu tout plein etes ces et de esg ce qui con
+LM weight 0.4 (score -1130.4): dont noz uerts pays il lendeur a retraite des musul mans quilz des sent uerte que la liose sera aultrement et ne laye les euequoy quil en soit ce me sera plaisir de n en tendre laredo surin carne commence on sait pro cher du temps que a m payer h faue ses deux ans y auons tenu icy la paix he ie ne scay ce quil en sera qui mai soit encores auoir plus de doute ie ne ueulx plus de meurer icy gueres longue men et agis aller ny eu acheuer mes deux ans ie suis en necessite et ay eu tout plein ete ses et de esg ce qui con
+LM weight 0.5 (score -1206.6): dont noz uerts pays lendeur a retraite des musul mans quilz des sent uerte que la liose sera aultrement et ne laye les euequoy quil en soit cesse d aplaisir de n en tendre la resolucion luy ay commence on a pro cher du temps que a m payer haures deux ans y auons tenu par la paix he ie ne scay ce quil en sera qui mai soit encores auoir plus de doute ie ne ueulx plus de meurer icy gueres longue men et agis aller ny eu acheuer mes deux ans ie suis en necessite et a este toute plein ete ses et de ce qui
+
+== words of the decode at LM weight 0.4
+word           support class        held-out precision of the class   signs (line.sign, counted from 0)
+dont           0.75    S2 stable    0.66   L01.1-L01.5  * #p 14 = ooo
+noz            0.67    S3 stable    0.58   L01.7-L02.0  f 6 7 n
+uerts          0.40    S3 unstable  0.25   L02.1-L02.5  3 #1 S oo B
+pays           0.00    S3 unstable  0.25   L02.6-L02.8  C = #
+il             0.00    S3 unstable  0.25   L02.9-L02.9  lo
+lendeur        1.00    S1 stable    0.86   L02.10-L02.16  E mm Q R 3 o +f
+a              1.00    S1 stable    0.86   L02.17-L02.17  Nf
+retraite       1.00    S1 stable    0.86   L02.18-L03.5  Hr ff ii Qb h o sl M * Aq 1
+des            1.00    S1 stable    0.86   L03.6-L03.8  R 12 z
+musul          0.80    S2 unstable  0.25   L03.9-L03.15  ### f + W ^ Cz +d
+mans           0.75    S2 stable    0.66   L03.16-L04.1  ### o Cs mm #
+quilz          0.40    S3 stable    0.58   L04.3-L04.5  B vl n
+des            0.67    S3 stable    0.58   L04.6-L04.7  6 J
+sent           1.00    S1 stable    0.86   L04.8-L04.11  z 3s = Aq
+uerte          1.00    S1 stable    0.86   L04.12-L04.17  3 ff +f Rr Qb 9
+que            0.00    S3 stable    0.58   L04.18-L04.18  P
+la             1.00    S1 stable    0.86   L04.19-L04.20  cl Nf
+liose          0.40    S3 stable    0.58   L05.0-L05.3  1 #1 # 3s
+sera           1.00    S1 stable    0.86   L05.4-L05.7  z 1 h #b
+aultrement     0.70    S3 stable    0.58   L05.8-L05.15  mt ooo +f 3s m ff f Aq
+et             0.00    S3 stable    0.58   L05.16-L05.16  Zb
+ne             1.00    S1 stable    0.86   L05.17-L05.18  mm 9
+laye           0.75    S2 stable    0.66   L05.19-L06.2  vl o oo 3s
+les            0.67    S3 stable    0.58   L06.3-L06.4  # J
+euequoy        0.57    S3 stable    0.58   L06.5-L06.11  ff 3 1 To ^ 6 oo
+quil           1.00    S1 stable    0.86   L06.12-L06.13  N +d
+en             1.00    S1 stable    0.86   L06.14-L06.15  3s =
+soit           0.75    S2 stable    0.66   L06.16-L06.19  W #p II Qb
+ce             0.00    S3 unstable  0.25   L07.0-L07.0  s
+me             0.50    S3 unstable  0.25   L07.1-L07.2  ts ff
+sera           0.75    S2 unstable  0.25   L07.3-L07.6  z 1 6 #b
+plaisir        0.57    S3 unstable  0.25   L07.7-L07.12  8p vl o # 6 +f
+de             1.00    S1 stable    0.86   L07.13-L07.13  R
+n              1.00    S1 stable    0.86   L07.14-L07.14  f
+en             1.00    S1 stable    0.86   L07.15-L07.16  3s xx
+tendre         0.83    S2 stable    0.66   L07.17-L08.1  ooo ff f * 7 +f 3s
+laredo         0.83    S2 unstable  0.25   L08.2-L08.7  cl Nf Hr ff W #p
+surin          0.80    S2 unstable  0.25   L08.8-L08.13  v d +f sl 8 xx
+carne          0.20    S3 unstable  0.25   L08.14-L08.17  + #b 6 C
+commence       0.38    S3 stable    0.58   L08.18-L09.2  ss m ff mm s
+on             1.00    S1 stable    0.86   L09.3-L09.4  #1 f
+sait           0.25    S3 unstable  0.25   L09.5-L09.8  # o 100 #b
+pro            1.00    S1 stable    0.86   L09.9-L09.11  EE Hr #p
+cher           0.75    S2 stable    0.66   L09.12-L09.15  p U 9 +f
+du             0.50    S3 stable    0.58   L09.16-L09.17  6 ^
+temps          0.80    S2 stable    0.66   L09.18-L10.1  ooo 3s ts g z
+que            0.00    S3 unstable  0.25   L10.2-L10.3  P c
+a              1.00    S1 unstable  0.61   L10.4-L10.4  Nf
+m              1.00    S1 unstable  0.61   L10.5-L10.5  ###
+payer          0.40    S3 unstable  0.25   L10.6-L10.11  C #b oo ff #b +f
+h              1.00    S1 unstable  0.61   L10.12-L10.12  th
+faue           0.50    S3 unstable  0.25   L10.13-L10.15  V d 3s
+ses            1.00    S1 unstable  0.61   L10.16-L10.18  z ff W
+deux           0.75    S2 stable    0.66   L10.19-L11.0  R ^ x
+ans            0.67    S3 stable    0.58   L11.1-L11.3  o f #
+y              0.00    S3 stable    0.58   L11.4-L11.4  C
+auons          1.00    S1 stable    0.86   L11.5-L11.9  Nf 3 #1 mm W
+tenu           1.00    S1 stable    0.86   L11.10-L11.13  Aq 1 = d
+icy            0.33    S3 unstable  0.25   L11.14-L11.16  sl + Cx
+la             1.00    S1 stable    0.86   L11.17-L11.18  +d o
+paix           0.75    S2 stable    0.66   L11.19-L12.2  8p #b Lc m
+he             0.50    S3 unstable  0.25   L12.6-L12.7  V 3s
+ie             1.00    S1 stable    0.86   L12.8-L12.9  ## ff
+ne             1.00    S1 stable    0.86   L12.10-L12.11  f 1
+scay           0.50    S3 stable    0.58   L12.12-L12.15  W + o oo
+ce             0.00    S3 stable    0.58   L12.16-L12.16  s
+quil           1.00    S1 stable    0.86   L12.17-L12.18  N +d
+en             1.00    S1 stable    0.86   L12.19-L12.20  3s =
+sera           0.50    S3 stable    0.58   L13.0-L13.3  # ff 8 Nf
+qui            1.00    S1 stable    0.86   L13.4-L13.4  N
+mai            1.00    S1 unstable  0.61   L13.5-L13.9  m Cx 3 #b sl
+soit           0.75    S2 unstable  0.25   L13.10-L13.13  z 6 cc Qb
+encores        0.86    S2 unstable  0.25   L13.14-L13.20  3s = t #p +f 1 W
+auoir          0.80    S2 stable    0.66   L14.0-L14.4  o ^ #1 # Hr
+plus           0.75    S2 stable    0.66   L14.5-L14.8  8p vl 3 #
+de             1.00    S1 stable    0.86   L14.9-L14.9  R
+doute          0.60    S3 unstable  0.25   L14.10-L14.15  * 6 d a ooo 3s
+ie             1.00    S1 stable    0.86   L14.16-L14.17  ## ff
+ne             1.00    S1 stable    0.86   L14.18-L14.19  mm 1
+ueulx          0.80    S2 stable    0.66   L14.20-L15.3  3 ff 3 +d m
+plus           1.00    S1 stable    0.86   L15.4-L15.7  EE cl d W
+de             1.00    S1 stable    0.86   L15.8-L15.8  R
+meurer         1.00    S1 stable    0.86   L15.9-L15.14  m 3s d Hr 1 h
+icy            0.00    S3 stable    0.58   L15.15-L15.17  # p Cx
+gueres         0.67    S3 unstable  0.25   L15.18-L16.4  x ^ sl ff +f 1 Wl
+longue         0.67    S3 stable    0.58   L16.5-L16.10  cl 6 mm Cx d 3s
+men            0.67    S3 stable    0.58   L16.11-L16.13  ts ff f
+et             1.00    S1 stable    0.86   L16.15-L16.15  Rq
+agis           0.75    S2 unstable  0.25   L16.16-L16.19  mt EE cc z
+aller          1.00    S1 stable    0.86   L17.0-L17.3  o +d E h
+ny             0.50    S3 stable    0.58   L17.4-L17.5  = Cx
+eu             1.00    S1 unstable  0.61   L17.7-L17.8  ff ^
+acheuer        0.86    S2 stable    0.66   L17.11-L17.17  o + th 3s d 1 +f
+mes            0.67    S3 stable    0.58   L17.18-L17.20  ### 3s Wl
+deux           0.75    S2 stable    0.66   L18.0-L18.3  R ii 3 x
+ans            0.67    S3 stable    0.58   L18.4-L18.6  o f #
+ie             1.00    S1 stable    0.86   L18.7-L18.8  Rl ff
+suis           0.75    S2 stable    0.66   L18.9-L18.12  z ^ ## #
+en             1.00    S1 stable    0.86   L18.13-L18.14  3s =
+necessite      0.44    S3 stable    0.58   L18.16-L19.0  mm 9 s Wl sl oo ff
+et             1.00    S1 stable    0.86   L19.1-L19.1  4b
+ay             0.50    S3 unstable  0.25   L19.2-L19.3  o Cx
+eu             1.00    S1 unstable  0.61   L19.4-L19.5  1 ^
+tout           1.00    S1 unstable  0.61   L19.7-L19.11  Aq #1 14 d Qb
+plein          1.00    S1 stable    0.86   L19.13-L19.18  EE +d ff 2 cc f
+ete            1.00    S1 unstable  0.61   L20.0-L20.2  3s Qb 3s
+ses            1.00    S1 unstable  0.61   L20.3-L20.6  z 100 + J
+et             0.00    S3 stable    0.58   L20.7-L20.7  Zb
+de             1.00    S1 stable    0.86   L20.8-L20.8  R
+esg            0.67    S3 unstable  0.25   L20.10-L20.15  J 12 ff 12 Cz Cx
+ce             0.00    S3 stable    0.58   L20.16-L20.16  s
+qui            1.00    S1 unstable  0.61   L20.17-L20.17  N
+con            0.00    S3 unstable  0.25   L20.19-L20.19  x
+
+== classes of the 107 decoded words of 2 letters or more (LM weight 0.4)
+S1 stable    35   held-out precision 0.86
+S2 stable    15   held-out precision 0.66
+S3 stable    24   held-out precision 0.58
+S1 unstable   8   held-out precision 0.61
+S2 unstable   7   held-out precision 0.25
+S3 unstable  18   held-out precision 0.25
+If the held-out precisions carried over to this letter, 65.1 of the 107 words (0.61) would be right. They are an upper bound here (docs/LETTER39.md).
+
+== sign by sign, LM weight 0.4 ("|" = end of a word, "_" = null)
+L01 2=_ *=d #p=o 14=_ ==n ooo=t| 13=_ f=n 6=o 7=_
+L02 n=z| 3=u #1=e S=r oo=t B=s| C=pa ==y #=s| lo=il| E=le mm=n Q=_ R=de 3=u o=_ +f=r| Nf=a| Hr=r ff=e ii=_ Qb=t h=r
+L03 o=a sl=i M=_ *=_ Aq=t 1=e| R=de 12=_ z=s| ###=m f=u +=_ W=s ^=u Cz=_ +d=l| ###=m o=a Cs=_
+L04 mm=n #=s| Q=_ B=qui vl=l n=z| 6=d J=es| z=s 3s=e ==n Aq=t| 3=u ff=e +f=r Rr=_ Qb=t 9=e| P=que| cl=l Nf=a|
+L05 1=li #1=o #=s 3s=e| z=s 1=e h=r #b=a| mt=a ooo=ult +f=r 3s=e m=m ff=e f=n Aq=t| Zb=et| mm=n 9=e| vl=l
+L06 o=a oo=y 3s=e| #=l J=es| ff=e 3=u 1=e To=q ^=u 6=o oo=y| N=qui +d=l| 3s=e ==n| W=s #p=o II=i Qb=t| 7=_
+L07 s=ce| ts=m ff=e| z=s 1=e 6=r #b=a| 8p=p vl=l o=a #=i 6=si +f=r| R=de| f=n| 3s=e xx=n| ooo=t ff=e f=n *=d 7=_
+L08 +f=r 3s=e| cl=l Nf=a Hr=r ff=e W=d #p=o| v=s d=u +f=r sl=i 8=_ xx=n| +=c #b=a 6=r C=ne| ss=com m=m
+L09 ff=e mm=n s=ce| #1=o f=n| #=s o=a 100=_ #b=it| EE=p Hr=r #p=o| p=c U=h 9=e +f=r| 6=d ^=u| ooo=t 3s=e ts=m
+L10 g=p z=s| P=q c=ue| Nf=a| ###=m| C=pa #b=_ oo=y ff=e #b=_ +f=r| th=h| V=fa d=u 3s=e| z=s ff=e W=s| R=de ^=u
+L11 x=x| o=a f=n #=s| C=y| Nf=a 3=u #1=o mm=n W=s| Aq=t 1=e ==n d=u| sl=i +=c Cx=y| +d=l o=a| 8p=p
+L12 #b=a Lc=i m=x| A=_ To=_ Tr=_ V=h 3s=e| ##=i ff=e| f=n 1=e| W=s +=c o=a oo=y| s=ce| N=qui +d=l| 3s=e ==n|
+L13 #=s ff=e 8=r Nf=a| N=qui| m=m Cx=_ 3=_ #b=a sl=i| z=s 6=o cc=i Qb=t| 3s=e ==n t=c #p=o +f=r 1=e W=s|
+L14 o=a ^=u #1=o #=i Hr=r| 8p=p vl=l 3=u #=s| R=de| *=d 6=o d=u a=_ ooo=t 3s=e| ##=i ff=e| mm=n 1=e| 3=u
+L15 ff=e 3=u +d=l m=x| EE=p cl=l d=u W=s| R=de| m=m 3s=e d=u Hr=r 1=e h=r| #=i p=c Cx=y| x=g ^=u
+L16 sl=_ ff=e +f=r 1=e Wl=s| cl=l 6=o mm=n Cx=g d=u 3s=e| ts=m ff=e f=n| Q=_ Rq=et| mt=a EE=g cc=i z=s|
+L17 o=a +d=l E=le h=r| ==n Cx=y| ^=_ ff=e ^=u| x=_ P=_ o=a +=c th=h 3s=e d=u 1=e +f=r| ###=m 3s=e Wl=s|
+L18 R=de ii=_ 3=u x=x| o=a f=n #=s| Rl=i ff=e| z=s ^=u ##=i #=s| 3s=e ==n| Ak=_ mm=n 9=e s=ce Wl=ss sl=i oo=t
+L19 ff=e| 4b=et| o=a Cx=y| 1=e ^=u| 12=_ Aq=t #1=o 14=_ d=u Qb=t| 13=_ EE=p +d=l ff=e 2=_ cc=i f=n| R=_ 7=_
+L20 3s=e Qb=t 3s=e| z=s 100=_ +=_ J=es| Zb=et| R=de| Tr=_ J=es 12=_ ff=_ 12=_ Cz=_ Cx=g| s=ce| N=qui| Tr=_ x=con
+
+== proposed reading (data/fr3151/letter39_reading.tsv): the spans tile all 405 signs
+signs: 365 in read spans, 4 taken as nulls, 36 unread (4 spans)
+words read: 100; graded H or H-M 45, M or M-H 39, L, L-M or M-L 16
+under the intended meaning of the grades (H about 0.85, M about 0.6, L about 0.3) about 66.5 of the 100 words would be right (0.66); the grades are judgment, not measurement

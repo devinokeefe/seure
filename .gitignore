@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# editor and system files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.vscode/
+.idea/
+
+# scratch output (the tracked result files are in results/)
+results/tmp/
+*.log

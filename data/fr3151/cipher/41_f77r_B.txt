@@ -1,0 +1,27 @@
+% BnF ms. fr. 3151, no. 41 (Gallica ark:/12148/btv1b9059865k): Seure to Henri II, Lisbon. Another copy of the letter of
+% 12 December 1558 (the same text as no. 44; the library catalogue describes it as a duplicate of no. 40).
+% fo. 77r (view 78, right-hand page): cipher block B; 19 lines; L01 follows the clear word "Janvier"; clear text
+% "qui est tout ce que puis escrire" follows L19.
+% Plaintext: contemporary decipher on fo. 85r-v (data/fr3151/plain/12dec1558_text.tsv, segment B).
+% Provisional label: N_bb = two joined loops with ascenders leaning left (L18).
+% Format: one manuscript line per text line; sign labels separated by spaces (see docs/SYMBOLS.md);
+% "%" starts a comment; "Lnn" = line number within the cipher block.
+A Tr Phi 12 EE M 3s 1 Qb 3 7 o 6 d 100 Nf C3 = 2 Aq s   % L01
++d #b 1 +f sl ooo Lc ## #b * sl + Cx ^ f ff mt + #1 9 R 3 ## c   % L02
+vl Aq 8 d ## P p U #b + Cx 3s #1 R z 8 # + ff 3 sl 9 W   % L03
+A vl E o mm B x Aq 3s # N ^ mt Aq * ## 8 Lc ooo a ## ff s   % L04
+= cl Nf E oo f 3s P s 3 vl m R 6 sl ff s 9 #p d 8 #   % L05
+#b cc xx + Aq t o +d * Cx 3 f Qb ff mm 8 ## z 1 = xx 7   % L06
+Qb Nf + 3 cl E ^ mt * 3 #b ## xx 3 sl f Lc ff m 1 = Aq 6   % L07
+Rq B mm oo mt 3 # P R 3 x ### 3s W + th o f # ta R Ce   % L08
+d ff #1 1 Nf + #b x v o 23 # x f 3s Hr 4b ff cl E x W   % L09
+8 = Qb + Nf vl Hr # R ooo #p 3 Aq 4 z + v #1 W 3s # s cl 7   % L10
+xx N Qb ## ooo 6 sl p oo ff mm #p + Aq #1 8 h 1 J 3s f p 8 +f   % L11
+ff W R k k ### 9 # 3s = Qb ff f 8p #b c sl s o + ooo 9 xx 8 Nf   % L12
+f Aq m 3s Lc vl xx ^ h Qb ff ### EE z 2 c xx mm #p 9 3 o W 7   % L13
+xx J sl * d 2 x 2 # ta N J #p # ff f ooo R x Hr o xx 6   % L14
+R ^ Nf +d xx 3 h xx z Aq d 12 +f To W B Qb Zb #1 # f + ooo   % L15
+#b # B 9 Cx 3s 6 Hr 14 o = #p ^ mm #1 n 3 8 p B = z Nf c   % L16
+^ #p Lc ff f Qb 9 = 3 #1 oo 3s R d x ### # ## xx 8 6 # ff #   % L17
+x m 9 9 n g 3s f z #p vl ff = ooo N c n R ^ 100 N_bb 9 ? f 7   % L18
+Aq 12 Pb 23 ii R Tr 13 6   % L19

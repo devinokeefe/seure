@@ -1,0 +1,105 @@
+Held-out block C: 3 copies, 1057 signs; key from the training alignments in results/ only; language model without block C; beam 300.
+
+== key update: none
+character accuracy
+set    file             signs letters  lmw 0.3  lmw 0.4  lmw 0.5
+HC44   44_f86r_C          302     441    0.508    0.508    0.497
+HC41   41_f77r_C          373     441    0.551    0.553    0.558
+HC43   43_f82r_PS         382     441    0.705    0.705    0.694
+mean                                     0.588    0.589    0.583
+
+word classes (decode at LM weight 0.4; words of 2 letters or more; right = the word occurs within 25
+characters of its proportional position in the true text)
+class          right/words  precision
+S1 stable         51/59     0.86
+S2 stable         21/32     0.66
+S3 stable         37/64     0.58
+S1 unstable       17/28     0.61
+S2 unstable        3/12     0.25
+S3 unstable       19/76     0.25
+all stable       109/155    0.70
+all unstable      39/116    0.34
+all words        148/271    0.55
+
+decodes
+HC44 lmw 0.4: deuoient huict des ms qu aux fiue de medina quilz auoie tarder en uoir moyen de les four nos riue de cl l entre lesquelz silz ont ie prr depuis prouenue accours ce iour ez ung n a rien or mon est le putet iniure de guise de car nee a ce appelons a aieul pour lexcellente les est de et en grant cberte im le m de haz ses prez qui foi en moy amee a la fin ie y ay bien trestoit tauoit don prins au
+HC41 lmw 0.4: c ce deuoier thes tict cens mille escuynuoi iu de medina quilz auoien fac tarde pauure rien de les fournir a ces marie de lalode lesquelz ilz ont capaye que depes par trou no uem d edit iours a se dung nauitenim ne peintune prit la superceu de conue ere de ce mars le qui le grace con uas a il est cur le rendre dont elle a este en fran colere et fre de nor les au deuil des l i icy qui sent son royaume a la fin ie say science court pour le tort quictance desirer le les ayde lest et ils equiz
+HC43 lmw 0.4: ilz debuoient huit cens mil escuz a flores de medina quilz auoient en retarder en uoir moyen de les fournir apres l i iue de la flote lesquels ilz ont ia satez et depuis prouen aux ailres ces iours pa sez ung nauire normant rins ung petit nauire de ueue de la ro nequi place lon dit a s a i x i peur le prendre dont elle est en g r an clle recom hre en que ledit de uoz subiectz qui eschient par son royamee a la fin s iay bien remonstrelet de tauoit son neu par celle les et de la uille a dez auro
+
+== key update: n5maj
+character accuracy
+set    file             signs letters  lmw 0.3  lmw 0.4  lmw 0.5
+HC44   44_f86r_C          302     441    0.508    0.503    0.490
+HC41   41_f77r_C          373     441    0.558    0.551    0.549
+HC43   43_f82r_PS         382     441    0.707    0.726    0.703
+mean                                     0.591    0.593    0.580
+
+word classes (decode at LM weight 0.4; words of 2 letters or more; right = the word occurs within 25
+characters of its proportional position in the true text)
+class          right/words  precision
+S1 stable         50/59     0.85
+S2 stable         21/29     0.72
+S3 stable         33/63     0.52
+S1 unstable       20/30     0.67
+S2 unstable        3/12     0.25
+S3 unstable       23/80     0.29
+all stable       104/151    0.69
+all unstable      46/122    0.38
+all words        150/273    0.55
+
+decodes
+HC44 lmw 0.4: deuoient huict des ms et que un cloiue de medina quilz auoie tarder en uoir moyen de les four nos riue de cl l entre lesquelz silz ont ie prr depuis prouenue accours ce iour ez ung n a rien or mon est le putet iniure de guise de car nee a ce appelons a aieul pour lexcellente les est de et en grant cberte im le m de haz ses prez qui foi en moyaume a la fin ie y ay bien trestoit tauoit don prins au
+HC41 lmw 0.4: c ce debuoier thes tict cens mille escuynuoi iu de medina quilz auoien fac tarde pauure rien de les fournir a ces marie de lalode lesquelz ilz ont capaye age de per par trou no uem d edit iours a se dung nauitenim ne peintune prit la superceu de conue ere de ce mars le qui le grace con uas a il est cur le rendre dont elle a este en fran colere et fre de nor les au deuil des l i icy qui sent son royaume a la fin ie say science court pour le tort quictance desirer le les ayde lest et ils equiz
+HC43 lmw 0.4: ilz debuoient huit cens mil escuz autres de medina quilz auoient en retarder en uoir moyen de les fournir que apres l i iue de la flote lesquels ilz ont ia satez et depuis prouen aux autres ces iours pa sez ung nauire normant rins ung petit nauire de ueue de la ro nequi place lon dit a s a i x i peur le prendre dont elle est en g r an clle recom hre en les de uoz subiectz qui eschient par son royaume a la fin s iay bien remonstrelet et que auoit son neu par celle les et de la liquee a dez auro
+
+== key update: n5orig
+character accuracy
+set    file             signs letters  lmw 0.3  lmw 0.4  lmw 0.5
+HC44   44_f86r_C          302     441    0.503    0.499    0.483
+HC41   41_f77r_C          373     441    0.565    0.556    0.565
+HC43   43_f82r_PS         382     441    0.705    0.730    0.710
+mean                                     0.591    0.595    0.586
+
+word classes (decode at LM weight 0.4; words of 2 letters or more; right = the word occurs within 25
+characters of its proportional position in the true text)
+class          right/words  precision
+S1 stable         50/58     0.86
+S2 stable         21/29     0.72
+S3 stable         33/59     0.56
+S1 unstable       20/30     0.67
+S2 unstable        3/15     0.20
+S3 unstable       21/76     0.28
+all stable       104/146    0.71
+all unstable      44/121    0.36
+all words        148/267    0.55
+
+decodes
+HC44 lmw 0.4: deuoient huict des ms et que un cloiue de medina quilz auoie tarder en uoir moyen de les four nos riue de cl l entre lesquelz silz ont ie prr depuis prouenue au cours ce iour ez ung n a rien or mon est le putet iniure de guise de car nee a ce appelons a s a i xlr plexcellente les est de et en grant cberte im le m de haz ses prez qui foi en moyaume a la fin ie y ay bien trestoit tauoit don prins au
+HC41 lmw 0.4: c ce debuoier thes tict cens mille escuynuoi iu de medina quilz auoien fac tarde pauure rien de les fournir a ces marie de lalode lesquelz ilz ont capaye age de per par trou no uem d edit iours a se dung nauitenim ne peintune prit la superceu de conue ere de ce mars le qui le grace conua ailier le rendre dont elle a este en fran colere et frere noplendeur des l i icy qui sent son royaume a la fin ie say science cois troye la tort quictance desirer le les ayde lest et ils equiz
+HC43 lmw 0.4: ilz debuoient huit cens mil escuz autres de medina quilz auoient en retarder en uoir moyen de les fournir que apres l i iue de la flote lesquels ilz ont ia satez et depuis prouen aux autres ces iours pa sez ung nauire normant rins ung petit nauire de ueue de la ro nequi place lon dit a faict pour le prendre dont elle est en g r an clle recom hre en les de uoz subiectz qui eschient par son royaume a la fin s iay bien remonstrelet et que auoit son neu par celle les et de la liquee a deux po
+
+== key update: n5all
+character accuracy
+set    file             signs letters  lmw 0.3  lmw 0.4  lmw 0.5
+HC44   44_f86r_C          302     441    0.503    0.503    0.485
+HC41   41_f77r_C          373     441    0.558    0.537    0.535
+HC43   43_f82r_PS         382     441    0.721    0.719    0.714
+mean                                     0.594    0.587    0.578
+
+word classes (decode at LM weight 0.4; words of 2 letters or more; right = the word occurs within 25
+characters of its proportional position in the true text)
+class          right/words  precision
+S1 stable         49/58     0.84
+S2 stable         22/30     0.73
+S3 stable         36/67     0.54
+S1 unstable       16/27     0.59
+S2 unstable        5/15     0.33
+S3 unstable       20/72     0.28
+all stable       107/155    0.69
+all unstable      41/114    0.36
+all words        148/269    0.55
+
+decodes
+HC44 lmw 0.4: deuoient huict des ms et que un cloiue de medina quilz auoie tarder en uoir moyen de les four nos riue de cl l entre lesquelz silz ont ie prr depuis prouenue accours ce iour ez ung n a rien or mon est le putet iniure de guise de car nee a ce appelons a aieul pour lexcellente les est de et en grant cberte im le m de haz ses prez qui foi en moyaume a la fin ie y ay bien trestoit tauoit don prins au
+HC41 lmw 0.4: c ce debuoier thes tict cens mille escuynuoi iu de medina quilz auoient tarde pauure rien de les fournir a ces marie de lalode lesquelz ilz ont capaye age de per par trou no uem d edit iours a se dung nauitenim ne peintune prit la superceu de conue ere de ce mars le qui le grace con uas a il est cur le rendre dont elle a este en france le terre de nor les au deuil des l i icy qui sent son royaume a la fin ie say science court pour le tort quictance desirer le les ayde lest et ils equiz
+HC43 lmw 0.4: ilz debuoient huit cens mil escuz a flores de medina et quilz auoient en retarder en uoir moyen de les fournir apres l i iue de la flote lesquels ilz ont ia satez et depuis prouen aux autres ces iours pa sez ung nauire normant rins ung petit nauire de ueue de la ro nequi place lon dit a s a i x i pour le prendre dont elle a este gran colere et estre en les de uoz subiectz qui eschient par son royaume a la fin s iay bien remonstrelet de tauoit son neu par celle les et de la liquee a dez auro

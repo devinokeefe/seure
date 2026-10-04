@@ -1,0 +1,21 @@
+% set HC43 (heldout): 382 signs against 441 letters; cost 245.6; 286 signs on their key value.
+% sign=unit per sign ("_" = null, "[word]" = word code); "!" = the unit is not the key value of the sign; "(-x)" = plaintext letter x has no sign.
+start: (-i) (-l)
+43_f82r_PS.L01: lo=_ +o=_ n=z R=de 100=_ 8=_! Ca=_ 3=u Cx=_! #p=o N_pt=_! Tr=_ sl=i Zb=_! 1=e 23=_ f=n Ak=_ ooo=t V=h ^=u M=_ n=i!
+43_f82r_PS.L02: Qb=c! Aq=t s=ce xx=n #=s ###=m ##=i +d=l 3s=e z=s x=_! +=c 3=u n=z mt=a Phi=ux! (-f) #1=o Ca=ir! ff=e z=s R=de N_mo=m! 1=e s=_!
+43_f82r_PS.L03: *=d Lc=i f=n Nf=a P=_! Tr=_ N=qui vl=l n=z #b=a d=u 8=o #=i! 3s=e ==n Qb=t y=[faict]! 3=r! ff=e ooo=t #b=a +f=r R=de
+43_f82r_PS.L04: h=r A=[pour]! mm=n 6=a! ^=u #p=o sl=i +f=r To=moy! 1=e xx=n R=de E=c! #=e! c=f #1=o 3=u Hr=r f=n Lc=i h=r P=q s=ue!
+43_f82r_PS.L05: Nf=a g=p +=r! 3s=e z=s cl=l #=a! ##=rr! ##=i d=u (-e) ff=e R=de cl=l o=a Phi=_! c=f #1=lot! ooo=t 1=e E=le W=s P=q cl=u!
+43_f82r_PS.L06: v=e! po=l! n=z (-s) #1=o mm=n Aq=t sl=i o=a B=p! #b=a oo=y 3s=e n=z Zb=et R=de EE=p ^=u Lc=i #=s ooo=t +f=r 6=o (-u) 3=u 1=e
+43_f82r_PS.L07: f=n #p=o d=u x=ue! mt=a (-u) po=c! Hr=r 1=e y=dit! s=ce #=s ##=i #1=o ^=u g=r! z=s g=p Nf=a (-s) W=s 3s=e n=z 3=u
+43_f82r_PS.L08: xx=n r=g! f=n #b=a d=u ##=i 6=r! ff=e xx=n #1=o +f=r m=m o=a f=n Aq=t (-p) h=r ##=i xx=n t=t! ^=u f=n
+43_f82r_PS.L09: Cx=g EE=p ff=e ooo=t Lc=i Aq=t mm=n Nf=a 3=u #=i! Hr=r 1=e R=de EE=g! 3=u 1=e 3=rr! 3s=e R=de +d=l o=a +f=r
+43_f82r_PS.L10: 8=o M=_ 8=y! xx=n ff=e N=qui EE=al! vl=l o=oit! #b=a s=ce 2=que! cl=l #p=o xx=n y=[dict]! Nf=a #=l! #b=a cc=r! 7=_
+43_f82r_PS.L11: x=ac! #=he! Phi=po! A=ur E=le g=p +f=r ff=e mm=n B=d! +f=r 9=e *=d +=o! f=n ooo=t 3s=e cl=l E=le o=a J=es (-t) ff=e
+43_f82r_PS.L12: 1=e f=n Cx=g Hr=r Nf=a xx=n (-t) +=c c=o! E=le h=r 3s=e ae=et! V=a! h=[faict]! ff=arr! 2=_ 1=e f=ste! +f=r
+43_f82r_PS.L13: E=le #=s Aq=[nauires]! R=de 3=u #1=o n=z z=s ^=u #=bi! ff=e +=c t=t! n=z N=qui J=es (-t) 6=o Lc=i 9=e mm=n Aq=t
+43_f82r_PS.L14: sl=par! #=s 6=o xx=n +f=r #p=o x=y! Cx=a! mt=ul! ###=m 3s=e ff=[mais]! o=a +d=l Nf=a po=f! #=i! mm=n #=ie! II=luy!
+43_f82r_PS.L15: #b=a Cx=y! B=s a=i! #=bi! 9=e f=n +=_! +=r! 3s=e ###=m #1=o ==n z=s Aq=t Hr=r ff=e E=le ooo=t 6=o 3s=r! Aq=t
+43_f82r_PS.L16: P=que! #b=a d=u #p=o Rl=i Qb=t z=s 6=o f=n y=_! xx=n ff=a! ^=u sl=i +=r! 1=e Ak=_ 2=_ 100=que! vl=l E=le
+43_f82r_PS.L17: To=_ E=le 12=_ W=s Cx=a! Zb=r! R=e! 23=_ vl=l N=_! Tr=_ #b=_! C3=a Lc=_! x=s! *=c! P=h! Tr=_ ff=e o=_!
+43_f82r_PS.L18: R=_! Tr=_ n=z +o=_ 13=_ 3=_! Ll=_! M=_ A=_! Tr=_ 6=_!

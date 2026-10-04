@@ -1,0 +1,47 @@
+% Alignment of letter 40 (earlier transcription, before the class splits) with its decipher, from which
+% seed_letter40.tsv was counted. Format as results/align_<set>.txt: sign=unit, "!" = not the key value, "(-x)" = a
+% plaintext letter with no sign. Used by code/keyfit_control.py.
+L001: B=s To=i J=es O=t s=c! Cs=e P=q l=ue ##=i bar=_ d=u A=_! #=s 1=_! +=_! Ve=_! s=q! z=u! Ca=e ff=s! 7=a! g=p 6=_! h=r 100=_ ff=e s=_!
+L002: W=s ii=_ 9=e xx=n M=_ +=t x=i! 1=lz! f=n t=_! 7=e! ==n d=on! oo=t 6=p! ff=e ^=u #b=a (-t) Aq=t +f=r o=a Cz=p xx=p! 9=e Hr=r Ve=que! R=de 6=_!
+L003: 3=u m=x! s=ce f=n #=s +=m! +f=i! Ob=l #1=e! z=s +=c! d=u n=z N=qui ff=e #1=s! ae=toi! ff=e ==n Ve=t o=a ^=u mm=n z=g! d=h! B=o! 7=m!
+L004: ##=m! 1=e R=de Cx=g cc=l #=i! W=s 3s=e E=le #=s P=q k=ue (-l) n=z z=s Pb=o f=n oo=t x=c! Phi=onf sl=i W=s Pt=que n=z uT=l Nf=a 6=r! #1=o
+L005: To=_! x=y xx=n ff=e R=de ae=[portugal] #b=a EE=p 1=e +f=r m=m #=i! #=s Q=et o=a k=cc! 6=o Hr=r R=de mt=a 6=u! #b=r! Q=o! oo=y! g=p V=h
+L006: m=e! a=l #=i! II=p 8=p 3s=e #=_! R=de EE=p #1=o (-u) 3=u 6=o sl=i +f=r ff=e mm=n d=u #p=o c=y J=e! Hr=r 3=e! ==n vl=l cc=i!
+L007: W=s E=le R=de cc=l #b=a Aq=t ff=e 6=r! M=_ s=ce (-i) +f=r o=a ta=nau ##=i Hr=r 1=e y=s Phi=[armez]! 6=e! k=t! #=of! +=fic! sl=i 3s=e
+L008: 9=rs! z=po! A=ur h=r ff=e t=c! p=ou! ^=u +f=r 1=e Hr=r E=l! y=arg! pa=ent N=qui O=y! #b=a J=es (-t) 3s=e cc=l o=a Aq=i! *=ss! ff=e 1=e f=n g=p
+L009: ff=as! y=s #b=a II=n! Aq=t Zb=et Phi=p! 3=u (-i) #=s W=s o=a mm=n s=ce R=de p=c d=h! Nf=a #1=s! Ve=t sl=i ff=e +f=r Q=et 6=o h=r
+L010: *=d #1=o (-n) f=n 1=e h=r +d=l Nf=a R=de (-s) #=s ^=u z=s o=a W=s II=o! mm=n EE=p c=l! d=ai! #=s 6=i! Hr=r (-c) 1=e Ve=que! E=le W=s z=g! 9=e ==n
+L011: #=s R=de 8=b! sl=i 3s=e oo=n! R=de s=ce g=p #b=a oo=y! W=s t=t! yb=r #1=o (-u) ^=u ff=e f=n oo=t *=b! sl=i 1=e mm=n J=es (-t) Hr=r Dt=a mm=n Ce=ge
+L012: 3s=c! 8=om! ###=m ff=e #b=a vl=l o=a d=u 1=e +f=r ae=i! Aq=t y=e! 1=il! J=es +=t Nf=car! *=po! A=ur h=r +f=i! ff=e ==n #=_! E=le vt=s R=de
+L013: d=ff! 3=u mm=n p=c 2=t n=z Hr=r 6=o c=y W=s R=de ii=_ ae=[portugal] ==n 1=e E=le ^=u *=ss! 3s=e E=n! oo=t C=per! m=m sl=i Ce=s! c=i! *=lz!
+L014: oo=y! #p=o uT=n! Aq=t ff=e mm=n 3=u #1=o Cx=y! 1=e Nf=a oo=t #1=o ^=u Ve=t 3s=e 6=d! cx=il cc=l #=i! Cx=g ff=e ==n s=ce *=_! *=d
+L015: 9=e ^=_! 3=u 3s=_! sl=_! o=a ff=nt! N=qui +=l! n=z mm=n 1=e E=le Hr=r 3=e! +=c! #1=o (-u) d=u h=r ff=e t=n! oo=t x=q! t=u! 1=e #=i! J=es s=t!
+L016: sl=i ###=m 3s=e N=qui 6=_! H=lz ff=n! ff=e c=f! 1=e +f=r 6=o xx=n Aq=t 8=b! #=i! 3s=e ==n Nf=a a=i! h=s! ff=e t=m 9=e ?=_ f=n t=t! R=de s=_!
+L017: #=_! Tr=p cc=_! ^=u sl=i #=s ###=m 3s=e #1=_! y=s ff=_! Zb=_! R=de Hr=r ==n ae=i! 1=e d=r! 3s=e W=s d=d! s=ep! ff=e +=sc! V=h 9=e 23=s!
+L018: sl=i Nf=a oo=y! 1=e ^=u mm=n 8=ou! 3=u 3s=e vt=l! E=le W=s N=qui vl=l n=z p=f! #1=o xx=n Qb=t d=u f=n 3s=e Hr=arm! ff=e oo=_!
+L019: ^=_! 3s=e R=de ta=nau (-i) *=res! C3=a m=m d=a! E=le Cx=g Nf=a #b=a +d=l +2=i M=_ p=c (-a) mm=n oo=t h=e! 9=e ae=t! +=cal!
+L020: sl=i x=s! Phi=e! s=t! x=di! v=s 3=e! f=n Aq=t P=que! p=c J=es (-t) A=[pour]! ff=e xx=n 3=u #1=o C=y! 9=e +f=r 3s=e xx=n +=s! #=i! p=c Aq=il!
+L021: E=le Zb=et mm=n #b=a 23=_ 8=p vl=l ff=e v=s R=de W=s *=s! 6=o vl=l *=d o=a +=t n=z P=que! E=le m=m Nf=a h=r *=q!
+L022: ooo=u! #p=is! *=d (-e) cc=tar! s=iff! 9=e N=qui c=y J=es (-t) #1=o 6=r! *=d #p=o xx=nne! 3s=po! A=ur (-u) +2=i #=s 8b=r 8=o! oo=y! V=[faict]! E=[leuer]!
+L023: Hr=po! A=ur Cx=y! 1=e xx=n ^=u 8=o! x=y 3s=e Aq=r! p=il! 6=d! 6=o +2=i (-b) 2=t C=pa (-r) ooo=t sl=i Hr=r ?=_ cc=bi! ff=e mm=n ooo=t #1=o (-s)
+L024: Aq=t z=luy! Hr=m! 1=e v=s m=m 3s=e W=s B=s c=il! xx=n ff=e +=[lest]! R=de *=s! sl=i #b=a #p=o II=r! o=a t=n! xx=n ff=a!
+L025: #p=p! *=as! J=es (-t) 1=e o=a z=s S=si 3s=e vl=g! ff=e ss=q m=u! 1=e o=il! n=z g=p 3s=e xx=n v=s +=o! ##=i 3s=e xx=n Aq=t (-c) 6=o ^=m!
+L026: o=me! mm=c! ooo=es! +=t J=_! th=h oo=y! d=u ff=e Hr=r p=il! n=z Cd=p Nf=a h=r E=le xx=n t=t! m=a! tl=u W=s B=s (-i) R=de t=nu!
+L027: #1=o Cd=y! 6=er! 2=qu! v=el! P=q 12=ue #=s v=s 6=o vl=l M=_ *=d d=a! ooo=t n=z #b=a +d=l C=a! +=go! cc=l E=ett!
+L028: 3s=e A=[pour]! Ve=r! #b=a z=ff! Hr=r ff=e W=s p=c U=h r=i h=r +d=l #b=a x=g! o=a Ve=r! E=n! ##=i v=s 6=o f=n p=il! n=z #1=o (-n)
+L029: Qb=t f=i! Nf=a #=s #b=a oo=t R=i! v=sfa! V=ict! E=le W=s th=h ^=u f=i! +=t t=_! s=ce mm=n #=s t=m d=i! vl=l E=es!
+L030: p=c 3=u h=z! N=qui vl=l n=z R=de (-b) d=u #1=o #=i! ff=e f=n oo=t L=e W=n! E=f! #1=o x=i! Hr=r ff=e #=s R=de ###=m 1=e
+L031: Ak=di mm=n o=a ae=et! *=d #b=a d=u o=a f=n Aq=t Nf=a (-i) Cx=g 3s=e #p=o xx=n Qb=t V=fa! t=ict! ^=u xx=n vl=g! C=pa o=rty!
+L032: R=de B=tr! m=oys! s=ce mm=n #=s m=m f=i! vl=l E=_! ff=e Lam=s +=c! d=u n=z #b=a ^=u 1=e p=c 2=que! #=s 3=u 1=n!
+L033: k=g! Zb=ge! xx=n ff=e ^=u #1=o x=y W=s N=qui E=le 3=_! +f=s! B=d! #1=o #=i! a=b! Qb=t #x=li d=u h=r 9=e Ve=r! 1=e (-n)
+L034: c=f! cc=l Nf=a xx=n *=d Hr=r ff=e #=s #b=a R=de ^=u x=x! J=p! o=a oo=ye! ###=m 1=e mm=n W=s *=d #1=o f=n (-t) E=le
+L035: R=de Hr=r xx=n ##=i 3s=e +f=r 4=est ff=e xx=n s=ce To=moy! v=s R=de t=m o=a h=r W=s 8=p +f=r 8=o! p=c th=h #b=ain!
+L036: E=le r=g! 9=e f=n (-e) d=u #p=o oo=y! #=s r=_! Nf=a xx=_! 2=p! h=r #1=o p=uff! ##=i +=c! ooo=t R=de B=tre! f=n m=_! 8b=t! ^=e! E=p!
+L037: Aq=o! A=ur s=ce xx=n Qb=t l=il! n=z z=s #1=o xx=n ooo=t 9=e xx=n 8=p +f=r #1=_! 6=o Aq=_! x=_! x=p! #p=o n=s! R=de xx=n ff=u! f=o!
+L038: x=y 9=e Hr=r C=pa E=r! ff=la! +f=r Zb=_! 9=e 6=d! #1=o 3s=e mm=n c=f! vl=l #b=a ==n *=d +f=r 23=_ ff=e W=s #=s
+L039: Ob=ur! l=les! ta=[nauires]! N=qui L=deb! 3=u #1=o ##=i 9=e xx=n ooo=t 3=p! c=o! Hr=r Aq=t 3s=e h=r ca=la *=[royne]! #1=[marie]! xx=do! f=n ##=i a=u!
+L040: #b=a xx=n R=de ^=u ff=e M=_ x=g! o=a 7=est t=m #p=o +f=r Qb=t N=qui 7=est #p=o cc=i! ooo=t p=p! Hr=r 1=e B=s (-i) 6=den!
+L041: oo=t *=[despaigne]! ma=e Phi=t! th=h #1=o *=mm! ff=e R=de v=s 3s=e Hr=r d=u cc=i! s=ce +d=l #1=o xx=n y=dit! P=que! E=le s=roy!
+L042: 1=_! Aq=_! Nf=_! d=_! E=_! R=_! 3=_! Il=_ dd=_ 7=_! m=_! #=_! B=_! R=_! s=_! #=_! ff=_! mm=_! 1=_! f=_! #b=_! oo=_! 3s=_!
+L043: +=_! #1=_! h=_! ff=_! #=_! 2=_! +f=_! ##=_! t=_! 1=_! mm=_! Ve=_! W=_! 6=_! 6=_! Nf=_! 23=_ *=_! 3=_! s=_! Hr=_! 3s=_!
+L044: Aq=_! 100=_ 8=_! 30=_ 13=_ 7=_! 2=_! R=de Td=[castille] 12=[lest]! n=[aussi]! (-d) (-e) (-c) (-e) (-i) (-e) (-n) (-e) (-n) (-a) (-y) (-e) (-n) (-c) (-o) (-r) (-e) (-s) (-r) (-i) (-e) (-n) (-d) (-a) (-s) (-s) (-e) (-u) (-r) (-e)

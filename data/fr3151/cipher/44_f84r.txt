@@ -1,0 +1,24 @@
+% BnF ms. fr. 3151, no. 44 (Gallica ark:/12148/btv1b9059865k): Seure to Henri II, Lisbon, 12 December 1558.
+% fo. 84r (view 85, right-hand page): cipher block A, first part (continued on fo. 84v).
+% Plaintext: contemporary decipher on fo. 85r-v (data/fr3151/plain/12dec1558_text.tsv, segment A).
+% The first line is the end of a clear-text line ("Et" is a label for a sign resembling the abbreviation of et).
+% The labels oo?, 8?, cc?, c?, p?, t? are labels in their own right (see docs/SYMBOLS.md): this page was read before
+% the classes oo/ooo, 8/8p, cc/cl, p/po, t/ts were split and was not re-inspected for the split. A lone "?" is an
+% unreadable sign.
+% Format: one manuscript line per text line; sign labels separated by spaces (see docs/SYMBOLS.md);
+% "%" starts a comment; "Lnn" = line number within the cipher block.
+Et +o sl   % L01
+1 + +d oo? ff Q S ii D 2 m 7 #b +o a CR J sm ff 3 R a l d c? Qb o   % L02
+re # 3s n ff 3 # CS 6 1 + 3s t? oo? ss x xx #1 sm J f v Aq h ff x 8? cc?   % L03
+1 t? W ^ II 3o d Nf xx Qb s Ve sl 3s B ff mm #b oo? mt ooo + 1 # p? 6 6   % L04
+v 3s W + Hr cc? d # ff # 1 6 #p ooo Cd Wl 3s * #1 # Ve ff +   % L05
+ff P L f 3s ### oo? s Cv Hr 4 xx oo? v ae 3 x o cc? Xs ff + 1 mm Dt   % L06
+N +d h R s m #p M +f R ? 13 R =o 7 R vl #b #1 ^ A m sl 3s d   % L07
+cc? m d C3 Ve 8? 3 ooo E mm ff 6 Sh c? Phi Dt #p ^ Ve E To A xx N   % L08
+r #b R # # Aq ss R Hr cc? 7 ooo 3s mm II Hr +d Pl CR d ff vl   % L09
+h L 8? Dt +f 3s B ae #b y ff p? d 6 Ve 1 II Zb + ooo Hr 3s cc? o v vl   % L10
+^ W y ff # #1 m 1 P 7 v E Nf a #b ? s Sh Dt 3s o v ff re   % L11
+d sl +d E Nf 3 #p cc? Ve m W B Rl # a #b + Phi L v II W E # R   % L12
+v d W M #1 Hr 3s # ^ xx ff Xs Sh Nf f R c? d #b mm oo? sl Dt 1   % L13
+B pa N J o rr cc? 3 s 3 ^ + o +o v f Ve R p? d c? # ff Hr W s   % L14
+9 # 1 + 8? mm oo? 3s 8? sl ff f II 9 3 cc? + Dt #p ^ xx 1 d c?   % L15

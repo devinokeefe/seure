@@ -1,0 +1,40 @@
+% BnF ms. NAF 6638, piece "N. 4", p. 29 (Gallica ark:/12148/btv1b525105423, view f41): cipher block.
+% NAF 6638 is a 19th-century pen copy of St Petersburg, National Library of Russia, Dubrovsky autographs ms. 110.
+% Seure to Henri II, [Lisbon, February 1559], undated and unsigned in the copy. The copyist drew the cipher signs
+% one by one. Transcribed from the image, 2026-10-04.
+% One line per line of the COPY (the line breaks of the original are not recoverable). The first line is the cipher
+% at the end of the clear line "... il feroit s'il avoit guerre"; the last is the cipher at the head of the clear
+% line "Par ou Vostre majeste peult ...".
+% Notation in the NAF 6638 files: label = confident; label? = uncertain best guess; a?|b = best guess a, close
+% alternative b. Here a trailing ? always means "uncertain" (the labels oo? 8? cc? c? p? t? of letter 44 are not
+% used). The scripts take the first alternative with the ? removed.
+% The copyist regularises the shapes. Copy shape -> label conventions:
+%   ff with a long crossbar -> ff ; two tall strokes with only small ticks or hooked tops -> ff?|Nf (the original Nf
+%     has two tall uprights joined by an arch and no crossbar; the copy cannot be told apart reliably)
+%   # (2 uprights x 2 bars) -> # ; one slanted stroke x 2 bars -> #1 ; double-stem p -> #p ; box with stem -> #b
+%   loop pierced by a stem -> Phi ; D-loop + small s/c -> Q ; lt-like pair struck by a long bar -> E
+%   tt with curled feet -> Hr?|## ; 3 struck by a slash -> 3s ; plain 3-like sign -> 3 ; z-like -> z
+%   upright with arrow top and base bar -> ^ ; 7 with left-curling descender -> J (alt 7)
+%   7 crossed, long descender -> Qb ; theta-like loop crossed by a bar -> Aq
+%   y with S-tail -> y?|v (both = s in the key) ; small ee pair -> cl?|cc ; tall ll pair -> cc?|cl
+%   small e -> c?|vl ; hook with tilde -> vl ; C-flourish + mmm -> mm ; (M)-like -> mm?|M or mm?|mt
+%   C enclosing a 3-like sign -> Cz?|Cx ; brace -> C? ; stacked waves -> xx (xx and = are both n)
+% The numerals 13 and 40 are written as such.
+% Lines 9-10 repeat a run of about 20 signs of lines 8-9 ("9 W #b B xx 3s s # ff # Aq ff y a 9 W #p f Cz xx"): a
+% dittography, either of the copyist or of the original.
+13 C? 40 #1 ^
+D L ### s ff?|Nf Cz?|Cx J?|7 ff R 9 9 mm?|M 3 + z Q 3s?|S B
+v #?|II h Phi? cl?|cc #p + x o B #1 f 6 v +f xx ooo
+2?|9 S?|th #b 6 c?|vl ff ^ m 9 # Ca?|Cx p Aq sl Hr?|## Phi? J?|7 cl?|cc ff?|Nf z?
+ff o + mm?|mt W 9 R +f #b J?|7 3s f Q ff R cl?|cc
+ff?|Nf p c?|vl v E 9 Phi xx 3s mm?|mt + #p # mm s r?|v # 9
+^ cc?|cl z P ff +f 9 J?|7 3s xx p J?|7 ff 8?|ae #1 f 9 z?|3 r?|v c?|vl
+Q xx ooo 3s * ff mm E 9 f B h 3s?|p o Qb ff p?|+f
+9 W #b B xx? 3s? s # ff # Aq ff y?|v a 9 W #p f Cz?|Cx xx
+3s # ae?|Rq P ff?|Nf y?|v ff p?|+f 9 W #b? B xx 3s s # ff?|Nf
+# Aq ff y?|v a 9 W #p f Cz?|Cx xx 3s o xx s R D 3s?|S f
+ff + oo B B mm #b 3 9 n +f? o g?|9 ff?|Nf sl x J?|7 ### sl?|f y?|v 9
+W d d?|dd h cl?|cc #b c?|vl E h Phi Aq ff E v? A?|^ Hr?|## R
++ J?|7 9 y?|v 3s vl cl?|cc v? ooo ff N ^ ff?|Nf m o cc?|cl
+mm E 3s xx #b f Qb +d?|+f ff P c?|vl E ff f c?|vl #p
+h 9 # P c?|vl E p

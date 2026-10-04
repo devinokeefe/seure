@@ -1,0 +1,198 @@
+% BnF ms. NAF 6638, clear text of the copy from p. 29 (after the N. 4 cipher block) to the end of p. 34
+% (Gallica ark:/12148/btv1b525105423, views f41-f46). Diplomatic transcription from the images, 2026-10-04: the copy's spelling is
+% kept (accents as the copyist wrote them; u/v and i/j as written). One line per line of the copy.
+% "=" at a line end and at the next line start = the copyist's hyphen. Comment lines "% --- p. NN" start a page;
+% other comment lines in square brackets describe marginal notes and corrections. "*" in the text is the copyist's
+% reference mark; the lines "% FN31:" give the footnote at the foot of p. 31 to which the mark on that page refers.
+% What this text is (docs/NAF6638.md): from "Par ou Vostre majeste" to "laquelle, encores que elle" it is the
+% decipher of the N. 4 cipher block; from "n'apporte riens" to the end of p. 34 it is the decipher of the N. 5 block.
+% --- p. 29 (f41), after the cipher, which ends "h 9 # P e tt p." on the same line
+* Par ou Vostre majesté peult
+% [margin, right, beside this line: "* F. 10a" (the a raised) = folio 10 recto of the original begins at the asterisk]
+veoir que l'occasion dont il luy a pleu
+m'escripre est passée à cause de la venue
+de la flotte; et neantmoins puis que elle est
+en ceste bonne volunté d'entendre à telles
+et si necessaires besongnes, et que asseurement
+toutes l'esperance de vostre ennemy, si vous
+n'avez la paix est mise sur l'aller et
+retour de ceste ditte flotte qui va main=
+=tenant, laquelle, encores que elle n'apporte
+riens des repartimens, amenera certainement
+troys ou quatre millions d'or pour les partyes
+% --- p. 30 (f42)
+et pour ses droictz ordinaires, je suis d'advis
+si en avez le moyen, que envoyez à ce moys
+de may prochain, ou plus tost, si pouvez,
+dix ou douze bons navires de guerre en ces
+quartiers la, esquelz il y ayt quinze ou
+seize cens bons hommes oultre les mariniers
+qui aillent saccaiger et brusler en passant
+l'isle de Porto Rico et la ville de San Domingo
+qui est maintenant fermée de murs de terre
+à demy parfaictz, la ou ilz ne trouveront gueres
+de resistance; et si feront ung bon butin; et,
+sans soy guieres arrester là, tirant droict
+au Nombre de Dios, ou ilz trouveront asseu=
+=rement tout l'argent qui sera venu ceste
+année du Perou, attendre la venue de la
+flotte de deça; et en ung besoing, avecques
+mille ou douze cens hommes traverser jus=
+=ques à Panama, ou ilz pourront oultre le
+bien qu'ilz y trouveront, surprendre toute
+la flotte du Perou au port de la ville,
+laquelle ilz trouveront en sec, parce que
+elle y demeurera jusques en septembre, et
+après, si bon leur semble, pourront
+% [line ends with a long filler stroke through/after "pourront"]
+la demeurer quelque temps, attendant
+% ["la" re-inked; a small interlinear "o" stands over the e after "dem": i.e. corrected to "demourer"?]
+la flotte qui s'appreste à Seville, maintenant,
+ou ilz feroient ung beau coup, ou bien tirer
+jusques à la coste de Fonduras et Porto
+% ["Fonduras" as written (= Honduras); the capital looks like an F/T]
+de Cavallos qu'ilz saccageroient aussi en
+passant et de la jusques à la Vera Cruz
+ou ilz surprendroient toute la flotte qui
+va maintenant traicter à la Neufve
+% --- p. 31 (f43)
+Espaigne et si feroient ung bon butin à
+la ville ou il n'y a quasi nulle deffence
+et rapasseroient à la Havanna ou ilz
+pourroient desmollir la nouvelle fortiffica=
+=tion que l'on y faict à present; et de cela
+reusciroit ung tres grant service à Vostre
+Majesté: car oultre le gaing tout asseuré
+qu'ilz feroient * à vostre ennemy, ilz meteroient
+% [the raised "*" after "feroient" refers to the footnote at the foot of p. 31, see below]
+toutes les Indes en tel effroy que de deux
+ou troys ans et peult estre durant ceste guerre
+il n'en viendroit ung seul soul; ny iroit
+ou viendroit marchant ny navire pour y traicter;
+quant à aller jusques à Panama, cela se
+% [margin, right, beside this line: "F 10b" (the b raised); no asterisk in the text line]
+faict sans danger, car le chemyn est petit
+et les habitans de là, de petite resistance,
+oultre ce qu'ilz pourront mener forces cha=
+=lupes et basteaulx chargez de vivres par la
+riviere de Chagre qui vient cheoir près
+du Nombre de Dios, laquelle naist à quatre
+lieues dudict Panama, desquelz ilz se
+serviroient au retour pour apporter leur
+butin et ce qu'ilz auroient saccaigé. Vos
+dicts navires, que je dictz, pourroient aussi,
+si bon vous semble, aller attendre pour
+% ["attendre": first letter re-inked]
+tout juillet, es isles Dominicque ou Desseade
+qui sont au passaige d'icy à Domingo, la
+flotte de Seville qui y arrivera en
+ce temps la au plus tost, et demourer
+la quelque temps avecques bonnes gardes
+et forces barques en guect. Car ilz ne
+fauldroient poinct de attrapper tous les
+% [FOOTNOTE at the foot of p. 31, smaller hand, keyed by "*" to "qu'ilz feroient * à vostre ennemy" (L8):]
+% FN31: * au sac dudict San-Domingo et Nombre de Dios et aultres endroictz, et le
+% FN31: dommaige qu'ilz feroient
+% --- p. 32 (f44)
+navires, les ungs après les aultres, et
+en ung besoing l'attendre au mesme port
+de San Domingo, après l'avoir bruslé et
+s'estre saisiz de tous les basteaulx du
+port et de celluy du port de Platta qui
+est au nord de l'isle, affin de leur oster
+le moyen de l'advertir, qui seroit une bonne
+maniere; mais que celluy ou ceulx qui en
+auront charge voulussent avoir patience
+et attendre, comme font les corsaires de Le=
+=vant, leurs ennemys à la poste, avecques bon
+guet; et apres executée ou faillye ceste
+entreprinse, pourroient tousjours aller la ou
+je vous ay ja dict, ou ilz trouveroient
+forces bonnes besongnes. Qui est tout ce
+que puis vous en dire et ce que en ay
+peu apprendre, n'y ayant esté. Quant à
+% ["esté." re-inked / overwritten]
+les attendre es Assores, comme vous ay
+% ["comme" re-inked / overwritten]
+aultresfoys escript, me semble que sera
+peyne perdue; car depuis cest esté dernier
+l'on a augmenté à don Alvaro qui
+avoit quatre ou cinq navires pour l'escorte
+d'aultre tant; et n'est possible desormais
+d'armer navires l'esté en voz costes qui
+soient pour porter deffiance; et que les
+Portugais et maraus qui sont habitans
+par dela n'en advisent par deça, comme
+ilz feirent dernierement que le baron
+de Cleres sortit, qui fut occasion que
+don Alvaro retourna en arriere et mena
+plus grant nombre de navires qu'il
+% --- p. 33 (f45)
+n'avoit accoustumé. Mais de ceste premiere
+trousse ne peuvent doubter, car il fault
+publier qu'ilz vont saccaiger les Canaries
+comme ilz feroient aisement en passant.
+J'ay entendu par des Portugais secrettement
+que c'est chose asseurée qu'il y a grandes
+et infinyes richesses au long de la riviere
+des Amazones, aultrement ditte Orellana:
+c'est la plus grande riviere dont l'on
+ayt congnoissance, et prend sa naissance
+au Quitto du Perou et court quasi mille
+lieues soubz l'equinoctial. Elle est de difficille
+entrée pour navires rondz; et ne se peult
+% [margin, right, beside this line (inside the ruled block): "F. 11a" (the a raised)]
+faire ceste conqueste que avecques des fustes
+et brigantins de reme, en peuplant pre=
+=mierement quelques endroictz près de la,
+à la mesme coste. Les Portugais la main=
+=tiennent de leur reparticion; mais elle est
+des Castilhens. Je leur en laisse le debat
+% ["Castilhens" as written (= Castillans)]
+comme encores de Maluquo, ou ilz disent
+que lesdits Castillans retournent ceste année
+avec cinq navires qu'ilz ont faictz en la
+mer de Sur. L'on a ja envoyé une partye
+des soldatz que vous ay escript que l'on
+levoit en Andalouzye, à la Goullette et
+en Secille, par des navires marchans qu'ilz
+% ["Secille" = Sicily (not Seville)]
+avoyent à Malegua et Cartagena. L'alarme
+est bien grosse à laditte Gollette, car Dragut
+s'en va Roy de Thunys, à ce qu'ilz disent,
+s'ilz n'y remedyent. Ilz ont envoyé de
+Seville force mulletz chargez de realles,
+% --- p. 34 (f46)
+à Valladolie et Barselonne pour envoyer
+hors d'Espaigne. Quant à celluy que on porte
+a Barselonne, il appartient aux Genevoys qui
+feirent le party cest esté passé, lesquelz
+eurent licence de tirer par leur dict party ung
+million et demy d'or. Quant à l'aultre, l'on
+en a faict acheminer à Laredde quelque
+somme; et si s'est faict ung change dès
+janvier passé à ung aultre Genevoys de
+six cens mil escus que l'on luy baille
+par deça pour livrer en Flandres pour tout
+mars. Il y gaigne dix huict pour cent; c'est
+pour evitter les despences et hazardz de la
+mer; et croy bien qu'il ne leur demeure
+% ["croy" written above a struck word: {^croy}{~...}]
+guieres d'argent maintenant es mains des
+deux millions et troys cens mil escus venuz
+dernierement du Perou, car ilz ont payé
+huict cens mil escuz qu'ils debvoient à
+Medina. Vray est que cela leur est ung
+moyen de trouver nouveau credict et faire
+leurs affaires. Ilz ont encores attrappé depuis
+cela deux cens mil escuz qui n'avoient
+esté registrez, et sont apres celluy qui s'est
+desembarqué es Assores. Mais j'estime quilz
+ne prouffitteront, car ilz ont eu trop de
+loisir. Ilz ont eu quelque allarme du
+% ["eu" written above a struck "en"]
+Roy de Navarre. Mais cela se passe
+et en avoient grande craincte pour estre
+assez desnuez d'hommes.
+% [p. 34 ends here; p. 35 (f47) begins with the heading "N° 5" and the cipher (margin "F. 12a").]
+% No margin notes on pp. 30, 32, 34. No folio mark "F. 11b" anywhere on pp. 29-34.

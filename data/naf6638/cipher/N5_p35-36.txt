@@ -1,0 +1,84 @@
+% BnF ms. NAF 6638, piece "N. 5" (Gallica ark:/12148/btv1b525105423): cipher block, pp. 35-43 of the copy (views f47-f55).
+% Seure to Henri II, Lisbon, 12 February 1559; 19th-century copy of St Petersburg, National Library of Russia,
+% Dubrovsky autographs ms. 110 (the copy's margin marks the folios of the original: F. 12a to F. 14a).
+% Transcribed from the images, 2026-10-04. One line per line of the COPY. A comment line "% p. NN" starts a page.
+% Notation as in N4_p29.txt: label? = uncertain; a?|b = best guess a, alternative b.
+% THIS FILE: p. 35 (view f47) and p. 36 (view f48). The cipher starts straight under the heading "N. 5" (margin
+% "F. 12a"); there is no clear salutation.
+% Copy-shape -> label conventions: as N4_p29.txt, plus (shapes first met on these pages):
+%   ꝏ (three loops with lead-in, "aoo") -> ooo ; ∞ / io (two loops) -> oo
+%   ∂d / Dd (D-loop + d, one box) -> d?|dd  (N4 known plaintext: copy ∂-signs align to u = original d)
+%   ꝉt / ℓt struck by a bar -> E? ; ∂t / Oc struck (D-loop + t/c) -> Q?|E ; ££ (looped L pair struck) -> E?|Hr
+%   ŁŁ / KK (two curly-footed t's or k's on one bar) -> Hr ; ℒ (looped L, no bar) -> L? ; { (brace) -> C?
+%   θ / ꝋ crossed by a bar -> Aq?|+f ; £ / ꞙ (upright, arrow top, crossbar) -> ^ ; A -> A?|^
+%   ʃʃ with ticks or hooked tops but no crossbar -> Nf?|ff ; 7 whose top runs into a ſ-hook -> 7?|sl
+%   ſv / ſſ~ (long s + v, often with a tilde) -> W?|ss ; W (tall, wavy) -> W
+%   ʋ (u/v with a ball terminal) -> v  [NB: in N4 this copy shape aligns to o, not s; see docs/NAF6638.md]
+%   ɤ (hook with blob, no tail) -> v? ; y (long tail) -> y
+%   small ꝛ -> r? ; ꝛꝛ -> rr? ; η (n with long right leg) -> n? ; ɧ / h with loop -> h ; ℊ -> g?|9
+%   ⊄ / box with stem AND an extra crossbar -> #b?|Cx ; # with one long bar -> ##?|# ; #### -> ###
+%   ≈ light -> = ; ≋ stacked with hooks -> xx ; ꝶ (heavy x with r-tail) -> x?|ae ; & -> ae?|8 ; ȣ -> 8?|8p
+%   " (ditto-like pair of ticks) -> ii? ; ɂ with slash -> ??|To
+% p. 35
+mm o B 1?|9 + Aq?|+f ooo ff E?|Hr 7?|sl 9 x?|ae y R W?|ss h
+3s C? E? cc ### ff xx # #b?|Cx m 9 f 3s? Aq?|+f Nf?|ff + 9
+h Qb o ##?|# x?|ae d + ff f ooo E? v Cz?|Cx # #p ^ vl?|c z?|3
+Nf?|ff Qb h ff ### sl x?|y cc #1 mm # 6 re?|S A?|^
+E? y L? ooo 7?|sl 9 W?|ss #b A?|^ # ff y * Aq?|+f v
+# lo?|p ooo n #1 E?|Hr 6 # xx?|ae #b?|Cx cc Aq?|+f 3s W?|ss ##?|#
+ff # d?|dd oo y * Nf?|ff 6 ^ # W B 9 xx o z?|3
+3s n? E? L? ff f P 9 xx ^ v sl 3s n? Nf?|ff s
+L? W R t #b?|Cx Cz?|Cx rr? h #p + d o cc mm v
+^ g?|9 + 3 # Qb #1 y ooo B Phi?|Aq v d?|dd 9 n? * ##?|#
+m #p ^ v #1 3 n? 3s a v mm # ta R Cz?|Cx d?|dd
+ff h 9 3s f s z 3s ^ Nf?|ff Aq?|+f Q?|E cc ff Hr W?|ss
+cl?|cc #b 9 y P vl?|c n? z?|2 Cz?|Cx o oo E? r?|z ^ 7?|sl f n? 9 #p
+3 # 3s # ff s = y 8?|8p #1 = y v v? ### ff W?|ss #1
+d?|dd cl?|cc Qb?|+f Aq?|+f 9 E? y m Nf?|ff E?|Hr mm # Qb?|2 h #
+N o 7?|sl cl?|cc E? f ooo y o p Aq r? ff h Aq?|Q a Aq?|+f
+^ W?|ss E? Hr 9 = rr? Nf?|ff # o f Qb vl?|c # y E?
+R g?|9 #p h ooo #1 Aq?|+f 7?|sl p v Phi + Nf?|ff ^ # vl?|c E?
+R # Nf?|ff = 6 v m # xx r? #1 N 3 ### o cc
+mm Qb 9 xx #b?|Cx f ooo c 3s Hr m ff R + ^ h
+W R ooo ff Aq?|+f 9 Nf?|ff R ### Cz?|Cx C? ??|To Tr V n?
+cl?|cc o #1 ^ 2?|z ii? = ff Q?|E Hr? s?|v 3s 9 Aq?|+f #1 = Qb r?
+d?|dd 7?|sl 9 Hr 3s W?|ss R h ff B # ooo Nf?|ff f s
+ae?|8 B c 9 Aq?|+f #p mm Q?|E ^ = Cz?|Cx 8?|8p #p f a 3 Qb
+cc xx #b y o f W?|ss # v? Cz?|Cx r? ^ # 9 Aq?|+f 3s W?|ss #b?|Cx
+h? J?|7 ff Aq?|+f + Nf?|ff Q?|E cc Hr 9 mm Qb v? h v?
+# C? E? mt?|m xx #p t 8?|8p Hr 3s R * 7?|sl + # v
+d?|dd p? n ooo h #p 3s 9 h #1 = Qb Nf?|ff # ff ^
+Aq?|+f 9 m 3s xx ooo Q?|E v ^ Qb + pa N y ff Aq?|+f
+#b?|Cx 3 9 xx d?|dd + J?|7 3s o ff 9 6 d?|dd R vl?|c s Nf?|ff
+% p. 36 (view f48)
+p ooo ff xx * 3s? 9 cl?|cc #b ^ 3s mm z?|3 ae? R
+cl?|cc o ff vl?|c #1 E? ff R? 12 14 R + #b ae?|8 9 xx
+^ f Cz?|Cx 8?|8p ff W?|ss #1 cc?|E xx r? Nf?|ff Qb 9 p? P #
+m # vl?|c E? #1 3 6 #p d?|dd n? 3s s mm # d?|Q v? ###
+ff y ooo Hr o d?|dd 9 h y 3s Aq?|+f sl? d?|dd W?|ss P ##?|#
+### rr? o = Nf?|ff t #b?|Cx #1 3 9 n? A?|^ Aq?|+f v? xx ooo #p d?|Q
+cl?|cc Q?|E Hr 9 E? a 7?|sl 3s f N vl?|c n? Cz?|Cx Qb h #1 ^?
+ff Aq?|+f v? xx ooo y?|z z Hr d? h 9 f * Hr ff
+E? #p d?|Q Qb 9 + ff p vl?|c #p ooo 9 v? ^ R vl?|c s
+mt?|m g?|9 #1 h Qb R cl?|cc o z 7?|sl vl?|c E?|ooo cl?|cc #b?|Cx P vl?|c
+E? vl?|c n? ooo h v? d?|Q ff h #p mm E? 9
+x?|ae # 3s p C? s P vl?|c E? oo R m 3s d?|dd Hr ff
+h Nf?|ff cc ^ y P W?|ss 9 mm # 3s rr? Qb ff ###
+a h 9 ae?|8 Nf?|ff 9 Aq?|+f 3s y B 8?|8p #1 = E? d?|Q
+E?|Hr # ff t a E? A?|^ h v? f ooo cl?|cc #b?|Cx R
+m #p ^ h ff g?|9 Aq?|+f 3s P vl?|c P E? 9 ### rr? #
+Nf?|ff p?|Phi Qb ff = * #b?|Cx f ooo + o p?|Phi vl?|c #p E? 9 N
+y Nf?|ff g?|9 h J?|7 3s o # ff ^? cc vl?|c E? ### o #
+mm ooo 9 f #b?|Cx = E? #p ^ 2?|z n? c 3s 6 #1 # ff
+xx Qb 3 f Cz?|Cx 8?|8p ff mt?|m + 8?|ae d?|dd Phi #1 ^ a
+# 9 mm ooo sl Hr 3s cc ^ # P y o vl?|c Nf?|ff
+7?|J + o W Qb ff R c?|vl #p 6 mm * ^ h Nf?|ff y
+#b g?|9 #1 Aq?|+f ooo #1 R vl?|c #b?|Cx 3 o x?|y #p # N vl?|c n?
+W W?|ss + o Cz?|Cx 9 h #1 7?|sl 3s = E? mt?|m # B
+x? = g?|9 Nf?|ff # o mm E? ae?|8 R vl?|c #b?|Cx cc 3
+W?|ss P y #b?|Cx vl?|c o d?|dd ff Hr ff p h d?|dd m #1
+^ sl? n? # 2?|z Aq?|+f Phi? Hr 9 f 6 h #1 # p ooo? E?
+v d?|Q + 3s cl?|cc o p?|Phi vl?|c #p ooo 9 N s ^ Nf?|ff m
+o # mm Qb ff xx #b?|Cx f ooo E? Hr Nf?|ff cc
++ Qb 9 h #b?|Cx vl?|c o = 7 ff ^ c 3 9 ma
+ae?|8 vl? p?|Phi 3s Aq?|+f + # ff mm ooo ^ =

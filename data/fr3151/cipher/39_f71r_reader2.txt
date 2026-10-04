@@ -1,0 +1,34 @@
+% BnF ms. fr. 3151, no. 39, fo. 71r (Gallica ark:/12148/btv1b9059865k, view 72): Seure to de Fresne, Lisbon, 12 December 1558.
+% Cipher block of 20 lines. No contemporary decipher of this letter is known.
+% SECOND READER: an independent transcription made by shape only, against the sign catalogue, without sight of the
+% first reader's transcription, of the key or of any decoding. Purpose: to measure how often signs are misread.
+% Notation in this file: label = confident; label? = uncertain best guess; a?|b = best guess a, close alternative b.
+% Segmentation doubts noted by the second reader:
+%   L03/L05/L06: the left-margin "mm" signs have a large C-shaped flourish ending in a small knot; read as part of mm.
+%   L08 "Cx?": a large hooked C followed by a heavy small x inside a faint ruled box; could be two signs.
+%   L09: two very faint thin strokes taken as bleed-through and omitted.
+%   L10 "d": heavy d with a faint thin loop beside it, taken as bleed-through.
+%   L19/L20: the descenders of the L19 "ff" run into L20; the squiggle on them is read as the first sign of L20.
+%   L15/L16 "ae?|cl", "Rq?|Q", "vl?|ae": small looped knots where one sign or two is uncertain.
+% Format: one manuscript line per text line; sign labels separated by spaces (see docs/SYMBOLS.md);
+% "%" starts a comment; "Lnn" = line number within the cipher block.
+2?|Zb * #p 14 xx?|E ooo?|oo 13 f 6?|8 7   % L01
+n? 3 #1?|# S oo?|8b B C? xx # lo E? mm Q?|Aq R J o +d?|h Nf Hr ff n? Qb?|Ve s   % L02
+o sl M?|ooo * Aq 1 R 12 z?|v ### f +?|f W ^ Cx?|Cz +d ### o Cs?|th   % L03
+mm # Cs?|vl B vl?|c n 6 sl?|J z 3s xx?|= Aq 3 ff +f Rr Qb?|Ve 9?|1 Phi? ae?|vl Nf   % L04
+1?|J #1 # 3s 3 1 3?|C #b mt?|m ooo +f 3s m ff f Aq Zb? mm 9 vl?   % L05
+o? oo 3s # 3? ff 3 sl?|1 To? ^ 6 oo?|8 N +?|+d 3s = W #p II?|## Qb?|Ve 7   % L06
+s t?|ts ff z?|3 1 6 #b P?|9 vl? o # B?|S +f R f 3s =?|xx ooo ff f * 7   % L07
++f 3s vl?|a Nf ## ff W #p vl d +f?|Aq sl 8?|v xx?|= + #b?|# 6 Cx? m   % L08
+ff mm s #? f # o 100 #b EE Hr #p p U?|v 1 +f 6 ^ ooo 3s +f?|t   % L09
+g z?|3 P?|p c Nf ###?|Hr C?|Cx #b oo ff #b +f 9 vl?|cl d 3s z?|v ff W R ^   % L10
+x o f #?|* C Nf 3 #1 mm W Aq 1 = d sl + Cx? +d o 8p?|8   % L11
+#b Lc mm?|m A r? Tr V? 3s ##?|# ff f 1 W + o oo s N +d 3s =   % L12
+# ff z?|3 Nf N m Cx? #b sl? z 6 cc?|cl Qb?|Ve 3s = t?|ts #p +f 1 W   % L13
+o ^ #1 #?|+ Hr?|## 8p?|P vl 3 # R * 6 d vl?|a ooo 3s ##?|# ff mm 1 3   % L14
+ff 3 +?|+d mm EE ae?|cl d W R m 3s d Hr 1 s?|h # p?|Qb Cx ^   % L15
+sl ff Aq?|+f 1 Wl vl?|ae 6 mm Cx d 3s t?|+ ff f Aq Rq?|Q mm EE cc z?|v   % L16
+o +d E h?|s = x?|Cx ^ ff ^ x P o + th?|Cs 3s d 1 Aq?|a ### 3s Wl   % L17
+R ii 3 x o f # Rl ff z ^ ##?|# # 3s = Ak?|A mm 1?|9 s W sl oo?|ooo   % L18
+ff 4b o Cx 1?|4 ^ 12 Aq #1 14 d Qb 13 EE +d ae? 2?|L cc f R 7   % L19
+3s?|3 Qb 3s z?|3 100 + J Zb R Tr J 12 ff 12 Cz Ca?|Cx s N Tr x   % L20

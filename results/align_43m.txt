@@ -1,0 +1,148 @@
+% set 43m (train): 3140 signs against 4080 letters; cost 2350.3; 2229 signs on their key value.
+% sign=unit per sign ("_" = null, "[word]" = word code); "!" = the unit is not the key value of the sign; "(-x)" = plaintext letter x has no sign.
+43_f80r.L02: #b=_! Tr=_ s=_!
+43_f80r.L03: To=_ 100=_ P=q Cx=ue! Lc=i 8=_! 3s=_! Cs=e *=d 7=_ #p=o Q=_ mm=n ii=n! Nf=a 13=_ c=y! 30=_ o=a d=u M=_ f=n x=g!
+43_f80r.L04: +=c 6=o *=urr! 14=ier! #=por! Aq=t +o=_ ^=u Cx=g 23=_ #p=a! oo=is! d=n! 8=o (-m) ###=m ff=e II=a! xx=n Qb=t Zb=_! V=h #p=o s=_!
+43_f80r.L05: #=i! f=n 1=e Ce=_ o=g! ae=a! +d=l 3=u #b=a ==n E=le R=de s=ce n=z R=de (-l) (-a) s=[royne]! ca=[marie]! Rq=et cl=l Nf=a EE=p 3s=e Cx=y! 7=_
+43_f80r.L06: mm=n ff=e sl=e! ==n To=q! d=u #1=o oo=y J=es (-t) 6=o sl=i 3=e! f=n ooo=t ==n #p=o n=z ^=u #1=o Cz=i! B=s f=ins! #=po! A=ur
+43_f80r.L07: E=le (-p) ff=e 3=u R=de z=s 8p=p 1=e +=r! #1=a! mm=n s=ce N=qui E=le d=u h=r 7=_ +=r! J=es #1=toi! Aq=t P=q c=ue! (-l) o=a
+43_f80r.L08: c=f +d=l 6=o (-t) Qb=t 3s=e N=qui cl=l n=z Nf=a p=t! oo=t! ff=e ==n 8=d! #p=o Lc=i p=e! f=n Aq=t *=d ^=u Lcs=[peru] R=de 3=u
+43_f80r.L09: W=s Qb=t d=u 3s=e mm=n #=i! Hr=r +=c Cx=est! ff=e #b=a xx=n 1=nee! o=a p=c +f=au! #=s 3=e! P=q 6=ue! (-d) 8=o f=n #b=a
+43_f80r.L10: *=l! M=_ ^=u Nf=a S=r #p=o R=de oo=b! o=a 7=_ 100=ss! #b=a f=n N=qui +d=l Nf=a 3=u #1=o Lc=i ooo=t #b=a +=t! Aq=t
+43_f80r.L11: ff=e ==n *=d d=u 9=e 1=e 3s=n! s=_! z=l! #=i! W=s E=le #=_! R=de 12=_ x=s! p=a! W=s Aq=s! 6=o +f=r ff=e #=s E=le x=s!
+43_f80r.L12: II=p! Nf=a s=ce R=de x=_! R=de ^=u mm=x! d=moy! W=s #=s 1=e f=n (-e) #p=sto! sl=i Qb=t Hr=r 3s=e II=t! #1=o 3=u x=r! ==n
+43_f80r.L13: ff=e x=s! #p=a! xx=n W=s 9=e mm=n oo=a! d=u 6=o Rl=i +f=r 3s=e ^=u ==[aucunes]! #=nou! ^=u ii=_ ff=e cl=l E=le #=s 6=_!
+43_f80r.L14: R=de EE=p 3=u #=i! x=s! c=l! #b=a C=d! p=f! +d=l #1=o (-t) Qb=t 3s=e J=es (-t) o=a *=rri! d=u (-e) ff=e Nf=a W=s 1=e ^=u 7=_
+43_f80r.L15: ae=i! vl=l E=_! R=_! #=_! E=_! 8=_! #1=_! 3=_! +o=_ n=l! 3s=e #=l! ff=e x=x ts=x! 9=e *=d 3=u Tq=m! Ll=oys g=p po=a! *=ss! 3s=e
+43_f80r.L16: s=ce P=que! sl=i ff=e mm=n #b=a Cx=y! 8p=p 1=e d=u 3s=e V=s! po=c! h=r +f=ipr! ff=e EE=p c=l! Tq=u! W=s Aq=t #p=o #=s s=_!
+43_f80r.L17: po=t! Nf=a Q=_ m=[uostre]! c=[maieste]! Tq=po! A=ur f=n #b=a 3=u #1=o cl=i! Hr=r 3s=e d=u +d=l o=a x=com! ###=m 6=o B=d! ##=i oo=t!
+43_f80r.L18: ff=e R=de ==n ^=u #p=o oo=y 1=e S=r E=le v=s E=le +=_! Aq=t x=t! +f=r 3s=e W=s Zb=et mt=a ##=us! B=s (-i) P=que! sl=i
+43_f80r.L19: Nf=a po=t! Qb=t ff=e mm=n *=d #1=o Cx=ys! R=de #=s +=c o=a ^=u #1=o sl=i Hr=r sl=par! ooo=t Tr=i! +=c 3=u vl=l
+43_f80r.L20: II=i 1=e 8=r! 3s=e t=m ff=e xx=n ooo=t cl=l #=a! d=u 1=e +f=r Qb=i! Aq=t sl=_! 3s=e R=de Qb=t 6=o ^=u ooo=t ff=e s=_!
+43_f80r.L21: c=l! Nf=a W=s #p=o 8=mm! 1=e P=q +=uel! E=le o=a #b=a 8=pp! #1=o Hr=r Aq=t s=ee! cl=l Nf=a P=q c=uel! E=le #=s ff=e
+43_f80r.L22: ###=m 8=o mm=n Qb=t (-e) o=a R=de z=u! x=x t=m Tr=i! vl=l #=li! #p=o xx=n z=s (-d) 6=o x=r! 3s=e f=n pa=[argent]! #b=a (-s) W=s
+43_f80r.L23: Nf=a ^=u (-o) ##=i 3=r! 6=h! d=u sl=i po=_! oo=t! s=ce xx=n #=s ###=m Rl=i cl=l E=le ff=e 7=s! +=c ^=u n=z A=po! s=ur!
+43_f80r.L24: E=le +=r! 7=_ #p=o oo=y EE=p V=h #=i! M=_ +d=l f=i! 3=pp! 1=e W=s (-e) Phi=t 3=u ==n Cx=g m=m cc=i (-l) vl=l ##=i
+43_f80r.L25: #1=o mm=n A=[pour]! E=le #=s sl=par! Qb=t (-i) f=cul! s=ier! v=s Rq=et s=ce xx=n ooo=t +f=q! d=u o=a Aq=t Hr=r ff=e ^=u cc=i f=n r=g!
+43_f80r.L26: Qb=t n=z ###=m #=il! +=le! E=po! A=ur E=le W=s R=de (-f) c=f d=u f=n +=c ooo=t n=z N=qui 6=o ==n Aq=t E=le ^=u s=r!
+43_f80r.L27: #=s th=h ff=e Hr=r #=i! Aq=t #=i! 1=e S=r z=s sl=par! R=de +=c o=a Zb=et #p=o 3=u vl=l ooo=t +=r! 3s=e s=a! +=l! #b=a To=u!
+43_f80r.L28: Nf=a +d=l E=le ^=u Hr=r R=de Aq=t y=r! #1=o C=y! W=s s=ce f=n #=s Cs=m! sl=i Aq=l! E=le ff=e 3=s! +=c 3=u n=z s=e!
+43_f80r.L29: mm=n P=c! #1=o +=c th=h 3s=e f=n cc=i c=lle! ff=e Phi=t #b=a +d=l #=f! 6=o c=s! +=sr! 9=e N=qui W=s #p=o ==n Aq=t
+43_f80r.L30: h=per! E=le #=s R=de 12=_ y=s ff=e m=m 9=e (-n) s=ce R=de d=q! ^=u #1=o oo=y cl=_! ma=[lespaigne]! o=a V=[faict]! d=u
+43_f80r.L31: ==n ff=e t=m 1=e Hr=r ^=u 3s=e ##=i c=l! E=le 3=u h=s! ff=e Phi=f! 1=e Tr=_ J=st! 1=e ss=com! ###=m 3s=e R=de P=c! th=h
+43_f80r.L32: #p=o #=s ff=e 6=d! #1=o f=n Qb=t po=il n=z x=co! m=m Nf=me! ==n s=c! 6=o II=i 1=e f=n ooo=t R=de W=s sl=i o=a #b=a
+43_f80r.L33: R=de #=s 3s=e y=s z=p! z=er! ff=e +o=_ 1=r! Hr=po! A=ur +=c J=es 3=te! Nf=a mm=n ff=nee! Rq=et mt=a (-u) W=ssi! B=po! A=ur mt=a (-u)
+43_f80r.L34: Aq=t #b=a ==n Qb=t Rl=que! ooo=t #1=o ^=u Aq=t 1=e E=le 3=s! 6=p! 3s=e S=r o=a f=n s=ce Zb=et +f=r +=_! ff=e po=c! #p=o s=_!
+43_f80r.L35: 3=u Hr=r z=s d=dud! S=r 8=o x=_! oo=y S=ph! o=el! cc=i #p=_! E=_! ##=p! EE=p 1=e #=c! ss=om! ###=m 3s=e mt=a
+43_f80r.L36: Qb=ult! S=r ff=e z=f! c=f #1=o Cx=y! W=s sl=i 1=e 8=[uous]! o=a oo=y 3s=e z=s +=c S=r B=ip! ooo=t J=es (-t) R=de #=s 6=o +f=r (-m)
+43_f80r.L37: ae=ais! 3s=f! #p=o mm=n *=d (-e) ff=e +d=l Nf=a R=de (-s) z=s d=u W=s po=il n=z J=es (-t) #1=o ##=i 9=e ==n ooo=t 3s=e f=n
+43_f80r.L38: Aq=t 6=o ^=u (-t) lo=ui! xx=n Cx=g oo=t! Rq=de! d=u m=x! ta=[nauires] S=d! #1=o f=n Aq=t lo=il! Cx=y! ff=e xx=n
+43_f80r.L39: o=a ^=u #p=o Lc=i Qb=t 3s=q! 3=u #b=a ooo=t Hr=r 9=e R=de x=g! 3=u 3s=e (-r) S=r ff=e N=qui #1=o mm=n Aq=t 7=_
+43_f80r.L40: Nf=a ###=m 1=e xx=n +=e! Nf=a d=u ff=e +=c To=_ ^=_! 1=_! z=_! 3s=e 3=u +=l! 6=x! R=de d=u m=x! ta=[nauires]
+43_f80r.L41: R=de ^=u 6=o n=z W=s 3=u Tr=_ Cx=bi! ff=e po=c! Qb=t n=z N=qui c=l! n=z S=p! +=r! y=i! xx=n S=d! Hr=r 1=e +=n! oo=t! ?=_
+43_f80v.L01: R=a! Tr=_ mt=u! 8p=p 6=o h=r Aq=t R=de cl=l Nf=a U=h #b=a 3=u o=a f=n Nf=a N=qui J=es (-t) 1=e xx=n +d=l sl=i #=s E=le
+43_f80v.L02: R=de +=c d=u 8=_! N_lo0=b 6=a! #b=a cl=l #1=o EE=p v=po! B=s (-i) Qb=t *=e! R=de vl=l o=a 3s=f! +d=l #p=o +f=r #=i! *=d (-e)
+43_f80v.L03: #1=o ^=u lo=il! n=z J=es sl=toi! ff=e xx=n Qb=t Nf=a t=t! ooo=t 1=e f=n 8=d! 3s=a! xx=n #=t! cl=l o=a y=_! ff=d! c=f
+43_f80v.L04: #p=lot! ooo=t 1=e P=que! 6=si! E=le vl=b! #1=o xx=n t=die! ^=u +f=_! ff=e 3=u d=s! Aq=t ^=u 6=o 3=u vl=l d=u 9=que!
+43_f80v.L05: +d=l E=le f=n ff=e Phi=f! 1=e ^=u d=s! Aq=t h=p! po=o! Rl=i ==n lo=_ Qb=t 3=u 3s=e f=n d=u ff=e Nf=a +=c
+43_f80v.L06: #p=o ###=m 8p=p o=a z=ig! mm=n (-e) 1=e R=de ta=[nauires] R=de Cx=g ^=u 3s=e *=rr! ff=e ae=com! m=m 1=e lo=_ EE=_! 3=_! 1=e
+43_f80v.L07: #=l! *=l! #=e! ff=e E=s! Qb=t Hr=oit! Tr=_ 6=o ^=u a=b! sl=i 1=e (-n) E=le Q=sd! 3=u #p=o #=_! y=_! n=z z=s d=u o=bi! ?=_
+43_f80v.L08: 3s=e po=c! ooo=t n=z N=qui J=es +=to! Rl=i ff=e mm=n Aq=t R=de *=d #=i! 9=e h=pp! 3s=e 4b=et R=de +d=l #b=a Hr=r *=oc! ?=_
+43_f80v.L09: th=h ff=e c=l! E=le 9=e ^=u z=s 3=s! oo=ent! ff=e d=u 1=e xx=n B=c! *=o! h=r 3s=e W=s oo=t! +=r! #p=o C=y! *=s!
+43_f80v.L10: ta=[nauires] Nf=a ^=u ff=e +=cqu! J=es 3=eul! x=x M=_ 6=il! f=n oo=y #1=_! R=a! *=p! sl=o! ##=i po=n! Aq=t R=de c=f mm=a! W=ul!
+43_f80v.L11: Qb=t 3=e! Rl=[ainsi]! +f=c! 8=o x=m! +=m! ff=e *=i! Nf=a ==y! oo=ent! 3s=e f=n 6=d! d=u R=de +f=que! +=lqu! ff=e
+43_f80v.L12: P=_! #=s z=u! mm=n Cx=g z=s ###=m 9=e W=s m=m uT=e! #=s N=qui oo=y f=est! 8=o #=i! ff=e E=n! Qb=t (-q)
+43_f80v.L13: c=uil! n=z 9=e g=u! z=s uT=s E=en! ooo=t Aq=t #p=o ^=u Qb=t ff=e +=mm! 9=e +=n! 3s=e ff=e ==n mm=[france]! ae=de! 3=[sorte]!
+43_f80v.L14: 9=[quilz]! ^=eus! #=s 3s=e f=n ooo=t V=[faict]! A=[pour]! 3=u f=n z=g! +=c #1=o d=u EE=p ^=u E=n! Cx=g Aq=t Hr=r ff=e z=s
+43_f80v.L15: Nf=gra! xx=n Qb=t 4b=et f=n #1=o oo=t! o=a 8=b! E=le z=s 9=e x=r! 3=u sl=i s=ce (-e) Phi=t C=pa (-r) cl=l #p=a! S=[uostre]! Q=_ t=m
+43_f80v.L16: Cx=ai! J=es (-t) 3s=e g=p ff=e d=u cl=l Qb=t #p=as! #=s 9=e n=z 3s=e 3=u Rl=i R=de (-m) ###=m ff=e ==n oo=t! x=con! Cx=g (-n)
+43_f80v.L17: #p=o #=i! W=s Aq=t +d=r! 9=e S=co! Tr=_ #=mbi! 3s=e mm=n #=s ^=u sl=y! 3=u o=a ==n Ob=t! s=ce P=que! Rl=i ff=e B=[uous]! (-e)
+43_f80v.L18: f=n Nf=a oo=y mt=a ooo=ult! Hr=r 3s=e z=f! po=f! #1=o d=ys! ff=e #=s +=c (-r) sl=i #=p! Aq=t sl=i 9=l! z=s 3s=e (-r)
+43_f80v.L19: 6=o oo=y W=t! #b=a 8=i! z=s ff=e Aq=d! #p=o uT=s Qb=t 9=e Hr=r o=a Q=[uostre]! 3s=e (-n) mm=n ff=e ###=m oo=y s=ce +=_!
+43_f80v.L20: Cx=g h=r #p=a! f=n ooo=t z=s #1=o ^=u (-l) +d=l Nf=a z=i! uT=ge! m=m 3s=e ==n Aq=t N=qui Aq=l! #p=a! R=de s=ce
+43_f80v.L21: ###=m 6=o f=n R=de 100=_ R=de Zb=_! N=_! Tr=_ R=de +d=l c=a! #p=o d=u A=p! +=our! Cx=my! ff=e ^=u vl=l x=x v=[dire]!
+43_f80v.L22: Aq=t #1=o 3=u Qb=t E=le ==n 6=er! c=f 4b=et oo=t! 6=o d=u Aq=t E=le To=moy! 3s=e mm=n N=qui (-l) +=a!
+43_f80v.L23: R=de W=s o=_! Tr=_ 8=o +=rm! ff=ais! R=de ###=m #=a! sl=i f=n Qb=t ff=e ==n Hr=i! +=r! +d=l uT=a! Cx=g (-u) 1=e
+43_f80v.L24: 9=r! Hr=r 3s=e S=con! ooo=t sl=re! ff=uou! B=s cl=l Nf=a y=d! 9=f! 3s=l! #p=o (-t) Aq=t 3s=e #1=o 3=u E=l! Qb=t Hr=r (-e)
+43_f80v.L25: vl=l o=a z=_! ^=_! W=d! y=s ff=_! #=o! B=m! ###=m 1=e Phi=que! vl=l E=le #b=a Nf=a (-p) g=p #p=o sl=r! ooo=t (-e) 3s=e (-a)
+43_f80v.L26: z=s ff=e 3=u ae=_! ##=i vl=l E=le Nf=a d=u 6=o sl=i ooo=t mt=a *=us! B=s (-i) R=de z=s Tr=ch! o=a +f=r Qb=ge!
+43_f80v.L27: 9=e (-n) W=l! Rl=i *=s! E=le z=_! R=de W=s #b=a (-s) #=s #1=o Hr=r 3s=e (-s) ^=u +=n! ff=e Zb=g! J=r! o=a f=n lo=t!
+43_f80v.L28: p=q! 3=u Nf=a ==n Qb=t #=i! oo=t! 9=e *=[dargent]! +o=_ N=qui 7=est! #b=a EE=p cl=l d=u B=s (-i) 3s=e ^=u +=r! z=s lo=par!
+43_f80v.L29: p=tic! ^=u vl=l Rl=i ff=e Aq=r! z=s (-e) Phi=t W=s 9=e ###=m 6=o f=n oo=t! 3s=e a=b! ##=i ff=e mm=n sl=a! th=h ?=u!
+43_f80v.L30: sl=i +=_! ooo=t #1=o 3=u ==n 9=e d=u th=f! s=ce mm=n #=s ###=m Lc=i +d=l E=_! 3s=e z=s +=c 3=u (-z) (-d)
+43_f80v.L31: 6=o ==n Qb=t +d=l o=a s=p! E=l! ^=u z=s C=pa ooo=r! Phi=t 8=ap! C=pa (-r) Aq=t Lc=i 3s=e xx=n Qb=t o=a s=ce (-l) vl=luy! B=qui!
+43_f80v.L32: J=es (-t) ###=m Nf=a #=i! xx=n ooo=t ff=e mm=n #b=a f=n Aq=t d=u sl=i z=ce! Hr=r Cx=oy! 8=au! Cx=p! mm=eru!
+43_f80v.L33: N=qui cl=l 6=a! 3=u #1=o #=i! ooo=t V=[faict]! R=de W=s 6=ch! Nf=a Aq=r! 2=_ 6=g! 1=e #=r! y=e! 3s=n! z=l! Rl=i W=s
+43_f80v.L34: #=le! R=de EE=p #b=_! ff=e ^=u h=r Phi=que! B=s t=il! c=f 9=e 3=u z=s +=t! d=u 3s=e f=n ^=u sl=i 3=u W=s
+43_f80v.L35: P=q z=ues! o=a #=s ff=e d=u Cx=_! #=i! +d=l E=le 12=_ E=le z=s #1=o 3s=f! #=fi! p=c sl=i 9=e +f=r z=s *=d
+43_f80v.L36: 3=u J=r! #p=o oo=y #p=_! 8=p! V=h sl=i 23=_ cl=l Lc=i EE=p 3s=p! #=e! ==n ff=e z=s 1=e xx=n (-f)
+43_f80v.L37: d=eus! #=s ff=e f=n ooo=t W=s #b=a oo=i! B=s (-i) n=z x=com! ###=m 1=e l=il n=z o=a ^=u #1=o #=i! 3s=e f=n ?=t!
+43_f80v.L38: Nf=a (-c) +=c 6=o 3=u W=s Qb=t d=u ###=m ff=e R=de p=[faire]! E=le z=s #b=a mm=n z=s s=p! o=a Wl=ss! 1=e
+43_f81r.L01: P=z! Tr=_ #=m! Nf=a s=i! P=s! #=[daultant]! ff=q! ^=u 9=e #1=l! Cx=ed! s=[uiceroy]! cc=est! #b=a f=la! 3s=mer! p=luy! #=s ff=e h=r 3=u sl=i Hr=r o=a g=p
+43_f81r.L02: Nf=a 3=r! vl=be! mt=a +=u! d=c! 8=o Tr=_ p=up! p=c #=a! +f=r vl=l 6=a! 9=r! #p=o Ce=_ oo=y xx=n 3s=e R=de ae=[portugal]
+43_f81r.L03: ff=a! o=a (-c) +=c #1=o Hr=r R=de Rq=et x=con! W=s ff=e mm=n Qb=t Cx=y! mt=a +d=u! +=x! #=s ^=u z=_! y=s n=d! 6=o v=f!
+43_f81r.L04: ff=fic! Lc=i 1=e Hr=r z=s Zb=et m=m #=i! f=n sl=i oo=s! ooo=t (-r) ff=e #=s 6=d! ^=u +f=r #p=o oo=y EE=p th=h s=_!
+43_f81r.L05: Lc=i vl=l #=i! 9=pp! ff=e #=_! P=q E=ue! th=[cest]! p=[argent]! z=s 9=e Hr=r #1=o sl=i Aq=t 3s=e ==n E=le 3=u ff=e p=et! 8=p!
+43_f81r.L06: 6=o g=r! Qb=t 9=e 3s=e f=n mm=[espaigne]! Rq=et z=s ^=u +=r! s=ce #b=a ff=e mm=n 8=u! 6=o Cx=y! 9=e t=m o=a xx=n R=de
+43_f81r.L07: ###=m 3s=e f=n oo=t! c=f #p=o Hr=r oo=t! g=r! Lc=i x=g! #1=o d=_! *=r! ff=e ^=u mm=x! 1=e #=n! y=l! 3s=a! z=d!
+43_f81r.L08: #=i! W=s E=le #=po! A=ur E=le M=_ E=le 3=u Hr=r p=[faire]! R=de +d=l #=i! d=u sl=r! ff=e +f=r ==_! 1=e 7=t!
+43_f81r.L09: ^=u 8=o 3=u (-l) vl=l #b=a f=n Aq=t g=p #p=o sl=_! xx=_! po=_! +=u! Cx=r! ###=u! ff=e +=o! II=i Hr=r 1=que! P=q 12=_
+43_f81r.L10: P=ue! vl=l ii=_ P=que! #=s #1=o x=mm! 3s=e (-d) *=arg! pa=ent N=qui ^=u Lc=i ff=e 9=nne! B=d! 3=u Zb=[peru]! ooo=t o=a xx=n Aq=t EE=p
+43_f81r.L11: 1=e 7=_ #=t! oo=it! 3s=e W=s *=o! Nf=i! Aq=t ff=e vl=l E=le (-n) (-e) #=s 1=e *=p! d=u Lc=i (-s) z=s 3s=e R=de W=s a=_
+43_f81r.L12: v=cha! P=rge! +f=r ff=e xx=n 6=ce! Hr=r #p=o oo=y mt=a t=u! J=lme! N=qui J=es (-t) +=c th=h #1=o z=s 3s=e P=q Tr=u! ff=e 7=_
+43_f81r.L13: ?=beau! p=c 6=o 3=u EE=p R=de Ce=g! 1=e mm=n W=s R=de Tr=_ #=bi! 3s=e f=n R=de (-c) (-e) g=p #b=a oo=y #=_!
+43_f81r.L14: #=s +=c Cx=y! #1=o xx=n Qb=t ooo=t h=r 8=o +f=uu! ff=e 8=b! L=i! 9=e f=n J=es +=tr! o=a f=n E=g! 3s=e 4b=et +d=l 7=_
+43_f81r.L15: Nf=a P=q cc=uel! E=le x=l! Ob=e! c=f ff=e 3=u B=roy! a=_ P=de! vl=[portugal]! Phi=[quelque]! 6=al! vl=l Lc=i #b=a xx=n s=ce N=qui +d=l oo=y 1=e
+43_f81r.L16: d=u W=s Aq=t *=e! f=n Qb=t 6=r! ff=e 1=e ^=u vl=l x=x mm=n 3s=e 3=u #=s ooo=t #=[iamais]! Nf=[permise]! Aq=[mais]! sl=i (-l) m=m 1=e
+43_f81r.L17: z=s ff=e Aq=_! lo=_ ###=m J=b! Rq=l! 3s=e t=s! vl=ire! +d=qu! ff=e (-u) 8=o Phi=u! B=s h=luy! EE=p #1=o ^=u 1=rre! n=z vl=b! Lc=i 3s=e
+43_f81r.L18: f=n (-p) 6=ard! 8=o *=nn! ff=e ##=r! s=ce cc=l! E=la! p=c 3=y! 3=pui! #=s *=q! P=ue! s=ce xx=n J=es (-t) 8p=p #b=a z=s
+43_f81r.L19: vl=l o=a EE=p +f=r 9=e m=m #=i! 3s=e +f=r ff=e p=c 8=h! #1=o z=s 9=e #1=en! ^=[quoy]! 3s=e +d=l E=le W=s J=es (-t) ###=m #1=o
+43_f81r.L20: mm=n #=s Qb=t h=r ff=e p=e! #1=[bien]! +f=[fort]! oo=p! Nf=a W=s B=s #p=ion! f=nee! +f=po! A=ur E=le ae=roy! p=[despaigne]! (-c) #b=a h=r
+43_f81r.L21: #=i! o=a (-y) Cx=e! xx=n oo=t! ff=e f=n *=d d=u h=que! sl=par! cl=l ff=a! R=de ##=r! mm=n sl=i 9=e +=r! 3s=e c=f
+43_f81r.L22: +d=l #1=o (-t) Aq=t ff=e R=de #=s U=h 8=o ^=u ##=r! P=q N=ues! Aq=qu! Lc=i t=[partit]! *=d #=i! +=c oo=y
+43_f81r.L23: o=a +d=d! #=e! ###=m oo=y #p=o p=c oo=t! #1=o vl=bre! z=p! ff=o! A=ur Nf=a cl=l E=le #b=r! 9=e mm=n 3=f! cl=l
+43_f81r.L24: Nf=a xx=n *=d +f=r 3s=e W=s ff=e c=l! E=le B=luy! #=a! 3=u 6=o sl=i Aq=t o=a 6=d! 8=u! #b=a ==n s=ce
+43_f81r.L25: ^=u f=n 9=e (-b) 8=o #1=n! mm=n 3s=e #=s 6=o (-m) m=m ff=e *=[dargent]! Aq=q! P=uel! E=le Nf=a ^=u #p=o Lc=i Qb=t
+43_f81r.L26: ooo=t #=i! Hr=r (-e) 1=e R=de z=s +=c #p=o x=f! s=fr! 3s=e W=s 8=d! d=u s=p! ff=e Aq=t #=i! Qb=t 12=_ +f=r 6=_!
+43_f81r.L27: #1=o C=y! #=s 6=o f=n xx=n 1=e v=pue! ^=u 3s=la! 3=[royne]! m=[marie]! +d=l #b=a ##=i z=s II=sa! EE=p ae=l! d=u W=s R=de
+43_f81r.L28: Zb=q! ^=u #=a! Qb=t Hr=r ff=e s=ce mm=n #=s t=m #=i! vl=l E=le A=e! *=s! +=c 3=u n=z vl=con! Qb=t o=a f=n
+43_f81r.L29: ooo=t N=qui J=a! ###=t! 1=r! xx=o! Aq=uue! +=l! o=a s=p! +f=l! d=u W=s C=[part]! 3s=e f=n 8=p! #p=o +f=r Qb=t 3=u Cx=g
+43_f81r.L30: Nf=a cc=i #=s ff=e z=s Q=_ 100=_ t=[quelle]! E=d! 6=o #1=n! ==n #b=a 12=_ o=a s=ce Q=que! cl=l #p=o f=n y=[dict]! mm=au!
+43_f81r.L31: Hr=r 8=o EE=_! oo=y 8p=p th=h 7=_ #=i! +f=l! sl=i t=_! +f=p! EE=p 1=e W=_! C=pa (-r) #=s #1=o mm=n ooo=t J=es (-t) #b=a
+43_f81r.L32: t=m 3s=e f=n Aq=t ##=[mais]! ff=e c=l! E=le *=d 8=o (-n) xx=n o=a z=s #p=o Qb=n! +f=b! #=i! 9=e mm=n s=p! Nf=a Qb=t
+43_f81r.L33: S=r sl=i ###=m #1=o xx=n Lc=i #b=a vl=l o=a ^=u ==n E=g! c=f #=i! ae=l! n=z Tr=b! #b=a W=s Aq=t +=a! 8=rd! Zb=que!
+43_f81r.L34: E=le c=f 1=e ^=u B=[empereur]! o=a *=d 3=u 8=o d=u #b=a Nf=a #=s o=a 3s=f! ##=i mm=n #b=a d=u #1=q! ##=u! Hr=el!
+43_f81r.L35: 3s=e mm=n +d=l o=a ^=u sl=i cl=l E=le 6=d! mm=a! z=ug! 3=u z=s ooo=t ff=_! mm=a! Q=_ vl=l E=_! y=_! W=_!
+43_f81r.L36: ff=e #=q! Ce=_ f=u! 1=e ^=l! s=sr! Nf=a mm=au! z=s B=s (-i) +d=l #b=a 7=is! z=s 3s=e Qb=t #1=o ^=u oo=t! EE=p c=l! #b=a
+43_f81r.L37: Aq=i! ==n *=d mm=au! Aq=t +f=r ff=e #=s vl=b! B=i! 1=e ==n z=s ##=i 3s=e 8=[uous]! Nf=a 3=u 6=o oo=y W=s c=_!
+43_f81r.L38: ff=e #=s p=c +=rip! Qb=t Q=que! xx=le! Hr=r #p=o Cx=y! s=p! U=h II=i +d=l #=ip! M=_ 8p=p 1=e #=_! o=_! 3s=e ==n
+43_f81v.L01: Zb=_! ^=u 6=o 100=_ Cx=y! #p=o #=it! Qb=po! A=ur 3=u sl=i z=s W=r! +o=_ #1=o oo=y 6=d! d=u To=[peru]! *=d 6=o mm=n
+43_f81v.L02: #=di! ff=e Cx=g #p=o *=d Nf=a n=z *=e! ^=u 9=e Tr=d! #1=o Cz=g 3s=e xx=n ooo=t sl=i Aq=lh! 8=o 6=m! ###=m ff=e
+43_f81v.L03: +=c #b=a W=s Aq=t Qb=ell! o=a mm=n R=de Phi=f! 6=o Hr=r Aq=t ^=bon! (-e) mm=n Qb=t ff=e f=n R=de m=m
+43_f81v.L04: ooo=ent! ff=[mais]! Aq=il! J=es (-t) Nf=a 6=d! 3=u x=e! f=n d=u N=qui +d=l J=es (-t) R=de s=ce *=d ff=e 6=d! ^=u 6=r! #b=a (-n)
+43_f81v.L05: Aq=t ae=ce! To=moi! #=s o=pas! z=s 1=e Rq=et Cx=y! #b=a #=i! Nf=a To=est! 3s=e mm=n 8=o (-m) ###=m ff=e (-p)
+43_f81v.L06: o=a B=r! +=la! y=pri! xx=n (-c) Wl=ess! 1=e ^=u xx=n V=g! m=au! Aq=t +f=r 3s=e ff=e f=n #=s 8=o x=n!
+43_f81v.L07: cl=l Aq=i! 9=e ^=u P=que! cl=l #p=o mm=n y=dit! J=es (-t) Hr=r Phi=e! th=h #1=o +=mm! ff=e vl=b! sl=i
+43_f81v.L08: 3s=e xx=n Qb=ent! ff=e f=n *=d 3=u +=l! Nf=a Phi=fl! 6=o ooo=t ==te! N=qui E=le EE=p 6=o +f=r Aq=t (-e)
+43_f81v.L09: Hr=r #b=a C=pa (-r) R=de (-l) o=a C=pa (-r) Qb=t #=ir! #b=a R=de +=c Nf=a 6=l! f=i! n=s! o=a p=c J=es (-t) ff=e
+43_f81v.L10: #=fi! mm=n R=de #b=i! #b=a mm=n d=u #=i! 1=e 6=r! 4b=et Phi=pe! ^=u Nf=a 3=u o=a xx=n ooo=t
+43_f81v.L11: +d=cel! #b=a ff=e f=n x=par! Aq=t Nf=i! +=r! Nf=ont! *=d *=i! +=c oo=y ^=d! f=eux! mt=a (-u) Qb=t Hr=r
+43_f81v.L12: ^=e! #=s xx=de! Ce=_ ooo=[uingt]! th=h (-o) 3=u s=r! #b=que! z=s p=c V=h #b=a Hr=r x=g! ff=e dd=_ R=e! #=s ?=_
+43_f81v.L13: s=d! Hr=e! Cx=[marchandises]! 1=p! z=o! A=ur c=f cl=l Nf=a xx=n *=d *=r! 3s=e #=s N=qui d=u mt=a (-u) c=ldr! 6=o sl=i #1=e!
+43_f81v.L14: p=n! ooo=t Tr=_ Hr=bi! ff=e mm=n +d=l 4b=a! g=p 1=e oo=i! ==n 3s=e P=que! s=ce ^=u mm=lx! R=de *=d (-i)
+43_f81v.L15: ff=e B=pp! 9=e #1=o 3=u R=de z=s o=a cc=i f=n +=c Aq=t t=m Nf=a cl=l #p=o Cx=y! 3s=e xx=n
+43_f81v.L16: f=ten! 8=dis! #=s dd=_ 1=e ==n ooo=t +=c Nf=a Hr=r (-c) 3s=e +=l! Ob=l (-e) d=u mt=a (-u) cl=l *=d 3=r! #b=a sl=i f=n
+43_f81v.L17: #b=fi! ==n ##=i ff=_! ###=m 9=e f=n ooo=t oo=et! B=s (-i) mm=n oo=y mt=a +=ur! Nf=a Qb=que! R=de ^=u x=x m=m
+43_f81v.L18: +=esc! th=h #b=a xx=n W=s ta=[nauires] R=de EE=g! d=u ff=e 8=rr! 9=e o=a +d=les! Nf=a (-c) x=com! g=p #b=a #=i! z=gn! 1=e
+43_f81v.L19: +f=r Rq=et ff=e Ob=nco! z=res! #=s #1=o f=n Aq=t ###=m o=a +d=l cl=[armez]! R=de Qb=t 6=o ^=u ooo=tes! (-c)
+43_f81v.L20: th=h #p=o W=s 3s=e #=s s=ce vl=l Ob=l (-e) N=qui (-p) Qb=art! ##=i ooo=t *=d po=ic! oo=y ff=e ==n #1=o +=c
+43_f81v.L21: 6=t! 8=o g=br! 9=e J=es 3s=t! xx=a! +=r! 6=r! g=iue! ff=e R=a! g=p +f=o! 3s=r! *=t! ff=e mm=n ooo=_! 1=_!
+43_f81v.L22: Cx=g Nf=a vl=l cc=i 6=ce! #b=a +=t! Qb=t 3s=e ==n +=d! o=a ==n ooo=t ###=m ff=e cc=i +d=l Ob=l d=eur!
+43_f81v.L23: Aq=t (-e) t=m EE=p #=s P=q vl=uel! Ob=l (-e) f=n o=a 3s=e 3=u po=il z=s ff=e ==n 7=_ 6=e! ^=s! P=t!
+43_f81v.L24: P=[perdu]! 3=[quelques]! ta=[nauires] N=qui Hr=est! #p=o #=i! 9=e f=n Qb=t R=de z=g! 3=r! ff=a! ==n R=de 3=u o=a Ob=l
+43_f81v.L25: +=eur! Ob=l *=e! ooo=t ^=u Hr=r po=c! C=ne! W=u! B=eul! ooo=t g=p 6=o sl=i mm=n +=t! Aq=a! o=ssi!
+43_f81v.L26: ff=e Cx=g 1=e (-r) #1=o Hr=r Ak=_ #b=a ==n 8=o ^=u f=n #1=o n=z 3=u #p=o Cx=y! B=s (-i) ==n z=s
+43_f81v.L27: #=a! #=uoi! 9=e f=n ooo=t 3s=e ==n ^=u 6=o oo=y ff=e R=de 3=u mm=x! m=m +o=i! Ob=l (-h) 8=o Nf=m!
+43_f81v.L28: f=me! v=s s=q! t=u! 3s=e po=il n=z 6=p! ff=e mm=n W=s #p=o cc=i 9=e xx=n Aq=t re=_ P=_! Tr=_ N=_!
+43_f81v.L29: n=_! Zb=_! R=_! +o=_ ^=a! #=s Tr=_ y=s Cx=_! 1=e Cz=z! f=b! 100=_ Qb=i! Cs=e p=n! N=p! Tr=_
+43_f81v.L30: R=e! Tr=_ 14=_ 2=_ 7=_ 4b=u! (-f) (-a) (-i) (-r) (-e)

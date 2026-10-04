@@ -1,0 +1,84 @@
+% Letter 39 (BnF fr. 3151, fo. 71r): the proposed reading, span by span, as discussed in docs/LETTER39.md.
+% Columns: first sign, last sign (line.sign, signs counted from 0 within the line, both inclusive; transcription
+% data/fr3151/cipher/39_f71r.txt), status (read / null = signs taken as nulls / unread), reading (period spelling;
+% [ ] = letters or words not supported by the signs, ? = weak), number of words (elided forms such as qu'il count
+% as one word; "[pour] [faict]e" counts as one), grade (H, M, L and intermediate grades: the editor's judgment, not a
+% measured probability; see docs/LETTER39.md). The spans cover all 405 signs exactly once.
+% Checked and tallied by code/decode39.py.
+L01.0	L01.0	null	-	0	-
+L01.1	L01.5	read	dont	1	M
+L01.6	L01.6	null	-	0	-
+L01.7	L02.0	read	noz	1	M
+L02.1	L02.16	unread	-	0	-
+L02.17	L02.17	read	a	1	H
+L02.18	L03.5	read	retraite	1	H
+L03.6	L03.8	read	des	1	H
+L03.9	L04.1	read	[musulmans?]	1	L
+L04.2	L04.2	null	-	0	-
+L04.3	L04.5	read	qu'ilz	1	L-M
+L04.6	L04.11	read	d[..]sent (disent?)	1	L
+L04.12	L04.17	read	verité	1	M
+L04.18	L04.20	read	que la	2	H
+L05.0	L05.3	read	[.]ose (chose?)	1	L
+L05.4	L05.7	read	sera	1	H
+L05.8	L05.15	read	autrement	1	M
+L05.16	L05.16	read	et	1	M
+L05.17	L05.18	read	ne	1	H
+L05.19	L06.2	read	l'aye	1	M
+L06.3	L06.7	read	[les/ses eue?]	2	L
+L06.8	L06.11	read	quoy	1	L-M
+L06.12	L06.15	read	qu'il en	2	H
+L06.16	L06.19	read	soit	1	M-H
+L06.20	L06.20	null	-	0	-
+L07.0	L07.6	read	ce me sera	3	M
+L07.7	L07.12	read	plaisir	1	M
+L07.13	L07.16	read	d'en	1	H
+L07.17	L08.1	read	(en)tendre	1	H
+L08.2	L08.3	read	la	1	H
+L08.4	L08.13	read	resolu[ti]on	1	L-M
+L08.14	L08.16	read	car	1	L-M
+L08.17	L08.17	unread	-	0	-
+L08.18	L09.2	read	commence	1	M
+L09.3	L09.4	read	on	1	H
+L09.5	L09.15	read	a aprocher	2	M
+L09.16	L09.17	read	du	1	M-H
+L09.18	L10.1	read	temps	1	H
+L10.2	L10.3	read	que	1	M
+L10.4	L10.15	unread	-	0	-
+L10.16	L10.18	read	ses	1	M
+L10.19	L11.3	read	deux ans	2	H
+L11.4	L11.4	read	y	1	M
+L11.5	L11.13	read	avons tenu	2	H
+L11.14	L11.16	read	icy	1	M
+L11.17	L11.18	read	la	1	H
+L11.19	L12.2	read	paix	1	M-H
+L12.3	L12.7	read	[pour] [faict]e	1	M-L
+L12.8	L12.20	read	ie ne scay ce qu'il en	6	H
+L13.0	L13.3	read	sera	1	M
+L13.4	L13.4	read	qui	1	H
+L13.5	L13.13	read	m'y faisoit	2	L-M
+L13.14	L13.20	read	encores	1	L-M
+L14.0	L14.15	read	avoir plus de doute	4	H
+L14.16	L15.14	read	ie ne veulx plus demeurer	5	H
+L15.15	L15.17	read	icy	1	M
+L15.18	L16.4	read	gueres	1	M
+L16.5	L16.14	read	longuement	1	H-M
+L16.15	L16.15	read	et	1	H
+L16.16	L17.3	read	au pis aller	3	M
+L17.4	L17.5	read	n'y	1	M
+L17.6	L17.10	read	veux que	2	M-H
+L17.11	L17.17	read	achever	1	H
+L17.18	L17.20	read	mes	1	M
+L18.0	L18.14	read	deux ans ie suis en	5	H
+L18.15	L19.0	read	necessité	1	M
+L19.1	L19.1	read	et	1	H
+L19.2	L19.5	read	ay eu	2	M
+L19.6	L19.11	read	tout	1	M-H
+L19.12	L19.18	read	plein	1	H
+L19.19	L19.20	read	de	1	M-H
+L20.0	L20.3	read	[d]ettes?	1	L
+L20.4	L20.6	read	ces	1	L-M
+L20.7	L20.8	read	et de	2	M
+L20.9	L20.15	unread	-	0	-
+L20.16	L20.17	read	ce qui	2	M
+L20.18	L20.19	read	[con...]	1	L

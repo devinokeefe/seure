@@ -1,0 +1,106 @@
+% Short descriptions of the sign shapes behind the transcription labels (docs/SYMBOLS.md). Columns: label, description.
+ff	two tall uprights with a crossbar and a hooked top (like an "ff"/"ft" ligature)
+#	compact sharp sign: 2 verticals x 2 bars
+#1	double cross: 1 upright x 2 short bars
+#b	upright through a small closed box (like 中)
+#p	sharp/double upright with a loop on the right (like ₱)
+##	long bar crossed by 2 verticals
+###	long bar crossed by 3-4 short verticals
+Hr	heavy bar with two forked (v-shaped) legs below
+1	upright stroke with a flag/hook at the top (like 1 or 7)
+3s	ʒ with a vertical stroke through it
+3	plain ʒ (often with a long lower curve)
+R	large cursive R with long tail
+Rl	small upright R, closed on the right
+Rr	R rotated 90 degrees (seen only in letter 39)
+Rq	looped R / &-like figure (first seen in letter 39)
+xx	heavy wavy double/triple bar (≡)
+=	light wavy double bar (≈)
+6	6 / б shape
+8	8 (often slanted, with an extra loop)
+8b	ʚ loop variant of 8
+E	small squiggle crossed by two bars (ꬲ-like)
+EE	pair of small E-like signs (ʁʁ)
+*	many-rayed star
+d	heavy diagonal stroke ending in a loop at the right
+W	wavy "w" (ᔓ)
+Wl	wavy w with an extra loop
+s	small s
+f	letter-f-like stroke with crossbar and long descender
+oo	two joined loops ∞
+ooo	three joined loops
+o	small open circle
+mm	long "mmm" with a large C-shaped flourish to the left
+m	short cursive m with tail (ɱ)
++	plain cross
++f	cross with flagged/slanted or looped upright
++d	cross with drooping arms (ψ-like)
+^	arrow-head on an upright with a base bar
+Aq	A-like sign with a loop (ꭤ)
+A	plain capital A
+Ak	A with long 7-like stroke
+h	cursive h with loop (ɧ)
+th	ϑ-like loop
+9	q / 9 shape
+t	small t
+n	small n
+Nf	tall ʎ/π-like sign with flourish
+N	capital N
+p	small p (ꝑ)
+P	capital P with loop
+x	cursive x (ꭓ)
+sl	long ſ / r-like stroke
+cc	small double c (ɛɛ)
+vl	small loop with a tail to the right (ɑ~)
+v	ɤ hook with loop
+J	T/J with top bar
+z	z / ʐ, often with a loop at the top
+Zb	Ƶ with crossbar and loop
+B	ß / β
+C	large C with hook
+Cx	C enclosing a small x/r
+Cz	C enclosing a small 2/z
+Cs	oval with inner loop (ɵ)
+Qb	cross with looped top and long descender (ꝗ-like)
+Ve	variant of Qb
+Q	D-like loop with small c
+g	g with top bar
+M	looped cursive m
+ae	&-like double loop with tail
+II	two uprights with bar (Π)
+Phi	φ (circle with vertical)
+V	V with loop
+y	y
+c	small c / ϵ
+k	small k
+Tr	small triangle Δ
+To	7/τ with loop
+lo	tall looped l (first seen in letter 39)
+Lc	small Omega-like sign + c (first seen in letter 39)
+4b	closed-top 4 (first seen in letter 39)
+U	ʊ
+ss	ss
+r	small r-like hook with loop
+a	small a-like sign
+mt	m with rising tail
+7	numeral 7
+12	numeral 12
+13	numeral 13
+14	numeral 14
+23	numeral 23
+100	numeral 100
+30	numeral 30
+4	numeral 4
+S	S/ß with top loop
+8p	8 with an extra loop or flourish on top (split from 8)
+po	small loop on a stem (split from p)
+cl	pair of small looped e-like signs with a tail (split from cc)
+ts	small t with a left curl (split from t)
+oo?	letter 44 oo, not re-inspected for the oo/ooo split
+8?	letter 44 8, not re-inspected for 8/8p
+p?	letter 44 p, not re-inspected for p/po
+cc?	letter 44 cc, not re-inspected for cc/cl
+t?	letter 44 t, not re-inspected for t/ts
+c?	letter 44 c, not re-inspected
+40	numeral 40
+?	unreadable sign

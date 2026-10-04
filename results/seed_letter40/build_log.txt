@@ -1,0 +1,21 @@
+seed data/key/seed_letter40.tsv: 116 signs; 9 sets, 8361 signs (7304 for training)
+iteration 0: training cost 6420.7, signs that change value 63
+   set:cost/signs on their key value/signs  40:805.4/719/1082 44A:1072.1/689/1144 44B:373.6/269/428 41A:1021.8/676/1083 41B:400.1/253/427 43m:2747.7/2029/3140 HC44:319.9/173/302 HC41:380.0/206/373 HC43:302.5/257/382
+iteration 1: training cost 5523.7, signs that change value 4
+   set:cost/signs on their key value/signs  40:764.2/746/1082 44A:901.2/780/1144 44B:302.4/306/428 41A:890.3/746/1083 41B:320.1/296/427 43m:2345.5/2227/3140 HC44:273.3/198/302 HC41:313.3/244/373 HC43:245.6/286/382
+iteration 2: training cost 5512.2, signs that change value 0
+   set:cost/signs on their key value/signs  40:758.7/748/1082 44A:899.2/781/1144 44B:300.4/307/428 41A:888.3/747/1083 41B:320.1/296/427 43m:2345.5/2227/3140 HC44:272.9/199/302 HC41:313.3/244/373 HC43:243.8/287/382
+key (training sets only): 156 signs; key table (all alignments): 159 signs
+signs per letter: no. 40: 1082, no. 44: 1874, no. 41: 1883, no. 43: 3522, no. 39: 405; known plaintext in all: 8361
+confidence: high 47, medium 28, low 84
+compared with data/key/key.csv: 10 of 159 signs have another value (214 of 8361 aligned occurrences, 2.6%); signs in one table only: none
+   x: x (14/113) -> g (15/113)
+   Phi: t (16/39) -> et (14/39)
+   a: _ (12/19) -> b (8/19)
+   lo: _ (7/13) -> il (4/13)
+   k: g (2/9) -> ue (2/9)
+   cc?: l (3/9) -> i (5/9)
+   Tq: re (1/5) -> e (2/5)
+   ma: e (1/3) -> [despaigne] (1/3)
+   N_ven: t (1/2) -> c (1/2)
+   Ll: oys (1/2) -> ys (1/2)

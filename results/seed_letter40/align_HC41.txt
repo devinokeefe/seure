@@ -1,0 +1,14 @@
+% set HC41 (heldout): 373 signs against 441 letters; cost 313.3; 244 signs on their key value.
+% sign=unit per sign ("_" = null, "[word]" = word code); "!" = the unit is not the key value of the sign; "(-x)" = plaintext letter x has no sign.
+41_f77r_C.L01: p=i! s=l! r=z! 7=_ R=de 6=_! ^=u Ak=_ #1=o #=i! 23=_ ff=e +f=n! oo=t! th=h J=u! Qb=_! sl=i p=c Aq=t s=ce ==n W=s x=m! cc=i Cz=_! +d=l E=_! 9=e #=s 7=_ +=c d=u
+41_f77r_C.L02: Cx=z! ==a! 3=u 8=x! ##=fo! sl=i 3=r! r=es! R=de ###=m ff=e M=_ 6=d! sl=i f=n #b=a N=qui cc=l! n=z o=a ^=u #p=o cc=i 9=e ==n (-t) V=[faict]! +=re! ooo=t Nf=a Hr=r *=d
+41_f77r_C.L03: ff=e (-r) g=p (-o) A=ur mm=n #=a! 3=u +f=o! #=ir! 1=m! +=o! II=y! 3s=e f=n R=de E=c! W=e! c=f 8=o d=u Hr=r xx=n sl=i h=r P=q o=ue! +=apr! ff=e #=s (-l) o=a Nf=r! Hr=r
+41_f77r_C.L04: cc=i ^=u (-e) 1=e R=de cl=l #b=a 6=f! +d=l #p=o *=tt! 3s=e E=le y=s N_lb=q! +=uel! n=z po=_! n=s! #1=o mm=n Qb=t +=i! o=a 8p=p Nf=a oo=y ff=e o=z! Phi=et R=de EE=p J=u! C=i!
+41_f77r_C.L05: +=s! ooo=t Hr=r #1=o (-u) d=u 1=e f=n 6=o (-u) ^=u 3s=e m=au! (-c) S=r ff=e 6=d! sl=i Aq=t x=ces! cc=i #p=o 3=u 4=r! #=s #b=pas! z=s 9=e *=z! d=u
+41_f77r_C.L06: ==n c=g! f=n o=a ^=u #=i! Aq=r! v=e! xx=n +=o! Hr=r ###=m (-a) f=n ff=t! 8p=p 3s=r! cc=i mm=n ooo=t ^=u xx=n ff=_! Tr=_ Cx=g EE=p (-e) Aq=t #=i! Qb=t f=n
+41_f77r_C.L07: #=a! 3=u sl=i +=r! 3s=e ^=_! R=de x=g d=u 9=e ff=r! Hr=r 1=e R=de s=_! 4=l! o=a S=r #=o! c=yn! M=_ 3s=e N=qui (-a) +d=l ff=l! x=o! #b=it! 7=_ o=a s=ce N_lb=que! +=l! 8=o xx=n
+41_f77r_C.L08: 3=[dict]! Nf=a #=l! #b=a #=r! cl=a! cc=che! +=po! A=ur E=le 3=p! Hr=r ff=e f=n *=d S=r 9=e 8=d! #p=o mm=n Qb=t 3s=e c=l! E=le o=a 7=est! ff=e 1=e ==n z=g! S=r Nf=a
+41_f77r_C.L09: f=n oo=t! p=c #1=o +d=l 3s=e Aq=r! ff=e 4b=et v=a! Hr=[faict]! 1=a! 6=rr! 3s=e ==s! #1=te! S=r E=le W=s mm=[nauires]! R=de ^=u 6=o *=z! J=s! vl=ub! sl=i Aq=e! +=c oo=tz! ?=_
+41_f77r_C.L10: N=qui 7=e! #=s x=toi! 9=e f=n (-t) Qb=par! z=s #1=o xx=n S=r 6=o oo=y Tr=_ Cx=a! m=ul! m=m 3s=e ff=[mais]! #b=a cl=l o=a c=f #=i! mm=n sl=i ff=e v=luy! Nf=a oo=y B=s (-i)
+41_f77r_C.L11: +=b! cc=i 9=e f=n +=r! 3s=e +=m! #1=o ae=n! W=s Aq=t Hr=r A=e! E=le Qb=t #1=o S=r ooo=t N_lb=que! Aq=a! ^=u +=o! +=i! Aq=t *=s! o=o! f=n 6=_! *=n! o=a J=u! sl=i
+41_f77r_C.L12: S=r 1=e N_lb=qu! 100=_ 6=el! E=le M=_ E=le z=s o=a x=r! R=e! 7=_ +d=l Aq=_! Zb=a! Rl=s! Cx=c! W=h! 23=_ 3s=e N=_! Tr=_ n=z +o=_ Ak=_ 14=_ 12=_ =o=_

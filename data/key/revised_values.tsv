@@ -1,0 +1,11 @@
+% Values revised or confirmed by the NAF 6638 N. 5 known plaintext (docs/KEY.md, docs/NAF6638.md). They are not in the
+% counts of key.csv, which come from BnF fr. 3151 alone. Columns: sign, revised value, basis.
+mt	au	N. 5: au 7 of 11. The fr. 3151 value a is an alignment artefact (the u that follows was left without a sign).
+A	[pour]	N. 5: the word pour 11 of 21. The fr. 3151 value ur is an alignment artefact (the sign before was forced to po).
+P	que	N. 5: que 40 of 47 (fr. 3151: q 33, que 17 of 83).
+V	h or [faict]	N. 5: faict 5 of 8 (3 as the whole word, 2 as its last letters); fr. 3151: h 9, [faict] 6 of 20. Not decided.
+t	m	N. 5: m 17 of 25, never c (fr. 3151: m 16, t 7 of 42).
+4b	et	confirmed (N. 5: et 3 of 5).
+14	_	null confirmed (N. 5: 3 of 3).
+13	_	null confirmed (N. 5: 1 of 1).
+12	_	null confirmed (N. 5: 2 of 3).

@@ -1,0 +1,37 @@
+% BnF ms. fr. 3151, no. 43 (Gallica ark:/12148/btv1b9059865k): Seure to Henri II, Lisbon. Another copy of the letter of
+% 12 December 1558 (the same text as no. 44), here enciphered almost in full.
+% fo. 81v (view 83, left-hand page): 30 cipher lines; clear text "qui est tout ce que puis escrire pour ..."
+% follows L30.
+% Plaintext: the text of no. 44 (data/fr3151/plain/12dec1558_text.tsv, segments CLEAR1 + A + CLEAR2 + B).
+% Format: one manuscript line per text line; sign labels separated by spaces (see docs/SYMBOLS.md);
+% "%" starts a comment; "Lnn" = line number within the cipher block.
+Zb ^ 6 100 Cx #p # Qb A 3 sl z W +o #1 oo 6 d To * 6 mm   % L01
+# ff Cx #p * Nf n * ^ 9 Tr #1 Cz 3s xx ooo sl Aq 8 6 ### ff   % L02
++ #b W Aq Qb o mm R Phi 6 Hr Aq ^ mm Qb ff f R m   % L03
+ooo ff Aq J Nf 6 3 x f d N +d J R s * ff 6 ^ 6 #b   % L04
+Aq ae To # o z 1 Rq Cx #b # Nf To 3s mm 8 ### ff   % L05
+o B + y xx Wl 1 ^ xx V m Aq +f 3s ff f # 8 x   % L06
+cl Aq 9 ^ P cl #p mm y J Hr Phi th #1 + ff vl sl   % L07
+3s xx Qb ff f * 3 + Nf Phi 6 ooo = N E EE 6 +f Aq   % L08
+Hr #b C R o C Qb # #b R + Nf 6 f n o p J ff   % L09
+# mm R #b #b mm d # 1 6 4b Phi ^ Nf 3 o xx ooo   % L10
++d #b ff f x Aq Nf + Nf * * + oo ^ f mt Qb Hr   % L11
+^ # xx Ce ooo th 3 s #b z p V #b Hr x ff dd R # ?   % L12
+s Hr Cx 1 z A c cl Nf xx * * 3s # N d mt c 6 sl #1   % L13
+p ooo Tr Hr ff mm +d 4b g 1 oo = 3s P s ^ mm R *   % L14
+ff B 9 #1 3 R z o cc f + Aq t Nf cl #p Cx 3s xx   % L15
+f 8 # dd 1 = ooo + Nf Hr 3s + Ob d mt cl * 3 #b sl f   % L16
+#b = ## ff ### 9 f ooo oo B mm oo mt + Nf Qb R ^ x m   % L17
++ th #b xx W ta R EE d ff 8 9 o +d Nf x g #b # z 1   % L18
++f Rq ff Ob z # #1 f Aq ### o +d cl R Qb 6 ^ ooo   % L19
+th #p W 3s # s vl Ob N Qb ## ooo * po oo ff = #1 +   % L20
+6 8 g 9 J 3s xx + 6 g ff R g +f 3s * ff mm ooo 1   % L21
+Cx Nf vl cc 6 #b + Qb 3s = + o = ooo ### ff cc +d Ob d   % L22
+Aq t EE # P vl Ob f o 3s 3 po z ff = 7 6 ^ P   % L23
+P 3 ta N Hr #p # 9 f Qb R z 3 ff = R 3 o Ob   % L24
++ Ob * ooo ^ Hr po C W B ooo g 6 sl mm + Aq o   % L25
+ff Cx 1 #1 Hr Ak #b = 8 ^ f #1 n 3 #p Cx B = z   % L26
+# # 9 f ooo 3s = ^ 6 oo ff R 3 mm m +o Ob 8 Nf   % L27
+f v s t 3s po n 6 ff mm W #p cc 9 xx Aq re P Tr N   % L28
+n Zb R +o ^ # Tr y Cx 1 Cz f 100 Qb Cs p N Tr   % L29
+R Tr 14 2 7 4b   % L30

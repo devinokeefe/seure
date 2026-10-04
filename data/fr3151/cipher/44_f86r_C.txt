@@ -1,0 +1,20 @@
+% BnF ms. fr. 3151, no. 44 (Gallica ark:/12148/btv1b9059865k): Seure to Henri II, Lisbon, 12 December 1558.
+% fo. 86r (view 87, right-hand page): postscript cipher block C. L01 of the block is clear text only (closing
+% formula and date) and is not transcribed; the cipher lines are L02-L13.
+% Plaintext: contemporary decipher on fo. 85r-v (data/fr3151/plain/12dec1558_text.tsv, segment C).
+% HELD OUT: block C is not used to build the key (set HC44 in data/sets.tsv).
+% Doubtful spots: L11 first "1" and "U"; L12 "3"; L13 "f"; the ### and ## of L11 are rough.
+% Format: one manuscript line per text line; sign labels separated by spaces (see docs/SYMBOLS.md);
+% "%" starts a comment; "Lnn" = line number within the cipher block.
+Tr * M ff d Cx #p Lc Cz 3s mm Aq 14 V 3 +o sl + Qb s ff # m # Zb   % L02
+2 P ^ n mm + m c 6 sl 3 3s r R ### ff 6 f Lc xx Nf N cl h #b ^ #1 # 9   % L03
+Aq #b Hr R h A mm 6 3 6 Lc + To ff = R E # Phi #p d Hr f #1 s 2 v   % L04
+Hr Lc 3 ff R +d vl +d #p Qb Tq E W 2 14 vl n o n #1 mm oo sl ff 8p   % L05
+8 R 7 ## ^ # # Aq s #p d 1 f 6 3 ff mt + + + y s sl 6 d Hr   % L06
+ff n ^ xx Cx f o J Lc + 3s mm #1 Hr ### M #p f oo E s ## 3 ooo   % L07
+ff Qb Lc Aq f # ^ E Tr s + +f 3s R x 3 ff 7 s 3s R p o +f #1 2   % L08
+ff x o s #b s Pb +d #1 = y Nf # o sl x vl Hr A 7 E 6 + ff xx   % L09
+mm Qb 9 E # 3s # 12 oo R Zb 9 xx Ce h o f Aq p 8 3s Hr   % L10
+1 Qb 3s Lc ### E W ### R d o n # J x ## 9 n N U #p sl 3s =   % L11
+### 3 #1 C 14 mt t 9 ff o cl #b c Lc f # ff Cx Nf oo B a sl 3s mm 7   % L12
++f ooo + E Aq #p # Qb Qb o ^ 7 #1 Lc ooo d #p = y f # Nf 3   % L13

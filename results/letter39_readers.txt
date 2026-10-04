@@ -1,0 +1,146 @@
+Letter 39 (BnF fr. 3151, fo. 71r): agreement between two independent transcriptions.
+
+== reader 1 (v3) against reader 2
+reader 1 (v3): 405 signs; reader 2: 402 signs (101 marked uncertain); aligned positions: 405
+same label 341; reader 1 (v3) = an alternative given by reader 2: 18; different 43 (of which reader 2 marked uncertain: 26); in reader 1 (v3) only 3; in reader 2 only 0
+exact agreement 341/405 = 0.842; agreement counting the alternatives 359/405 = 0.886
+L01 k4    = / reader 2: xx?
+L01 k5    oo = an alternative of reader 2 (oo|ooo)
+L01 k7    +f / reader 2: f
+L01 k8    8 = an alternative of reader 2 (6|8)
+L02 k7    = / reader 2: xx
+L02 k14   3 / reader 2: J
+L02 k16   +f / reader 2: +d?
+L02 k20   ii / reader 2: n?
+L02 k21   x / reader 2: Qb?
+L02 k22   h / reader 2: s
+L03 k14   Cz = an alternative of reader 2 (Cx|Cz)
+L04 k2    Q / reader 2: Cs?
+L04 k7    J = an alternative of reader 2 (J|sl)
+L04 k10   = = an alternative of reader 2 (=|xx)
+L04 k18   P / reader 2: Phi?
+L04 k19   cl / reader 2: ae?
+L05 k4    z / reader 2: 3
+L05 k6    h / reader 2: 3?
+L06 k4    J / reader 2: 3?
+L06 k7    1 = an alternative of reader 2 (1|sl)
+L06 k8    r / reader 2: To?
+L06 k18   E / reader 2: II?
+L07 k1    ts = an alternative of reader 2 (t|ts)
+L07 k7    8p / reader 2: P?
+L07 k11   6 / reader 2: B?
+L07 k16   xx = an alternative of reader 2 (=|xx)
+L08 k2    cl / reader 2: vl?
+L08 k4    Hr / reader 2: ##
+L08 k8    v / reader 2: vl
+L08 k9    oo / reader 2: d
+L08 k12   d / reader 2: 8?
+L08 k17   reader 1 (v3) only: C
+L08 k18   ss / reader 2: Cx?
+L09 k3    #1 / reader 2: #?
+L09 k14   9 / reader 2: 1
+L09 k20   ts / reader 2: +f?
+L10 k12   th / reader 2: 9
+L10 k13   V / reader 2: vl?
+L12 k2    m = an alternative of reader 2 (m|mm)
+L12 k4    To / reader 2: r?
+L12 k8    # = an alternative of reader 2 (#|##)
+L13 k2    8 / reader 2: z?
+L13 k7    reader 1 (v3) only: 3
+L14 k13   a = an alternative of reader 2 (a|vl)
+L15 k3    m / reader 2: mm
+L15 k5    cl = an alternative of reader 2 (ae|cl)
+L15 k14   h = an alternative of reader 2 (h|s)
+L15 k18   reader 1 (v3) only: x
+L16 k2    +f = an alternative of reader 2 (+f|Aq)
+L16 k4    ae / reader 2: Wl
+L16 k5    cl / reader 2: vl?
+L16 k11   ts / reader 2: t?
+L16 k14   Q / reader 2: Aq
+L16 k16   m / reader 2: mm
+L17 k1    + / reader 2: +d
+L17 k5    Cx = an alternative of reader 2 (Cx|x)
+L17 k17   +f / reader 2: Aq?
+L18 k11   # = an alternative of reader 2 (#|##)
+L18 k17   9 = an alternative of reader 2 (1|9)
+L18 k19   Wl / reader 2: W
+L19 k15   ff / reader 2: ae?
+L20 k0    B / reader 2: 3s?
+L20 k7    To / reader 2: Zb
+L20 k15   Cx = an alternative of reader 2 (Ca|Cx)
+
+== final reading (v4) against reader 2
+final reading (v4): 405 signs; reader 2: 402 signs (101 marked uncertain); aligned positions: 405
+same label 353; final reading (v4) = an alternative given by reader 2: 16; different 33 (of which reader 2 marked uncertain: 21); in final reading (v4) only 3; in reader 2 only 0
+exact agreement 353/405 = 0.872; agreement counting the alternatives 369/405 = 0.911
+L01 k4    = / reader 2: xx?
+L02 k7    = / reader 2: xx
+L02 k14   3 / reader 2: J
+L02 k16   +f / reader 2: +d?
+L02 k20   ii / reader 2: n?
+L02 k22   h / reader 2: s
+L03 k14   Cz = an alternative of reader 2 (Cx|Cz)
+L04 k2    Q / reader 2: Cs?
+L04 k7    J = an alternative of reader 2 (J|sl)
+L04 k10   = = an alternative of reader 2 (=|xx)
+L04 k18   P / reader 2: Phi?
+L04 k19   cl / reader 2: ae?
+L05 k4    z / reader 2: 3
+L05 k6    h / reader 2: 3?
+L06 k4    J / reader 2: 3?
+L06 k7    1 = an alternative of reader 2 (1|sl)
+L06 k13   +d = an alternative of reader 2 (+|+d)
+L07 k1    ts = an alternative of reader 2 (t|ts)
+L07 k7    8p / reader 2: P?
+L07 k11   6 / reader 2: B?
+L07 k16   xx = an alternative of reader 2 (=|xx)
+L08 k2    cl / reader 2: vl?
+L08 k4    Hr / reader 2: ##
+L08 k8    v / reader 2: vl
+L08 k17   final reading (v4) only: C
+L08 k18   ss / reader 2: Cx?
+L09 k3    #1 / reader 2: #?
+L09 k14   9 / reader 2: 1
+L09 k20   ts / reader 2: +f?
+L10 k12   th / reader 2: 9
+L10 k13   V / reader 2: vl?
+L12 k2    m = an alternative of reader 2 (m|mm)
+L12 k4    To / reader 2: r?
+L13 k2    8 / reader 2: z?
+L13 k7    final reading (v4) only: 3
+L14 k13   a = an alternative of reader 2 (a|vl)
+L15 k2    +d = an alternative of reader 2 (+|+d)
+L15 k3    m / reader 2: mm
+L15 k5    cl = an alternative of reader 2 (ae|cl)
+L15 k14   h = an alternative of reader 2 (h|s)
+L15 k18   final reading (v4) only: x
+L16 k2    +f = an alternative of reader 2 (+f|Aq)
+L16 k5    cl / reader 2: vl?
+L16 k11   ts / reader 2: t?
+L16 k14   Q / reader 2: Aq
+L16 k16   mt / reader 2: mm
+L17 k5    Cx = an alternative of reader 2 (Cx|x)
+L17 k17   +f / reader 2: Aq?
+L18 k17   9 = an alternative of reader 2 (1|9)
+L18 k19   Wl / reader 2: W
+L19 k15   ff / reader 2: ae?
+L20 k15   Cx = an alternative of reader 2 (Ca|Cx)
+
+== signs changed from reader 1 (v3) to the final reading (v4): 17
+L01 k5    oo -> ooo
+L01 k7    +f -> f
+L01 k8    8 -> 6
+L02 k21   x -> Qb
+L06 k8    r -> To
+L06 k13   + -> +d
+L06 k18   E -> II
+L08 k9    oo -> d
+L08 k12   d -> 8
+L12 k8    # -> ##
+L15 k2    + -> +d
+L16 k4    ae -> Wl
+L16 k16   m -> mt
+L17 k1    + -> +d
+L18 k11   # -> ##
+L20 k0    B -> 3s
+L20 k7    To -> Zb

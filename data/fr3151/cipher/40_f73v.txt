@@ -1,0 +1,35 @@
+% BnF ms. fr. 3151, no. 40 (Gallica ark:/12148/btv1b9059865k): Seure to Henri II, Lisbon, 27 December 1558.
+% fo. 73v (view 75, left-hand page): continuation of the main cipher block.
+% The cipher ends in the last line (after its 9th or 10th sign; the final "n" may be the first clear letter); clear
+% text follows. The short postscript cipher at the foot of fo. 73v is not transcribed in this release.
+% Labels seen only here: Qb (q-loop on a double-barred cross), C3, +2 (cross with two crossbars), #x, Il (I with two
+% bars and a top loop), dd (two joined knots), tl, vt, Dt, Ob, H.
+% Format: one manuscript line per text line; sign labels separated by spaces (see docs/SYMBOLS.md);
+% "%" starts a comment; "Lnn" = line number within the cipher block.
+sl Nf oo 1 ^ mm 8 3 3s vt E W N vl n p #1 xx Qb d f 3s Hr ff oo   % L01
+^ 3s R ta * C3 m d E Cx Nf #b +d +2 M p mm oo h 9 ae +   % L02
+sl x Phi s x v 3 f Aq P p J A ff xx 3 #1 C 9 +f 3s xx + # p Aq   % L03
+E Zb mm #b 23 8p vl ff v R W * 6 vl * o + n P E m Nf h *   % L04
+ooo #p * cc s 9 N c J #1 6 * #p xx 3s A +2 # 8b 8 oo V E   % L05
+Hr A Cx 1 xx ^ 8 x 3s Aq po 6 6 +2 2 C ooo sl Hr ? cc ff mm ooo #1   % L06
+Aq z Hr 1 v m 3s W B c xx ff + R * sl #b #p II o t xx ff   % L07
+#p * J 1 o z S 3s vl ff ss m 1 o n g 3s xx v + ## 3s xx Aq 6 ^   % L08
+o mm ooo + J th oo d ff Hr po n Cd Nf h E xx t m tl W B R t   % L09
+#1 Cd 6 2 v P 12 # v 6 vl M * d ooo n #b +d C + cl E   % L10
+3s A Ve #b z Hr ff W p U r h +d #b x o Ve E ## v 6 f po n #1   % L11
+Qb f Nf # #b ooo R v V E W th ^ f + t s mm # ts d vl E   % L12
+p 3 h N vl n R d #1 # ff f ooo L W E #1 x Hr ff # R ### 1   % L13
+Ak mm o ae * #b d o f Aq Nf Cx 3s #p xx Qb V t ^ xx vl C o   % L14
+R B m s mm # m f vl E ff Lam + d n #b ^ 1 p 2 # 3 1   % L15
+k Zb xx ff ^ #1 x W N E 3 +f B #1 # a Qb #x d h 9 Ve 1   % L16
+c cl Nf xx * Hr ff # #b R ^ x J o oo ### 1 mm W * #1 f E   % L17
+R Hr xx ## 3s +f 4 ff xx s To v R ts o h W 8p +f 8 p th #b   % L18
+E r 9 f d #p oo # r Nf xx 2 h #1 p ## + ooo R B f m 8b ^ E   % L19
+Aq A s xx Qb l n z #1 xx ooo 9 xx 8p +f #1 6 Aq x x #p n R xx ff f   % L20
+x 9 Hr C E ff +f Zb 9 6 #1 3s mm c vl #b = * +f 23 ff W #   % L21
+Ob l ta N L 3 #1 ## 9 xx ooo 3 c Hr Aq 3s h ca * #1 xx f ## a   % L22
+#b xx R ^ ff M x o 7 ts #p +f Qb N 7 #p cc ooo p Hr 1 B 6   % L23
+ooo * ma Phi th #1 * ff R v 3s Hr d cc s +d #1 xx y P E s   % L24
+1 Aq Nf d E R 3 Il dd 7 m # B R s # ff mm 1 f #b oo 3s   % L25
++ #1 h ff # 2 +f ## t 1 mm Ve W 6 6 Nf 23 * 3 s Hr 3s   % L26
+Aq 100 8 30 13 7 2 R Td 12 n   % L27

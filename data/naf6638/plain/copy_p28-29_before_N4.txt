@@ -1,0 +1,16 @@
+% BnF ms. NAF 6638, piece "N. 4", pp. 28-29 (Gallica ark:/12148/btv1b525105423, views f40-f41): the clear text that stands
+% immediately BEFORE the cipher block. Used only as a control text (same letter, same subject) in
+% code/naf6638_check.py. Read from the images, 2026-10-04; accents not marked; line breaks not those of the copy.
+Quant a l'argent qu'ilz disent attendre de jour a autre pour la vendicion des repartimens du Peru, ce n'est pas
+chose si preste qu'ilz publient, et n'en viendra encores riens pour ceste annee ou nous sommes, car il y a beaucoup
+de difficultez et longueurs et peult estre guyeres pour celle qui vient; vray est qu'avec le temps (si cela va en
+avant) c'est chose asseuree qu'ilz en tireront a diverses foys huict ou dix millions d'or; des l'an passe ilz
+envoyerent par hommes expres pouvoirs bien amples pour y besongner, mais ilz sont forcez d'y en envoyer maintenant
+d'autres par ce nouveau vis Roy, parce qu'il s'est trouve de grandes difficultez aux premiers, et vouldroient bien
+(a ce que j'entendz) ceulx qui les possedent maintenant en jouyr s'ilz pouvoient en final sans les achetter
+autrement; et davantaige ledict vis Roy ne sera la en possession de sa charge que d'icy a ung an au plustost a cause
+que ladite mer du Sur ne se navigue pour aller la (comme dict est) que par saisons. Ceulx dudict Peru ont maintenant
+descouvert d'autres vallees et endroictz ou les Espaignolz n'avoient point este, ou ilz disent y avoir de grandes
+richesses et forces mynes d'argent, et estime l'on qu'il en viendra par temps de paix une infinite de biens: je diz
+par la paix, parce que ceulx qui ont l'argent ne l'osent apporter par deca, tant pour les dangers, que pour craincte
+que le Roy Philippes ne s'en saisisse, comme il feroit s'il avoit guerre

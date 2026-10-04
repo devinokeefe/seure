@@ -1,0 +1,157 @@
+% Key from the training sets only (held-out block C not counted). Columns: sign, value, occurrences on the value / all aligned occurrences, distribution of aligned units.
+ff	e	266/316	e:266 _:11 a:7 [mais]:3 m:2 l:2 ais:2 d:2 as:1 nt:1 n:1 u:1 la:1 lad:1 t:1 par:1 mer:1 i:1 bie:1 feu:1 [iamais]:1 po:1 ux:1 h:1 nee:1 uou:1 q:1 fic:1 o:1
+#	s	123/295	s:123 i:71 _:24 a:13 t:5 e:4 f:4 o:4 l:3 fi:3 bi:2 r:2 po:2 ib:1 de:1 g:1 lli:1 ui:1 [marchandises]:1 y:1 par:1 er:1 qu:1 ci:1 ue:1 ues:1 ra:1 mez:1 [quelques]:1 mm:1 por:1 nou:1 li:1 il:1 c:1 mbi:1 p:1 le:1 m:1 [daultant]:1 n:1 [iamais]:1 q:1 ip:1 it:1 di:1 ir:1 uoi:1
+3s	e	213/249	e:213 _:7 f:7 p:3 a:3 r:2 n:2 po:1 ff:1 iep:1 tie:1 o:1 [royaulme]:1 y:1 q:1 l:1 mer:1 la:1 t:1
++	c	69/189	c:69 r:28 _:11 l:9 t:8 m:8 i:4 u:4 mm:3 n:3 s:2 o:2 la:2 e:2 d:2 a:2 q:1 [lest]:1 go:1 ltr:1 luy:1 rs:1 er:1 [despaigne]:1 ues:1 fr:1 yn:1 uru:1 g:1 lli:1 ffr:1 les:1 uel:1 le:1 sr:1 to:1 cqu:1 lqu:1 our:1 rm:1 x:1 tr:1 rip:1 ur:1 esc:1 eur:1
+3	u	131/188	u:131 e:9 _:8 r:7 s:4 p:3 ire:2 f:2 ie:1 er:1 [quoy]:1 ro:1 ra:1 o:1 t:1 me:1 ce:1 n:1 usq:1 et:1 and:1 ldr:1 pp:1 te:1 eul:1 [sorte]:1 y:1 pui:1 [royne]:1 [quelques]:1
+R	de	161/187	de:161 _:6 e:4 a:4 i:2 t:2 p:1 co:1 uou:1 ire:1 d:1 [faict]:1 r:1 u:1
+6	o	83/180	o:83 d:25 _:13 r:10 p:7 ce:4 a:4 u:2 rd:2 ch:2 l:2 e:2 i:1 c:1 qu:1 den:1 y:1 b:1 q:1 luy:1 que:1 [bien]:1 ion:1 lot:1 [faire]:1 ue:1 h:1 x:1 si:1 il:1 er:1 g:1 al:1 ard:1 m:1 t:1
+1	e	152/179	e:152 _:6 r:3 n:2 que:2 lz:1 mez:1 il:1 par:1 a:1 ien:1 ost:1 li:1 u:1 ens:1 s:1 nee:1 rre:1 p:1
+f	n	146/175	n:146 i:5 _:3 o:2 u:2 par:1 x:1 q:1 c:1 uue:1 el:1 e:1 s:1 ins:1 cul:1 est:1 la:1 nee:1 eux:1 ten:1 me:1 b:1
+^	u	150/173	u:150 _:6 d:3 e:2 l:2 [quoy]:2 o:1 z:1 p:1 b:1 eus:1 bon:1 s:1 a:1
+#1	o	124/155	o:124 _:5 e:4 s:2 en:2 n:2 [marie]:1 m:1 u:1 [uiceroy]:1 for:1 ne:1 ion:1 i:1 tr:1 es:1 rr:1 a:1 toi:1 l:1 [bien]:1 q:1
+E	le	110/155	le:110 _:9 n:4 l:3 p:3 la:3 ue:2 s:2 g:2 [leuer]:1 ett:1 es:1 f:1 r:1 ore:1 h:1 i:1 [faire]:1 a:1 nn:1 [peru]:1 fl:1 co:1 po:1 en:1 d:1
+#b	a	130/151	a:130 _:5 u:2 nt:2 ro:1 ain:1 o:1 e:1 [dargent]:1 c:1 st:1 car:1 r:1 i:1 que:1 fi:1
+d	u	116/146	u:116 _:3 h:2 d:2 a:2 l:2 s:2 on:1 ai:1 ff:1 r:1 i:1 il:1 as:1 [uostre]:1 e:1 n:1 moy:1 q:1 dud:1 ys:1 eus:1 c:1 eur:1
+Aq	t	104/146	t:104 _:5 i:4 r:4 l:3 il:2 s:2 o:1 rm:1 art:1 [portugal]:1 ir:1 pr:1 c:1 iu:1 e:1 [pour]:1 bi:1 [uous]:1 oct:1 ul:1 p:1 d:1 [mais]:1 qu:1 q:1 uue:1 lh:1 a:1
+o	a	126/145	a:126 _:4 il:3 m:1 rty:1 r:1 c:1 p:1 sil:1 e:1 g:1 el:1 bi:1 pas:1 ssi:1
+W	s	118/141	s:118 _:5 d:4 r:2 t:2 n:1 [armez]:1 de:1 les:1 lle:1 c:1 ssi:1 ul:1 l:1 u:1
+mm	n	113/138	n:113 x:6 au:5 a:4 _:2 m:1 e:1 eau:1 nee:1 [france]:1 eru:1 [espaigne]:1 lx:1
+Nf	a	117/132	a:117 _:3 i:2 s:1 t:1 g:1 e:1 car:1 me:1 gra:1 [permise]:1 ont:1 m:1
+z	s	86/130	s:86 g:5 _:5 n:3 p:3 u:3 l:3 po:2 ues:2 f:2 luy:1 ff:1 qu:1 r:1 ar:1 m:1 e:1 er:1 ig:1 i:1 ce:1 d:1 ug:1 o:1 gn:1 res:1
+xx	n	112/129	n:112 le:3 p:2 a:2 l:2 nne:1 do:1 nee:1 lle:1 e:1 _:1 o:1 de:1
+ooo	t	111/126	t:111 u:2 ent:2 is:1 e:1 bi:1 b:1 p:1 i:1 ult:1 r:1 [uingt]:1 tes:1 _:1
+sl	i	89/123	i:89 par:7 r:4 _:3 y:2 e:2 o:2 per:2 a:2 al:1 et:1 ue:1 rip:1 ro:1 que:1 c:1 [despaigne]:1 toi:1 re:1
+Qb	t	109/123	t:109 art:2 i:2 ic:1 _:1 [ueult]:1 ult:1 ge:1 n:1 po:1 ell:1 ent:1 que:1
+s	ce	61/121	ce:61 _:18 p:8 e:5 a:3 c:2 d:2 is:2 pp:2 r:2 t:1 ep:1 ff:1 roy:1 s:1 n:1 u:1 [royne]:1 ee:1 ur:1 ier:1 i:1 [uiceroy]:1 fr:1 sr:1 q:1
+*	d	53/119	d:53 s:11 _:6 o:6 ss:5 e:4 [dargent]:3 l:2 p:2 i:2 r:2 b:1 po:1 ilz:1 qu:1 tar:1 as:1 [royne]:1 [despaigne]:1 mm:1 ues:1 mme:1 se:1 m:1 u:1 urr:1 rri:1 rr:1 oc:1 us:1 arg:1 nn:1 q:1 t:1
+#p	o	89/113	o:89 a:6 _:2 de:1 p:1 y:1 [argent]:1 l:1 rou:1 bon:1 q:1 m:1 e:1 en:1 n:1 sto:1 lot:1 as:1 ion:1
+9	e	93/111	e:93 r:3 o:2 rs:1 t:1 h:1 uco:1 a:1 po:1 il:1 que:1 [quilz]:1 l:1 f:1 pp:1 nne:1
+Hr	r	97/111	r:97 po:2 m:2 arm:1 _:1 y:1 roy:1 oit:1 i:1 el:1 e:1 bi:1 est:1
+8	o	44/101	o:44 b:9 d:6 _:5 h:5 pp:3 et:3 p:3 rr:2 r:2 a:2 [uous]:2 u:2 com:1 ue:1 roy:1 [uiceroy]:1 ch:1 le:1 de:1 mm:1 i:1 ap:1 au:1 rd:1 dis:1
+x	x	14/98	x:14 g:11 y:7 _:7 com:6 con:5 p:4 s:4 i:3 c:3 r:3 q:2 n:2 t:2 l:2 is:1 ong:1 ll:1 cel:1 li:1 ch:1 ire:1 luy:1 eu:1 ul:1 my:1 a:1 ce:1 nn:1 d:1 cc:1 res:1 co:1 m:1 mm:1 f:1 e:1 par:1
+oo	y	52/94	y:52 t:21 i:3 _:2 est:2 ent:2 n:1 [peru]:1 e:1 bi:1 ei:1 is:1 b:1 a:1 s:1 it:1 p:1 et:1
+=	n	82/92	n:82 m:2 _:2 l:1 e:1 or:1 [aucunes]:1 y:1 te:1
++f	r	63/91	r:63 _:4 l:3 i:2 n:2 [faire]:2 s:1 ee:1 f:1 [dargent]:1 au:1 ipr:1 q:1 c:1 que:1 uu:1 [fort]:1 po:1 p:1 b:1 o:1
+vl	l	58/81	l:58 b:4 g:3 uel:2 r:1 _:1 ch:1 s:1 q:1 u:1 our:1 i:1 luy:1 be:1 [portugal]:1 ire:1 bre:1 con:1
+P	q	30/76	q:30 que:16 _:4 de:3 ue:3 [quelque]:2 c:2 [uostre]:1 [daultant]:1 e:1 g:1 ge:1 ha:1 luy:1 [faire]:1 f:1 ues:1 z:1 s:1 rge:1 uel:1 t:1 [perdu]:1
+c	f	27/76	f:27 l:19 s:2 y:2 [portugal]:2 n:2 uel:2 a:2 _:2 il:1 o:1 u:1 b:1 h:1 [nauires]:1 omb:1 g:1 q:1 que:1 se:1 ue:1 [maieste]:1 lle:1 uil:1 ldr:1
+Cx	g	24/73	g:24 y:21 _:7 r:4 p:2 ph:1 l:1 de:1 luy:1 uel:1 ue:1 est:1 ys:1 bi:1 ai:1 my:1 oy:1 ed:1 e:1 [marchandises]:1
++d	l	59/70	l:59 les:2 u:2 uos:1 c:1 [philippe]:1 r:1 qu:1 d:1 cel:1
+###	m	60/68	m:60 e:2 i:1 tr:1 [nauires]:1 is:1 u:1 t:1
+n	z	53/66	z:53 d:3 s:2 les:1 oy:1 [pour]:1 siz:1 y:1 [pourrez]:1 l:1 _:1
+N	qui	56/64	qui:56 _:3 par:1 a:1 as:1 ues:1 p:1
+B	s	30/63	s:30 d:5 [uous]:3 _:2 arg:2 r:2 eul:2 o:1 tr:1 tre:1 u:1 f:1 que:1 ne:1 po:1 ip:1 c:1 m:1 qui:1 roy:1 luy:1 [empereur]:1 i:1 pp:1
+J	es	49/63	es:49 p:3 _:2 r:2 e:1 er:1 la:1 st:1 lme:1 b:1 a:1
+h	r	46/62	r:46 p:3 e:2 is:1 z:1 _:1 a:1 for:1 bre:1 per:1 s:1 pp:1 luy:1 que:1
+p	c	33/62	c:33 f:3 t:3 il:3 e:2 [faire]:2 n:2 ou:1 uff:1 p:1 r:1 o:1 y:1 a:1 q:1 tic:1 luy:1 up:1 [argent]:1 et:1 [despaigne]:1
+##	i	37/59	i:37 r:8 mm:1 a:1 _:1 lle:1 [iamais]:1 y:1 l:1 pr:1 ro:1 rq:1 us:1 p:1 [mais]:1 u:1
+v	s	30/59	s:30 h:4 _:3 y:2 g:2 el:1 sfa:1 uel:1 l:1 i:1 urr:1 luy:1 ues:1 o:1 e:1 ue:1 r:1 omp:1 po:1 [dire]:1 f:1 cha:1 pue:1
+m	m	38/58	m:38 x:6 u:3 _:2 au:2 e:1 a:1 oys:1 [espaigne]:1 ulm:1 [uostre]:1 [marie]:1
+cl	l	50/58	l:50 i:3 eru:1 d:1 n:1 _:1 [armez]:1
+EE	p	41/45	p:41 g:2 _:2
+7	_	32/43	_:32 est:4 ay:1 moy:1 que:1 e:1 s:1 t:1 is:1
+t	m	15/39	m:15 t:5 n:3 u:3 _:2 e:1 c:1 nu:1 ict:1 i:1 h:1 die:1 il:1 s:1 [partit]:1 [quelle]:1
+y	s	13/38	s:13 _:4 e:3 dit:2 r:2 i:2 l:2 arg:1 [cest]:1 omm:1 en:1 x:1 rg:1 lad:1 d:1 [dict]:1 pri:1
+C	pa	17/38	pa:17 y:11 per:2 a:1 r:1 ge:1 po:1 iay:1 d:1 [part]:1 ne:1
+Tr	_	29/38	_:29 b:3 i:3 ch:1 u:1 d:1
+A	ur	18/34	ur:18 [pour]:7 _:2 e:2 p:2 oye:1 c:1 po:1
+Phi	t	15/34	t:15 f:5 que:2 onf:1 p:1 ge:1 q:1 [daultant]:1 i:1 [dargent]:1 [quelque]:1 u:1 e:1 fl:1 pe:1
+g	p	23/30	p:23 r:2 luy:1 g:1 u:1 br:1 iue:1
+cc	i	22/30	i:22 l:3 p:1 qu:1 ul:1 est:1 uel:1
+Lc	i	30/30	i:30
+ae	[portugal]	4/29	[portugal]:4 et:4 i:3 o:2 r:2 u:2 l:2 toi:1 t:1 con:1 a:1 ais:1 com:1 de:1 _:1 roy:1 ce:1
+mt	a	28/29	a:28 u:1
+Zb	et	10/26	et:10 _:7 ge:1 u:1 ue:1 [uous]:1 p:1 g:1 [peru]:1 q:1 que:1
+II	i	8/25	i:8 o:4 a:3 t:2 n:1 r:1 _:1 z:1 re:1 e:1 p:1 sa:1
+po	il	9/24	il:9 c:6 t:2 _:2 a:1 o:1 n:1 f:1 ic:1
+th	h	21/24	h:21 r:1 f:1 [cest]:1
+S	r	12/22	r:12 si:2 d:2 que:1 ph:1 p:1 [uostre]:1 co:1 con:1
+M	_	20/20	_:20
+Q	_	12/20	_:12 et:2 i:2 que:2 sd:1 [uostre]:1
+8p	p	16/19	p:16 l:1 la:1 g:1
+12	_	18/19	_:18 ue:1
+To	_	9/18	_:9 moy:2 i:1 m:1 q:1 u:1 [peru]:1 moi:1 est:1
+2	_	15/18	_:15 t:1 bt:1 que:1
+?	_	12/18	_:12 t:2 b:1 f:1 u:1 beau:1
+Ve	t	9/17	t:9 que:3 r:3 u:1 _:1
+a	_	11/17	_:11 b:3 u:1 sch:1 uel:1
+100	_	15/16	_:15 ss:1
+V	h	7/16	h:7 [faict]:5 ict:1 fa:1 s:1 g:1
+23	_	12/14	_:12 s:1 [peru]:1
+Rl	i	12/14	i:12 que:1 [ainsi]:1
+Ob	l	8/12	l:8 ur:1 t:1 e:1 nco:1
++o	_	11/12	_:11 i:1
+lo	_	6/12	_:6 il:2 r:1 ui:1 t:1 par:1
+ta	[nauires]	11/11	[nauires]:11
+L	e	6/11	e:6 deb:1 o:1 _:1 s:1 i:1
+Ce	_	7/10	_:7 g:3
+r	i	5/10	i:5 g:2 _:2 l:1
+Rq	et	8/10	et:8 de:1 l:1
+k	g	2/9	g:2 uel:1 cc:1 f:1 l:1 pl:1 i:1 u:1
+cc?	l	3/9	l:3 i:2 mbi:1 ipt:1 ain:1 _:1
+4b	et	7/9	et:7 a:1 u:1
+ii	_	7/8	_:7 n:1
+Cz	g	3/8	g:3 _:2 p:1 i:1 z:1
+14	_	7/8	_:7 ier:1
+uT	s	2/7	s:2 l:1 n:1 e:1 ge:1 a:1
+pa	ent	5/7	ent:5 e:1 [argent]:1
+Dt	t	6/7	t:6 a:1
+vt	s	3/7	s:3 l:1 e:1 b:1 p:1
+oo?	t	5/7	t:5 y:2
+Cs	e	4/6	e:4 _:1 m:1
+U	h	5/6	h:5 urq:1
+=o	_	5/6	_:5 n:1
+l	il	2/5	il:2 ue:1 les:1 e:1
+ts	m	4/5	m:4 x:1
+ss	q	1/5	q:1 c:1 ais:1 com:1 om:1
+Cd	p	1/5	p:1 yer:1 a:1 cel:1 fe:1
+13	_	5/5	_:5
+c?	l	2/5	l:2 e:1 q:1 f:1
+re	_	3/5	_:3 s:1 i:1
+8?	o	3/5	o:3 con:1 b:1
+Wl	is	1/5	is:1 _:1 u:1 ss:1 ess:1
+C3	a	2/4	a:2 ire:1 r:1
+Ak	_	3/4	_:3 di:1
+Tq	re	1/4	re:1 m:1 u:1 po:1
++2	i	3/3	i:3
+4	est	1/3	est:1 a:1 e:1
+ma	e	1/3	e:1 [espaigne]:1 [lespaigne]:1
+dd	_	3/3	_:3
+30	_	3/3	_:3
+p?	f	2/3	f:2 c:1
+Sh	f	1/3	f:1 por:1 r:1
+40	a	3/3	a:3
+N_Phib	que	3/3	que:3
+O	t	1/2	t:1 y:1
+Ca	_	2/2	_:2
+Pb	o	1/2	o:1 e:1
+8b	r	1/2	r:1 t:1
+ca	la	1/2	la:1 [marie]:1
+CR	i	1/2	i:1 g:1
+sm	t	1/2	t:1 _:1
+t?	n	2/2	n:2
+3o	y	1/2	y:1 _:1
+Xs	g	2/2	g:2
+N_ang	bl	1/2	bl:1 o:1
+N_ven	t	1/2	t:1 q:1
+bar	_	1/1	_:1
+Pt	que	1/1	que:1
+yb	r	1/1	r:1
+cx	il	1/1	il:1
+H	lz	1/1	lz:1
+tl	u	1/1	u:1
+Lam	s	1/1	s:1
+#x	li	1/1	li:1
+Il	_	1/1	_:1
+Td	[castille]	1/1	[castille]:1
+Et	_	1/1	_:1
+D	e	1/1	e:1
+CS	i	1/1	i:1
+Cv	g	1/1	g:1
+Pl	a	1/1	a:1
+rr	p	1/1	p:1
+N_bb	i	1/1	i:1
+Lcs	[peru]	1/1	[peru]:1
+Ll	oys	1/1	oys:1
+N_lo0	b	1/1	b:1

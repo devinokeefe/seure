@@ -1,0 +1,278 @@
+% NAF 6638 N. 5 against the clear text of the copy, fixed key from fr. 3151. sign (full reading)=unit; "!" = not the key value of the first reading; "(-x)" = plaintext letter with no sign. Lines of the page from 0.
+p35.L00: mm=n o=a B=p! 1?|9=p! +=o! Aq?|+f=r! ooo=t ff=e E?|Hr=ri! 7?|sl=_ 9=e x?|ae=n! y=s R=de W?|ss=s h=r
+p35.L01: 3s=e C?=pa E?=rt! cc=i ###=m ff=e xx=n #=s #b?|Cx=a m=m 9=e f=n 3s?=e Aq?|+f=r! Nf?|ff=a +=c 9=e
+p35.L02: h=r Qb=t o=a ##?|#=i x?|ae=n! d=e! +=m! ff=e f=n ooo=t E?=tr! v=oy! Cz?|Cx=_ #=s #p=o ^=u vl?|c=q! z?|3=u!
+p35.L03: Nf?|ff=a Qb=t h=r ff=e ###=m sl=i x?|y=ll! cc=i #1=o mm=n #=s 6=dor! re?|S=po! A?|^=ur
+p35.L04: E?=le y=s L?=par! ooo=t 7?|sl=yes! 9=e W?|ss=t! #b=po! A?|^=ur #=s ff=e y=s *=d Aq?|+f=r! v=o!
+p35.L05: #=ic! lo?|p=_ ooo=t n=z #1=o E?|Hr=r! 6=d! #=i! xx?|ae=n #b?|Cx=a cc=i Aq?|+f=r! 3s=e W?|ss=s ##?|#=i
+p35.L06: ff=e #=s d?|dd=u oo=i! y=s *=d Nf?|ff=a 6=d! ^=u (-i) #=s W=s B=i! 9=e xx=n o=a z?|3=u!
+p35.L07: 3s=e n?=z E?=le L?=moy! ff=e f=n P=que! 9=e xx=n ^=u v=o! sl=y! 3s=e n?=z Nf?|ff=a s=ce
+p35.L08: L?=moy! W=s R=de t=m #b?|Cx=a Cz?|Cx=y! rr?=p h=r #p=o +=c d=h! o=a cc=i mm=n v=o!
+p35.L09: ^=u g?|9=p +=l! 3=u #=s Qb=t #1=o y=s ooo=t B=s Phi?|Aq=i! v=pou! d?|dd=u 9=e n?=z *=d ##?|#=i
+p35.L10: m=x! #p=o ^=u v=d! #1=o 3=u n?=z 3s=e a=_ v=bo! mm=n #=s ta=[nauires] R=de Cz?|Cx=g! d?|dd=u
+p35.L11: ff=e (-r) h=r 9=e 3s=e f=n s=ce z=s 3s=q! ^=u Nf?|ff=a (-r) Aq?|+f=t Q?|E=_ cc=i ff=e Hr=r W?|ss=s
+p35.L12: cl?|cc=l #b=a 9=e y=s P=q vl?|c=uel! n?=z z?|2=il! Cz?|Cx=y! o=a oo=y E?=t! r?|z=q! ^=u 7?|sl=i! f=n n?=z 9=e #p=o
+p35.L13: 3=u #=s 3s=e #=iz! ff=e s=ce ==n y=s 8?|8p=b! #1=o ==n y=s v=h! v?=om! ###=m ff=e W?|ss=s #1=o
+p35.L14: d?|dd=u cl?|cc=l Qb?|+f=t Aq?|+f=r! 9=e E?=le y=s m=m Nf?|ff=a E?|Hr=ri! mm=n #=i! Qb?|2=e! h=r #=s
+p35.L15: N=qui o=a 7?|sl=i! cl?|cc=l E?=le f=n ooo=t y=s o=a p=c Aq=ca! r?=i (-g) ff=e h=r (-e) Aq?|Q=t a=_ Aq?|+f=br!
+p35.L16: ^=u W?|ss=s E?=le Hr=r 9=e ==n rr?=p Nf?|ff=a (-s) #=s o=a f=n Qb=t vl?|c=l #=i! y=s E?=le
+p35.L17: R=de g?|9=p #p=o h=r ooo=t #1=o Aq?|+f=ri! 7?|sl=_ p=c (-o) v=e! Phi=t +=l! Nf?|ff=a ^=u #=i! vl?|c=l E?=le
+p35.L18: R=de #=s Nf?|ff=a ==n 6=d! v=o! m=m #=i! xx=n r?=g! #1=o N=qui 3=est! ###=m o=a cc=i
+p35.L19: mm=n Qb=t 9=e xx=n #b?|Cx=a f=n ooo=t c=f 3s=e Hr=r m=m (-e) ff=e R=de +=m! ^=u h=r
+p35.L20: W=s R=de ooo=t ff=e Aq?|+f=rr! 9=e Nf?|ff=a R=de ###=m Cz?|Cx=y! C?=pa ??|To=rfai! Tr=_ V=ct! n?=z
+p35.L21: cl?|cc=l o=a #1=o ^=u 2?|z=_ ii?=ilz! ==n ff=e Q?|E=t! Hr?=r s?|v=o! 3s=uu! 9=e Aq?|+f=r! #1=o ==n Qb=t r?=g!
+p35.L22: d?|dd=u 7?|sl=_ 9=e Hr=r 3s=e W?|ss=s R=de h=r ff=e B=s (-i) #=s ooo=t Nf?|ff=a f=n s=ce
+p35.L23: ae?|8=et B=s (-i) c=f 9=e Aq?|+f=r! #p=o mm=n Q?|E=t! ^=u ==n Cz?|Cx=g! 8?|8p=b! #p=o f=n a=b! 3=u Qb=t
+p35.L24: cc=i xx=n #b=et! y=s o=a f=n W?|ss=s #=s v?=oy! Cz?|Cx=_ r?=g! ^=u #=i! 9=e Aq?|+f=r! 3s=e W?|ss=s #b?|Cx=a (-r)
+p35.L25: h?=r J?|7=es (-t) ff=e Aq?|+f=r! +=l! Nf?|ff=a Q?|E=t! cc=i Hr=r 9=a! mm=n Qb=t v?=d! h=r v?=o!
+p35.L26: #=i! C?=c! E?=t! mt?|m=a (-u) xx=n #p=o t=m 8?|8p=b! Hr=r 3s=e R=de *=d 7?|sl=_ +=io! #=s v=o!
+p35.L27: d?|dd=u p?=il! n=z ooo=t h=r #p=o 3s=uu! 9=e h=r #1=o ==n Qb=t Nf?|ff=a (-s) #=s ff=e ^=u
+p35.L28: Aq?|+f=r! 9=e m=m 3s=e xx=n ooo=t Q?|E=_ v=to! ^=u Qb=t (-l) +=arg! pa=ent N=qui y=s ff=e Aq?|+f=r!
+p35.L29: #b?|Cx=a 3=u 9=e xx=n d?|dd=u +=c J?|7=es (-t) 3s=e o=a ff=nne! 9=e 6=d! d?|dd=u R=p! vl?|c=er! s=ou! Nf?|ff=a
+p36.L00: p=t! ooo=t ff=e xx=n *=d 3s?=r! 9=e cl?|cc=l #b=a ^=u 3s=e mm=n z?|3=u! ae?=e! R=de
+p36.L01: cl?|cc=l o=a ff=f! vl?|c=l #1=o E?=tt! ff=e R?=de 12=_ 14=_ R=de +=c #b=a ae?|8=et 9=e xx=n
+p36.L02: ^=u f=n Cz?|Cx=g! 8?|8p=b! ff=e W?|ss=s #1=o cc?|E=i xx=n r?=g! Nf?|ff=a Qb=u! 9=e p?=c P=q #=ues!
+p36.L03: m=m #=i! vl?|c=l E?=le #1=o 3=u 6=d! #p=o d?|dd=u n?=z 3s=e s=ce mm=n #=s d?|Q=h! v?=om! ###=m
+p36.L04: ff=e y=s ooo=t Hr=r o=a d?|dd=u 9=e h=r y=s 3s=e Aq?|+f=r! sl?=i d?|dd=u W?|ss=s P=q ##?|#=ues!
+p36.L05: ###=a! rr?=p o=a ==n Nf?|ff=a t=m #b?|Cx=a #1=o 3=u 9=ilz! n?=po! A?|^=ur Aq?|+f=r! v?=o! xx=n ooo=t #p=o d?|Q=u
+p36.L06: cl?|cc=l Q?|E=t! Hr=r 9=e E?=le a=_ 7?|sl=bi! 3s=e f=n N=qui vl?|c=l n?=z Cz?|Cx=y! Qb=t h=r #1=o (-u) ^?=u
+p36.L07: ff=e Aq?|+f=r! v?=o! xx=n ooo=t y?|z=s z=u! Hr=r d?=p! h=r 9=e f=n *=d Hr=r ff=e
+p36.L08: E?=t! #p=o d?|Q=u Qb=t 9=e +=l! ff=a! p=f! vl?|c=l #p=o (-t) ooo=t 9=e v?=d! ^=u R=p! vl?|c=er! s=ou!
+p36.L09: mt?|m=a (-u) g?|9=p #1=o h=r Qb=t R=de cl?|cc=l o=a z=ui! 7?|sl=_ vl?|c=l E?|ooo=le cl?|cc=l #b?|Cx=a P=q vl?|c=uel!
+p36.L10: E?=le (-i) vl?|c=l n?=z ooo=t h=r v?=ou! d?|Q=u ff=e h=r #p=o mm=n E?=t! 9=e
+p36.L11: x?|ae=n! #=s 3s=e p=c C?=pa (-r) s=ce P=que! (-e) vl?|c=l E?=le oo=y R=de m=m 3s=e d?|dd=u Hr=r ff=e
+p36.L12: h=r Nf?|ff=a cc=i ^=u y=s P=q W?|ss=ues! 9=e mm=n #=s 3s=e rr?=p Qb=t ff=e ###=m
+p36.L13: a=b! h=r 9=e ae?|8=et Nf?|ff=a 9=p! Aq?|+f=r! 3s=e y=s B=s (-i) 8?|8p=b! #1=o ==n E?=le d?|Q=u
+p36.L14: E?|Hr=r! #=s ff=e t=m a=b! E?=le A?|^=pou! h=r v?=ro! f=n ooo=t cl?|cc=l #b?|Cx=a R=de
+p36.L15: m=m #p=e! ^=u h=r ff=e g?|9=r! Aq?|+f=qu! 3s=e P=_! vl?|c=l P=q E?=ue! (-t) 9=e ###=m rr?=p #=s
+p36.L16: Nf?|ff=a p?|Phi=t! Qb=t ff=e ==n *=d #b?|Cx=a f=n ooo=t +=l! o=a p?|Phi=f! vl?|c=l #p=o E?=tt! 9=e N=qui
+p36.L17: y=s Nf?|ff=a (-p) g?|9=p h=r J?|7=es (-t) 3s=e o=a #=s ff=e ^?=u cc=i vl?|c=l E?=le ###=m o=a #=i!
+p36.L18: mm=n ooo=t 9=e f=n #b?|Cx=a ==n E?=t! #p=o ^=u 2?|z=il! n?=z c=f 3s=e 6=r! #1=o #=i! ff=e
+p36.L19: xx=n Qb=t 3=u f=n Cz?|Cx=g! 8?|8p=b! ff=e mt?|m=a (-u) +=c 8?|ae=o d?|dd=u Phi=p! #1=o ^=u a=_
+p36.L20: #=bi! 9=e mm=n ooo=t sl=i Hr=r 3s=e (-r) cc=i ^=u #=s P=q y=ues! o=a vl?|c=l Nf?|ff=a
+p36.L21: 7?|J=_ +=c o=o! W=s Qb=t ff=e R=de c?|vl=f #p=_! 6=o mm=n *=d ^=u h=r Nf?|ff=a y=s
+p36.L22: #b=et! g?|9=p #1=o Aq?|+f=r! ooo=t #1=o R=de vl?|c=c! #b?|Cx=a 3=u o=a x?|y=ll! #p=o #=s N=qui vl?|c=l n?=z
+p36.L23: W=s W?|ss=ac! +=c o=a Cz?|Cx=g! 9=e h=r #1=o 7?|sl=i! 3s=e ==n E?=t! mt?|m=a (-u) #=s B=s (-i)
+p36.L24: x?=e! ==n g?|9=p Nf?|ff=a (-s) #=s o=a mm=n E?=t! ae?|8=et R=de vl?|c=l #b?|Cx=a cc=i 3=u
+p36.L25: W?|ss=s P=q y=ues! #b?|Cx=a vl?|c=l o=a d?|dd=u ff=e Hr=r ff=a! p=c h=r d?|dd=u m=z! #1=o
+p36.L26: ^=u sl?=i (-l) n?=z #=s 2?|z=_ Aq?|+f=u! Phi?=rp! Hr=r 9=e f=n 6=d! h=r #1=o #=i! p=en! ooo?=t E?=t!
+p36.L27: v=o! d?|Q=u +=t! 3s=e cl?|cc=l o=a p?|Phi=f! vl?|c=l #p=o (-t) ooo=t 9=e N=qui s=_! ^=u Nf?|ff=a m=m
+p36.L28: o=a #=i! mm=n Qb=t ff=e xx=n #b?|Cx=a f=n ooo=t E?=t! Hr=r Nf?|ff=a cc=i
+p36.L29: +=c Qb=t 9=e h=r #b?|Cx=a vl?|c=l o=a ==n 7=_ ff=e ^=u c=f 3=u 9=e ma=[espaigne]!
+p36.L30: ae?|8=et vl?=si! p?|Phi=[feroient]! 3s=ung! Aq?|+f=bon! +=[butin]! #=a! ff=la! mm=[uille]! ooo=o! ^=u ==il!
+p37.L00: r?=ny! 8?|8p=a! W?|v=[quasi]! f=n a=_ d?|dd=u vl?|c=l E?=le R=de (-f) c=f 9=e f=n 6=ce! oo?=et!
+p37.L01: h=r o=a 6=p! Nf?|ff=a (-s) #?=s ff=e Hr=r #p=o cc=i 9=e =?|xx=n E?=t! o=a cl?|cc=l
+p37.L02: #b?|Cx=a v=h! Nf?|ff=a ^=u o=a (-n) f?|+f=n #b=a #1=o (-u) ^=ilz! g?|9=p ^?|A=our! h=r #1=o sl=i ff=e mm=n
+p37.L03: E?=t! R=de W=s +=m! s?|v=o! x?|y=ll! cc=i Aq?|+f=r! +=l! Nf?|ff=a mm=n re?|v=ou! 3=u 9=e vl?|c=l
+p37.L04: cc=l! L?=e ii=_ c=f #1=o h=r Qb=t sl=i p?|Phi=f! E?|cc=fi! p=c #b?|Cx=a +=t! ##?|#=i v=o! f=n P=que! cl?|cc=l
+p37.L05: #p=o xx=n oo=y V?|N=[faict]! Nf?|ff=a W?|v=p! Aq?|+f=r! 9=e W=s 3s=e xx=n (-t) oo=e! Phi=t R=de s=ce cl?|cc=l Nf?|ff=a
+p37.L06: Hr=r ff=e ^=u z?|3=s +=c #=i! h=r s?|v=o! 7?|sl=_ E?|Q=it! ^=u xx=n W?|v=g! Qb=t h=r ff=e J?|z=s!
+p37.L07: Cz?|Cx=g! Hr=r #b=a mm=n ooo=t W=s ff=e h=r d?|dd=u #=i! s=ce o=a D?|d=[uostre]! t=m Nf?|ff=a W?|v=i!
+p37.L08: J=es (-t) 9=e lo?|p=c! #b=a Aq?|+f=r! #1=o ^=u +=l! ooo=t Hr=r 3s=e E?=le Cz?|Cx=g! #b?|Cx=a cc=i f=n r?|v=g!
+p37.L09: E?=t! #p=o z?|3=u! Qb=t vl?|a=as! #=s (-e) ^=u h=r ff=e N=qui vl?|c=l n?=z c=f 9=e h=r #1=o #=i!
+p37.L10: 3s=e mm=n ooo=t mm?|mt=au! y=s Nf?|ff=a C?|vl=c! 7?=_ *=d d?|dd=u (-d) v?|N=ict! W=s Nf?|ff=a f=n 6=d!
+p37.L11: #1=o m=m sl=i xx=n Cz?|Cx=g! #p=o 4?|4b=et! =?|xx=n s?=o! t=m a=_ B?|h=br! ff=e R=de *=d
+p37.L12: y?|sl=i! #1=o y=s ae?|8=et mm?|mt=aul! Qb=t Hr=r 9=e #=s 3s=e f=n 6=d! h=r #1=o cc=i
+p37.L13: lo?|p=c! ooo=t n?=z ae?|8=et E?=le *=d 6?|v=o (-m) ###=m Nf?|ff=a ##?|#=i Cz?|Cx=g! 9=e N=qui vl?|c=l n?=z
+p37.L14: p?|Phi=f! ff=e h=r #1=o cc=i 9=e f=n E?=t! o=a D?|d=[uostre]! 3s=e NEW2a?|#1=nn! ff=e m=m oo=y
+p37.L15: C?|vl=il! n?=z t=m 9=e C?|vl=_! ooo=t Aq?|+f=er! #1=o #=i! 3s=e mm=n Qb=t ooo=t v=o! 3=u E?=t!
+p37.L16: ff=e J?|z=s! E?=le W?|ss=s ta?=[indes]! 9=e xx=n Qb=t 3s=e vl?|c=l ff=e NEW1a?|W=f! Aq?|+f=fr! #p=o
+p37.L17: C?|Cx=y! P=que! R=de R=de ^=u mm=x! +=o! ^=u ooo=t Hr=r W?|ss=o! oo=y W?|ss=s Nf?|ff=a
+p37.L18: mm=n #=s #b=et! 6?=p! 9=e d?|dd=u vl?|c=l Qb=t J?|7=es (-t) h=r 3s=e 6=d! ^=u Aq?|+f=r! E?|Q=a! xx=n
+p37.L19: ooo=t p=c J=es (-t) ff=e W?|v=g! ^=u 9=e Aq?|+f=rr! 3s=e C?|vl=il! xx=n ff=e mm=n J?|7=ui! 7?|sl=_ 9=e f=n
+p37.L20: 6=d! 3s?|Zb=r! #p=o cc=i +=_! E?=t! ^=u xx=n Cz?|Cx=g! #=s ff=e z?|3=u! cl?|cc=l y=s
+p37.L21: #1=o d?|dd=u vl?|c=l n?=_! xx=n C?|Cx=_! oo=y Aq?|+f=i! s?|v=ro! sl=i Qb=t #1=o d?|dd=u 3=u #=i! 9=e f=n
+p37.L22: *=d h=r #=o! +=i! ooo=t ###=m Nf?|ff=a h=r lo?|p=_ d=ch! #b=a xx?|==n E?=_! R=_! cl?|cc=_!
+p37.L23: Nf?|ff=t! =?|xx=n C?|Cx=y! mm=n #b?|Cx=a ^=u #=i! h=r 9=e A?|^=[pour]! oo=y Qb=t Aq?|+f=r! Nf?|ff=a #=i! C?|vl=c!
+p37.L24: ooo=t 3s=e h=r 2?|z=_ z?|3=qu! #b=a ==n Q?|E=t! o=a Nf?|ff=a vl?|c=l E?=le Hr=r 7?|sl=i! ^=u 3?|z=s!
+p37.L25: P=q W=ues! Nf?|ff=a W?|v=p! o=a mm=n #b?|Cx=a m=m Nf?|ff=a s=ce +?|+f=l! o=a #=s 9=e N?|v=[faict]! J?|z=s!
+p37.L26: #b?|Cx=a f=n W=s 6=d! o=a mm=n NEW1a?|W=g! 3s=e h=r p=c Nf?|ff=a Hr=r E?=le +=c 8?|8p=h!
+p37.L27: ff=e ###=m oo=y xx?|==n J=es W?|v=t! NEW1a?|W=p! 3s=e ooo=t cc=i E?=t! ae?|8=et E?=le W?|ss=s v=h!
+p37.L28: Nf?|ff=a a=_ #=bi! Qb=t o=a f=n #=s R=de vl?|c=l o=a R=de g?|9=p ff=e ooo=t #=i! E?=t! 9=e
+p37.L29: h=r 3s=e B=s (-i) y=s Qb=t #b?|Cx=a mm=n s=ce #1=o ^=u c=l! ooo=t h=r 3s=e s=ce N=qui vl?|c=l n?=z A?|^=po!
+p37.L30: Aq?|+f=urr! #1=o #=_! xx=n oo=t! ###=m ff=e mm=n 9=e Aq?|+f=r! p?|Phi=f! #1=o h=r s=ce #=s lo?|p=_ d=ch! Nf?|ff=a cl?|cc=l
+p38.L00: 3=u g?|9=p 3s=e y=s (-e) Phi=t 8?|8p=b! Nf?|ff=a W?|ss=s E?=t! ff=e mm?|mt=au! vl?|c=l x=x +=c v=h! o=a
+p38.L01: Aq?|+f=r! v=g! 9=e n?=z R=de d?|dd=u #=i! ^=u Hr=r 3s?=e W?|ss=s sl?|7=par! +=l! o=a h=r 7?|sl=_ z?|3=iu! cc=i
+p38.L02: ff=e Hr=r 9=e R=de p?|Phi=c d=h! Nf?|ff=a Cz?|Cx=g! h=r 3s?=e N=qui ^=u y?|sl=i! ff=e xx=n ooo=t
+p38.L03: +=c v=h! 9=e #p=o cl?|cc=i! Hr=r W?|v=p! Aq?|+f=r! 3s?|Zb=e #=s *=d ^=u f=n v=o! ###=m a=b!
+p38.L04: h=r ff=e R=de 14=_ 6=d! #=i! #p=o W?|ss=s 6=_! vl?|c=l #b=a P=q vl?|c=uel! E?=le mm=n o=a C?|Cx=i!
+p38.L05: #=s Qb=t #b?|Cx=a 3s?|Zb=q! d?|dd=u Nf?|ff=a ooo=t h=r ff=e cl?|cc=l #=i! 9=e ^=u 3s?|Zb=e W?|ss=s *=d
+p38.L06: ^=u s=d! y?|N=ict! 6?=p! Nf?|ff=a mm=n o=a m=m #b?|Cx=a R=de ###?|#=s! P=q vl?|c=uel! n?=z 2?|z=il! n?=z J?|z=s!
+p38.L07: 9=e W?|ss=s 3s=e Hr=r d?|dd=u cc=i h=r #1=o (-i) ff=e xx=n E?=t! mm?|mt=au! Aq?|+f=r! ff=e
+p38.L08: ooo=t s?|v=o! ^=u (-r) Aq?|+f=po! A?|^=ur o=a NEW1a?|W=pp! #p=o h=r Qb=t 9=e Aq?|+f=r! E?=le z?|3=u! Hr=r 8?|8p=b! ^?|#1=u Qb=t 7?|sl=i!
+p38.L09: xx=n ae?|8=et s=ce N=qui vl?|c=l n?=z mm?|mt=a! Aq?|+f=u! v?=r! #=oi! ff=e f=n ooo=t y=s o=a (-c) +=c Nf?|ff=a
+p38.L10: W?|v=ig! 9=e z?|3=u! s?|v=o! n?=s! N?|y=di! n?=cts! ta=[nauires] P=que! cc=i ff=e y?|N=[dictz]! n?=po! A?|^=ur Aq?|+f=r! #p=o y?|sl=i!
+p38.L11: 9=e xx=n ooo=t mm?|mt=a! sl=u! Tr=_ y=s B=s (-i) B=s (-i) 8?|8p=b! #1=o mm=n 3s?|Zb=[uous]! W?|v=s 9=e
+p38.L12: ###=m a=b! E?=le Nf?|ff=a vl?|c=l E?=le h=r o=a p=t! ooo=t ff=e f=n 6=d! Hr=r 9=e A?|^=[pour]!
+p38.L13: Qb=t s?|v=o! 3=u ooo=t cc=i ^=u #=il! vl?|c=l 3s=e E?=t! ff=e y=s 7?|sl=i! W?|ss=s E?=le
+p38.L14: W?|ss=s *=d #1=o +=m! #=i! mm=n sl=i p=c P=que! #1=o ^=u R=de (-s) #=s ff=e o=a R=de
+p38.L15: N=qui v?|y=s v?=o! mm=n Qb=t mm?|mt=a! r?=u! p?=p! o=a 3s=ss! #b?|Cx=a Cz?|Cx=ig! ff=e 6=d! #=i! lo?|p=_
+p38.L16: Cz?|Cx=_ 2?|z=_ z?|3=cy! Nf?|ff=a f=_! *=d s?|v=o! m=m cc=i f=n W?|v=g! #p=o cl?|cc=l Nf?|ff=a
+p38.L17: p?|Phi=f! vl?|c=l v=ot! Qb=t 3s?|Zb=e R=de #=s ff=e ^=u sl=i vl?|c=l E?=le N=qui W?|v=y! o=a
+p38.L18: Aq?|+f=rr! cc=i d?|dd=u 9=e Aq?|+f=r! #b=a 3s=e xx=n vl?=ce! E?=t! ff=e t=m Phi=p! y=s cl?|cc=l
+p38.L19: Nf?|ff=a mm?|mt=au! 3s?|Zb=p! cl?|cc=l d?|dd=u J?|z=s! Qb=t v?=o! W=s ooo=t ae?|8=et R=de ###=m 3s=o! ^=u
+p38.L20: h=r ff=e Aq?|+f=r! cl?|cc=l o=a P=q vl?|c=uel! P=q E?=ue! (-t) 9=e m=m 3=p! z?|3=s #b=a ^?=u ff=e +=c
+p38.L21: P=q J?|z=u! 8?|8p=e! W?|ss=s NEW2a?|#1=b! 9=onn! J?|z=es Cz?|Cx=_ ff=g! Tr=_ Nf?|ff=a h=r R=de W?|ss=s (-e)
+p38.L22: Phi=t p?|Phi=f! s?|v=o! Hr=r s=ce W=s 8?|8p=b! Nf?|ff=a Aq?|+f=r! B=que! #=s 9=e mm=n W?|v=g! ^=u 3s?|Zb=e
+p38.L23: p=c ooo=t +=c #b=a Hr=r o=il! n?=z xx=n ff=e c=f mm?|mt=au! vl?|c=l 6=d! h=r #1=o
+p38.L24: #1?=i! NEW3a?|pa=en! Qb=t g=p s?|v=o! #=i! xx=n p=c ooo=t R=de f=a! Tr=_ Nf?|ff=t! ooo=t h=r
+p38.L25: o=a 3s?|g=pp! 9=e h=r ooo=t s?|v=o! z?|3=u! W=s E?=le y=s ta=[nauires] E?=le W?|ss=s s=_! ^=u
+p38.L26: xx=n W?|v=g! #=s o=a W?|v=_! W?|v=p! Hr=r 3s=e J?|z=s! E?=le W?|ss=s mm?|mt=aul! Qb=t h=r ff=e
+p38.L27: W?|ss=s 9=e Tr=_ ae?|8=t! 3s?|Zb=e xx=n ^=u f=n Cz?|Cx=g! a=b! 9=e y=s s?|v=o! sl=i
+p38.L28: mm=n W?|v=g! cl?|cc=l Nf?|ff=a +=t! E?=t! ff=e xx=n B=d! Aq?|+f=r! ff=e mm?|mt=au! m=m 9=e
+p38.L29: W?|ss=s ###=m 3s?|Zb=e g?|9=p v=o! Hr=r ooo=t R=de #=s o=a f=n R=_! Tr=_ *=d 6=o
+p38.L30: ###=m cc=i mm=n Cz?|Cx=g! #p=o Nf?|ff=a g?|9=p h=r ff=e W?|ss=s p?|Phi=l! o=a d?|dd=u s?|v=o!
+p39.L00: #=i! h=r 8?|8p=b! h=r ^=u Nf?|ff=_! Tr=_ J?|z=s! E?=le (-e) Phi=t W?|ss=s J=es Aq?|+f=t (-r) ff=e J?|z=s! o=a
+p39.L01: #=i! W?|v=s cc=i n?=z R=de ooo=t v=o! ^=u J?|z=s! E?=le W?|ss=s a=b! Nf?|ff=a #=s Qb=t 9=e
+p39.L02: mm?|mt=a! f?|Qb=ul! x=x 6=d! ^=u g?|9=p v=or! Aq?|+f=t ooo=e! Phi=t R=de s=ce vl?|c=l g?|9=luy! *=d 3=u W?|v=p!
+p39.L03: v?=o! Hr=r ooo=t R=de g?|9=p cl?|cc=l o=a E?=tt! #b?|Cx=a N=qui 3?|J=est! mm?|mt=au! mm=n #p=o
+p39.L04: Aq?|+f=r! h?|6=d! R=de cl?|cc=l #=_! f=_! Tr=_ ##?|#=i E?=sl! ff=e Tr=_ o=a p?|Phi=f! ###=fi! xx=n R=de
+p39.L05: Hr?|E=le! ^=u Aq?|+f=r! #1=o J?|z=s! ooo=t ff=e h=r E?=le L?=moy! 9=e mm=n R=de cl?|cc=l Nf?|ff=a
+p39.L06: *=d ^=u 3s=e h=r ooo=t sl?|f=i z?|3=r! N=qui vl?=_! #=s ff=e h=r v?=o! #=i! E?=t!
+p39.L07: ^=u mm=n 9=e (-b) 8?|8p=o s?|v=n! NEW2a?|#1=n! 3s=e t=m #b?|Cx=a f=n ff=i! 3s=e Aq?|+f=r! 9=e ff=[mais]!
+p39.L08: P=que! s=ce vl?|c=l g?|sl=luy! #1=o ^=u v?=ce! ^=u vl?|c=l mm?|m=x! N=qui 9=e xx=n mm?|mt=a! Aq?|+f=u! v=ro! mm=n
+p39.L09: E?=t! +=c v=h! Nf?|ff=a Aq?|+f=r! #1=g! ff=e V?|v=_! Tr=_ d?|dd=u #p=o ^=u cl?|cc=l J?|z=u! ##?|#=ss!
+p39.L10: 9=e mm=n ooo=t o=a ^=u v=o! ##?|#=i Aq?|+f=r! 9?|g=p! Nf?|ff=a p=ti! 7?|sl=_ ff=e mm=n
+p39.L11: s=ce ae?|8=et o=a +=t! E?=t! 9=e f=n *=d h=r 3s=e x=com! ###=m ff=e c=f v=o!
+p39.L12: xx?|==n Qb=t E?=le y=s p=c v=o! h=r W?|ss=s o=a #=i! Aq?|+f=r! 9=e W=s R=de E?=le
+p39.L13: ^=u o=a xx?|==n E?=t! E?=le ^=u Hr=r #=s ff=e (-n) mm=n 9=e m=m C?=y! W?|ss=s
+p39.L14: Nf?|ff=a +d?|A=l o=a Phi=p! #1=o #=s ooo=t 3s?|Zb=e o=a ^=u Nf?|ff=e! p=c P=q W?|ss=u! 8?|8p=e! v?=s
+p39.L15: m?|mm=bon! Cz?|Cx=g! ^=u 9=e +=_! Qb=t ae?|8=et Nf?|ff=a g?|9=p h=r 9=e 3s?|Zb=s! 3s=e m=x! ff=e p=c
+p39.L16: ^=u ooo=t (-e) 9=e #=o! ^=u p?|Phi=f! o=a #=i! vl?|c=l C?|Cx=ly! 3s=e C?=c! J?|7=es (-t) ff=e 9=e mm=n
+p39.L17: ooo=t h=r x?|ae=e! g?|9=p h=r #=i! xx?|==n J?|z=se! ff=po! A?|a=ur Aq?|+f=r! s?|v=o! #=i! 9=e xx=n ooo=t
+p39.L18: E?=t! v=o! ^=u J?|z=_! #=s v=io! ^=u J?|z=rs! #b?|Cx=a vl?=l E?=le h=r cl?|cc=l o=a #p=o d?|dd=u
+p39.L19: #=ie! 9=uou! B=s Nf?|ff=a C?=y! sl?|7=i o=a y=[dict]! s?|v=o! ^=u g?|9=il! n?=z Qb=t Hr=r #1=o 3s=uu! 9=e
+p39.L20: Hr=r v=o! cc=i 3s?|Zb=e mm=n ooo=t c?|vl=f v=o! h=r s=c! J?|z=es a=b! #1=o NEW2a?|#1=nn! ff=e
+p39.L21: y=s a=b! 9=e W?|ss=s #1=o W?|v=ng! f=n 9=e W?|ss=s N=qui J?|3=es (-t) E?=t! #p=o d?|dd=u Qb=t
+p39.L22: s=ce P=que! g?|9=p ^=u (-i) #=s #=uou! B=s 3s=e f=n vous=[dire]! ff=e Tr=_ Phi=t s=ce P?=que! 9=e
+p39.L23: xx?|==n o=a 8?|8p=y! 6=p! 3s=e z?|3=u! #b?|Cx=a W?|v=pp! h=r ff=e mm=n 6?|vl=d! Aq?|+f=r! 9=e f=n C?|Cx=y!
+p39.L24: Nf?|ff=a oo?|ooo=y o=a xx?|==n ooo=t J?|7=es (-t) 3s?|Zb=e C?|Cx=q! d?|dd=u #b?|Cx=a f=n E?=t! Nf?|ff=a Hr=l!
+p39.L25: J?|z=es o=a lo?|p=t! Qb=t ff=e xx?|==n *=d Hr=r 9=e 3s=e J?|z=s! #b?|Cx=a W?|ss=s v=s z?|3=or!
+p39.L26: ff=e #=s ss=com! t=m 9=e B=[uous]! Nf?|ff=a C?|Cx=y! mm?|mt=a! ooo=ul! Aq?|+f=t 3s=r! J?|z=es p?|Phi=f!
+p39.L27: #p=o oo=y W?|v=s ff=e #=s +=c Hr=r 7?|sl=_ E?=ipt! m=m 9=e J?|z=s! x?|ae=e! ###=m
+p39.L28: a=b! E?=le P=que! W?|v=s ff=e h=r o=a g?|9=p 9=e oo=y mm=n 3s=e Phi=p! ff=e
+p39.L29: Aq?|+f=r! 6=d! ^=u 9=e lo?|p=c! #b?|Cx=a Hr=r R=de W?|v=_! W?|v=p! 3=u cc=i #=s +=c 3=est!
+p39.L30: 100=_ J=es (-t) 3s=e R=de h=r =?|xx=n #=i! ff=e Aq?|+f=r! +=l! v?|L=o! =?|xx=n Nf?|ff=a mm?|mt=aug! m=m
+p40.L00: 9=e f=n Qb=t 3s=e o=a Aq?|+f=d! v=o! ==n #b?|Cx=a vl?|c=l ^=u Nf?|ff=a Hr?=r #p=o N=qui o=a
+p40.L01: 3=u +=oi! 7?|sl=_ ooo=t 3s=q! d?|dd=u Nf?|ff=a E?=t! h=r ff=e v?=o! ^=u +=c cc=i
+p40.L02: mm=n C?|Q=q! ta=[nauires] 7?|sl=_ Tr=po! A?|^=ur Hr=le! #=s L?|lo=c! #p=o Aq?|+f=r! ooo=t 9=e *=d
+p40.L03: mt?|m=a E?=ult! Hr=r 3s=e Qb=t #b?|Cx=a xx=n ooo=t (-e) Qb=t f=n J?|7=es (-t) g?|9=p #1=o #=s s?|z=s!
+p40.L04: ae?|8=ib! E?=le R=de z?|3=s v=o! h=r ff=m! o=ais! Aq?|+f=dar! ###=m ff=e Hr=r ta=[nauires] cl?|cc=l J=es (-t) 9=e
+p40.L05: 3s=e ==n ^=u #1=o n?=z lo?|p=c! #1=o W=s Qb=t ff=e #=s N=qui z?|3=s v=oi! 7?|sl=_ 9=e
+p40.L06: ==n (-t) E?=po! A?|^=ur Phi?|6=p! 7=_ #p=o h=r ooo=t 3s=e Aq?|+f=r! R=de Aq?|+f=f! cl?|cc=fi! Nf?|ff=a ==n s=ce
+p40.L07: P=et! Hr=que! W=les! rr?=p #1=o Hr=r E?=t! d?|dd=u Cz?|Cx=g! o=a oo=i! #=s C?|Q=e! t=t!
+p40.L08: ###=m #p?|#b=a! Hr=r Nf?|ff=a mm=u! z?|3=s N=qui W=s v=o! ==n Qb=t d=h! o=a a=_ #=bi! ooo=t
+p40.L09: Nf?|ff=a ==n #=s L?|lo=par! R=de +?|+d=l! #b=a f=n ff=e mm=n o=a *=d +f?|^=ui! 7?|sl=_ z?|3=s
+p40.L10: 9=e ==n E?=t! L?|lo=par! R=de +=c #b=a x?=com! m=m (-e) R?=i! vl?|8=l n?=z p?=f! ff=e cc=i
+p40.L11: Hr=r 9=e ==n Qb=t R=de s?|z=r! f=n #=i! 3s=e Aq?|+f=r! ff=e +=m! 9=e mm=n ooo=t
+p40.L12: P=que! E?|Hr=le ae?|8=b! Nf?|ff=a z=r! v=o! ==n R=de p=c vl?|c=l 3s=e Aq?|+f=r! ff=e #=s z?|3=s
+p40.L13: #1=o h=r E?=t! ##?|#=i Qb=t N=qui c=f ff=_! 3=u ooo=t #p=o *?|x=cc! Nf?|ff=a B=s (-i) #1=o
+p40.L14: f=n P=q 6=ue! v?=do! xx=n #b=a cl?|cc=l d?|dd=u o=a Hr=r #p=o z=r! ff=e Qb=t
+p40.L15: #1=o ^=u h=r mm=n o=a 9=e f=n #b?|Cx=a Aq?|+f=rri! 7?|sl=_ 3s=e Hr=r (-e) ff=e Phi=t ###=m
+p40.L16: 9=e ==n Nf?|ff=a g?|9=p +d?|x=l d?|dd=u z?|3=s rr?=g! h?=r #b?|Cx=a ==n Cz?|Cx=t! f?|sl=n +=o! m=m
+p40.L17: ae?|8=b! Aq?|+f=r! 3s=e R=de ta=[nauires] N=qui vl?|c=l ==n #b?|Cx=a 3=u v=o! #=i! Qb=t s=a! o=c! +=c
+p40.L18: #p=o d?|dd=u z?|3=s ooo=t ^=u t=m ff=e ff?|ss=[mais]! R=de p=c J?|7=es (-t) 9=e g?|9=p Aq?|+f=r! 3s=e m=m
+p40.L19: 7?|sl=i! ff=e Hr=r 9=e Qb=t s?|z=rou! v=s 3=_! #=s 3s?|B=e mm=n ff=e Cx?=p! 3s=e (-u) d?|dd=u
+p40.L20: 9=e ==n ooo=t 6=d! v=o! ^=u a=_ E?=bt! 3s=e m=_! h=r +=c Nf?|ff=a h=r g?|9=il! c=f
+p40.L21: mt?|m=a (-u) cl?|cc=l Qb=t rr?=p ^=u ae?|8=b! +d?|x=l #=i! ff=e Aq?|+f=r! N=qui vl?|c=l n?=z 3?|z=u #1?|Qb=o
+p40.L22: f=n ooo=t W=s o=a o=c! +=c #b?|Cx=a cc=i r?=g! 9=e Aq?|+f=r! E?=le y=s vl?|c=c! ff=a!
+p40.L23: mm=n o=a h=r #=i! 3s?|B=e #=s W?|ss=com! m=m ff=e g?|9=il! n?=z p?|Phi=f! 9=e Aq?|+f=r! v=o! #=i! 9=e
+p40.L24: xx=n E?=t! Nf?|ff=a cc=i y=s 3s=e t=m 9=e f=n Qb=t ff=e ==n g?|9=p Nf?|ff=a (-s) y?|v=s
+p40.L25: #b?|Cx=a ==n E?=t! #=i! o=a oo=y 3s?|B=e 7?|sl=n! Qb=t 9=e mm=n *=d ^=u C?=pa (-r) R=de
+p40.L26: #=s rr?=p #p=o h=r ooo=t z?|3=ug! Cz?|Cx=_ Nf?|ff=a c?|C=i! W=s z?|3=s 9=e +=c Aq?|+f=r!
+p40.L27: ff=e E?|Q=tt! 3s=e m=m 9=e f=n Qb=t R?|Rl=que! lo?|p=ce! z?|2=s vl?|c=t! v=ch! #1=o y=s
+p40.L28: ff=e #b?|Cx=[asseuree]! y?|3s=[quil]! 3s?|B=y! d?|Q=a! d?=[grandes]! ff=e W=t! 3s=[infinyes]! #=[richesses]! mt?|m=a (-u) cl?|cc=l v=o!
+p40.L29: mm=n Cz?|Cx=g! R=de vl?|c=l o=a h?=r 7?|sl=i! 3=u oo=i! 9=e Aq?|+f=r! ff=e R=de y?|v=s
+p40.L30: Nf?|ff=a ###=m o=a n?=z #p=o Qb=n! 3s=e W=s mm?|mt=aul! ooo=t Hr=r 9=e m=m
+p41.L00: ff=e xx=n ooo=t (-d) y?|v=itt! 3s=e #1=o s?|z=r! 9=e x?|ae=ll! o=a f=n #b?|Cx=a lo?|p=_ V?|7=[cest]! +d?|x=l Nf?|ff=a
+p41.L01: g?|9=p c=l! ^=u #=s rr?=g! Aq?|+f=r! Nf?|ff=a mm=n R=de Hr=r cc=i ^=u C?=i! 3=e! s?|z=r!
+p41.L02: 9=e 6=d! #1=o ==n Qb=t +d?|x=l 6=o f=n #b=a 7?|sl=_ C?|Cz=y! ooo=t W?|ss=c! Cz?|Cx=ong! f=n v=ois! 7?|sl=_
+p41.L03: z?|3=s Nf?|ff=a ==n s=ce (-e) Phi=t 9=p! h=r 3s=e ==n 6=d! 3=s! Nf?|ff=a mm=n o=a Hr?=is! #=s
+p41.L04: #b?|Cx=a f=n s=ce mt?|m=a (-u) N=qui ooo=tto! *=d ^=u R=p! vl?|c=e! s=rou! 4b?|4=et +=c v=o! z?|3=ur! Aq?|+f=t Qb=q! To?=_
+p41.L05: d?|dd=u o=a B=s (-i) ###=m cc=i vl?|c=l E?|Hr=le cl?|cc=l #=i! ff=e z?|3=u! 3s=e W=s #=s #p=o
+p41.L06: ^=u a=b! n?=z E?=le N=qui ==n #1?|Qb=o +=c 7?|sl=ti! Nf?|ff=a +d?|x=l 9=e vl?|c=l E?|Hr=le J=es (-t) R=de *=d
+p41.L07: cc=i p?|Phi=f! #=fi! p=c 7?|sl=i! vl?|c=l Hr=l! 3s=e Qb=[entree]! ff=po! A?|^=ur ta=[nauires] h=r 8?|8p=o
+p41.L08: mm=n 6=d! n?=z (-e) Phi=t f=n 3s=e #=s 9=e g?|9=p ff=e ^=u vl?|c=l ooo=t pour=[faire]! p?=c J=es (-t)
+p41.L09: 3s=e x?=con! P=q z?|3=u! E?=est! 9=e P=q vl?|c=_! d?|dd=u ff=e +=[auecques]! R=de W=s c=f 3=u
+p41.L10: #=s E?=t! 3s=e z?|3=s 4b?|4=et ae?|8=b! s?|z=r! cc=i rr?=g! #b?|Cx=a ==n Qb=t 7?|sl=i! ==n W=s
+p41.L11: R=de Aq?|+f=re! t=m ff=e 3=e! mm=n rr?=p 9=e ^=u g?|9=p +=l! Nf?|ff=a f=n ooo=t Phi?|6=p! h=r
+p41.L12: ff=e ###=m #=i! 3s=e Aq?|+f=r! 9=e m=m ff=e ==n Q?|E=t! P=q vl?|c=uel! P=q W=ues! 3s=e f=n
+p41.L13: 6=d! Hr=r v=o! #=i! p?|k=c ooo=t n?=z 9=p! Aq?|+f=r! ff=e y=s R=de +d?|x=l 7?|sl=_ 3s?=a! o=a
+p41.L14: cl?|cc=l #b?|Cx=a m=m 3s=e #=s ###=m 9=e +=c v=o! y=s ooo=t 3s=e E?=le W=s g?|9=p
+p41.L15: 6=o Aq?|+f=r! ooo=t ^=u Cz?|Cx=g! o=a Cx?|Cz=i! W=s vl?|c=l #b?|#p=a t=m Nf?|ff=a cc=i mm=n Qb=t
+p41.L16: 7?|sl=_ ff=ien! ==n 3s=e f=n ooo=t R=de E?=le ^=u Aq?|+f=r! Hr=r ff=e L?|lo=p! E?|Hr=a!
+p41.L17: #=rti! p=c cc=i #p=o ==n ff=[mais]! 9=e vl?|c=l E?=le V?|7=est! R=de y?|v=s +=c Nf?|ff=a W=s
+p41.L18: E?|Q=ti! 7?|sl=_ vl?|c=l (-h) 3s=e f=n z=s #=i! 9=e E?=le ^=u Hr?=r ff=e mm=n +d?|x=l o=a
+p41.L19: ##?|#=i (-s) #=s 3s=e E?=le R=de a=b! o=a Qb=t W?|ss=com! t=m ff=e 3s=e ==n lo?|p=c! #1=o z=r!
+p41.L20: 9=e W=s R=de ###=m o=a vl?|c=l 3=u 3s=q! d?|dd=u #p=o r?|z=o! ^=u (-i) vl?|c=l n?=z 6=d! cc=i
+p41.L21: y=s ff=e f=n ooo=t P=que! E?=le W=s y?|v=d! n?=its! +=c Nf?|ff=a #=s E?=t! 3s=il! cl?|cc=l
+p41.L22: #b?|Cx=a ==n z?|3=s Aq?|+f=r! ff=e Qb=t #1=o z?|3=u! Aq?|+f=r! ==n 9=e f=n ooo=t p?|P=c z?|2=est! 3s=e o=a mm=n
+p41.L23: 9=nee! 4?=a! ^=u ff=e +=c p=c cc=i ==n Cz?|Cx=q! ta=[nauires] N=qui vl?|c=l n?=z v=o! f=n (-t) E?=fa! V=ict!
+p41.L24: n?=z 3s=e mm=n +d?|x=l o=a ###=m 9=e h=r *=d (-e) #=s d?|dd=u Aq?|+f=r! #=l! v=o! ==n Nf?|ff=a
+p41.L25: #=i! o=a ff=e f=n ^=u #p=o Cx?|Cz=y! 9=e 3=u ==n 3s=e L?|lo=par! Qb=t oo=y 9=e R=de
+p41.L26: y=s W=s v?=o! +d?|x=l *=d o=a ooo=t n?=z P=que! B=[uous]! #b?|Cx=a oo=y 3s=e z?|3=s p=c s?|z=r! 7?|sl=_
+p41.L27: E?=ipt! P=q cl?|cc=ue! v=lo! ==n E?=le d?|dd=u v=o! cc=i Qb=t 9=e xx=n Nf?|ff=a f=n 6=d!
+p41.L28: #b?|Cx=a (-l) #p=o d?|dd=u n?=z #=y! ff=e o=a cl?|cc=l #b?|Cx=a Cz?|Cx=_ #1=gou! cl?|cc=l E?|Hr=le Qb=t
+p41.L29: 3=te! C?|Q=et! 9=e mm=n #=s ff=e +=c #=i! vl?|c=l E?=le L?|lo=par! R=de y?|v=s
+p42.L00: ta=[nauires]
+p42.L01: d?|Q=[marchans]! N=qui vl?|c=l n?=z Nf?|ff=a ^=u v=o! #=y! ff=e mm=n ooo=t o=a t=m #b?|Cx=a E?=le
+p42.L02: rr?=gu! Nf?|ff=a (-e) Phi=t +=c o=a Aq?|+f=r! ooo=t #b?|Cx=a Cz?|Cx=g! 3s=e mm=n Nf?|ff=a +d?|x=l o=a cl?|cc=l
+p42.L03: #b?|Cx=a Hr=r ###=m 9=e J=es (-t) a=b! cc=i ff=e f=n Cz?|Cx=g! h=r #1=o (-s) W=s
+p42.L04: 3s?|Qb=e Nf?|ff=a vl?|c=l o=a (-d) y=itt! 9=e rr?=g! v?|d=o! +d?|x=l cc=l! E?=ett! ff=e p=c Nf?|ff=a
+p42.L05: h=r *=d Aq?|+f=r! o=a Cz?|Cx=g! ^=u ooo=t y=s 3s=e ==n 3=u #b?|Cx=a Hr=r
+p42.L06: #p=o oo=y R=de Qb=t v=h! d?|dd=u ==n 7?|sl=y! y?|v=s #b?|Cx=a s=ce N=qui 6=lz! #=di! y=s
+p42.L07: 3s=e mm=n ooo=t B=s (-i) vl?|c=l n?=z ==n z?|x=y! h=r ff=e m=m 3=e! *=d
+p42.L08: E?|Hr=y! 9=e f?|sl=n E?=t! vl?|c=ilz! #1=o ==n Qb=t ff=e f=n sl?|t=u! r?|z=o! oo=y t?|+=e! R=de
+p42.L09: #=s 9=e d?|dd=u s=i! vl?|c=l E?=le p?|Phi=f! v=o! Aq?|+f=r! s=ce t=m ^=u vl?|c=l E?|Hr=le ooo=t
+p42.L10: n?=z lo?|p=_ d?|v=ch! Nf?|ff=a Hr=r rr?=g! 9=e n?=z R=de h=r ff=e o=a c=l! E?|Hr=le
+p42.L11: y=s #b?|Cx=a ^=u Nf?|ff=a +d?|x=l o=lad! 6?|th=o v=_! cl?|cc=l #=i! +=e! 4b?|4=et ae?|8=b! Nf?|ff=a
+p42.L12: Aq?|+f=r! y=s 3s=e vl?|c=l #1=o mm=nne! 9=po! A?|^=ur ff=e x?|ae=_! v=n! Tr=_ ^=u #p=o Cx?|Cz=y! z?|3=e!
+p42.L13: Hr=r v=hor! v=s h=de! W=s 6=pa! ma=ign! 3s=e z=qu! Nf?|ff=a mm=n Qb=t o=a s=ce vl?|c=l
+p42.L14: NEW1b=luy! P=que! #1=o f=n g?|9=p #p=o Aq?|+f=r! ooo=t 9=e #b?|Cx=a a=b! o=a Hr=r #=s ff=e
+p42.L15: cl?|cc=l W?=o! ==n 3?|z=ne! g?|9=il! Nf?|ff=a Aq?|Phi=p! C?=pa E?=rt! ##?|#=i 9=e ==n Qb=t mm?|mt=a!
+p42.L16: cl?|cc=u! x?|Aq=x Cz?|Cx=g! ff=e f=n z?=e! d?|dd=u v=o! oo=y y?|v=s N=qui p?|Phi=f! ff=e cc=i Aq?|+f=r!
+p42.L17: ff=e ==n (-t) E?=le E?=p! L?|lo=art! oo=y Cx?|Cz=ce! lo?|p=_ z?|2=s 9=t! Tr=_ J?|7=es (-t) 3s?|B=e g?|9=p o=a (-s)
+p42.L18: W=s 9=e E?=le y=s P=q vl?|c=uel! n?=z ff=e ^=u Aq?|+f=re! f=n Q?|E=t! +d?|x=l 7?|sl=i! s=ce xx=n
+p42.L19: s=ce R=de Qb=t #=i! z=r! 3s=e Aq?|+f=r! sl?|g=par! E?=le 3=u Hr=r y=[dict]! L?|lo=par! ooo=t oo=y ^=u
+p42.L20: ==n rr?=g! ###=m (-i) +d?|x=l 7?|sl=li! #p=o ==n ae?|8=et R=de t=m oo=y *=d y=_! vl?|c=o! r?=r! C?|Q=q!
+p42.L21: d?|dd=u #b?|Cx=a mm=n Q?|E=t! o=a vl?|c=l mt?|m=a J?|7=u! z=ltr! ff=e +d?|x=l v=o! f=n
+p42.L22: z=e! ==n #b?|Cx=a V=[faict]! Nf?|ff=a p=c NEW2b=_! Tr=_ d=h! 9=e mm?|m=mi! 7?|sl=_ f=n ff=e h=r
+p42.L23: o=a cl?|cc=l Nf?|ff=a Aq?|+f=r! 3s=e 6=d! #p=de! P=q vl?|c=uel! P=q #=ue! t=[somme]! ff=e Phi?|oo=t B=s (-i) y?|v=s z=est!
+p42.L24: V=[faict]! ^=u mm=n r?|R=g! +=c v=h! o=a ==n Cz?|Cx=g! 3s?|B=e R=de z?|3=s 7?|sl=i! #b?|Cx=a f=n s?|z=u!
+p42.L25: cc=i 9=e Hr=r Phi?|6=pas! #=s ff=e o=a ^=u ==n rr?=g! mt?|m=a J?|7=ul! Aq?|+f=t (-r) ff=e Cz?|Cx=_
+p42.L26: z=ge! mm=n 9=e 3=u +=o! oo=y W=s R=de B=s m=ix! s=ce xx=n z?|3=s ###=m (-i)
+p42.L27: vl?|c=l E?=e! ff=s! p=c ^=u n?=s! P=q +d?|x=ue! v=lo! ==n 8?|8p=luy! ae?|8=b! Nf?|ff=a 7?|sl=i! +d?|x=l
+p42.L28: E?=le L?|lo=par! R=de +=c o=a A?|^=[pour]! cl?|cc=l #=i! 3=u h?|3s=r Aq?|+f=er! 3=e! mm=n c?=f vl?|c=l
+p42.L29: #b?|Cx=a f=n *=d Hr=r 9=e #=s A?|^=p! J?|7=our! v=to! ^=u ooo=t t=m Nf?|ff=a 6=r! y=s
+p42.L30: lo?|p=_ r?=i (-l) (-y) rr?=g! #b?|Cx=a cc=i (-g) f=n ff=e 6=di! 7?|sl=_ x=x d=h! 3=u #=i! +=c (-t) z?|2=po!
+p43.L00: A?|^=ur s=ce ==n E?=t! p=[cest]! sl?|7=po! A?|^=ur z=e! d?|dd=u cc=i ooo=t h=ter! E?|Hr=le W=s
+p43.L01: R=de #=s 9=p! z=e! ==n s=ce y=s 4b?|4=et v=h! #b=a n?=z o=a Aq?|+f=r! *=d n?=z R=de cl?|cc=l Nf?|ff=a
+p43.L02: t=m 9=e Hr=r ae?|C=et C?|Q=c! Aq?|+f=r! #p=o oo=y 7?|sl=bi! ff=e ==n N=qui +d?|x=l f=n 3s?|B=e
+p43.L03: E?|Hr=le ^=u z=r! R=de ###=m 9=e z?|3=u! Aq?|+f=r! ff=e rr?=g! ^=u #=i! 3s?|B=e Hr=r 9=e (-s) ##?|#=d!
+p43.L04: 6=arg! pa=ent m=m #=ai! ==n Qb=t ff=e mm=n o=a f=n ooo=t 3s=e y?|v=s ###=m Nf?|ff=a cc?|E=i
+p43.L05: ==n W=s R=de #=s R=de d?|dd=u m=x! ###=m 7?|sl=i! vl?|c=l v=lio! f=n y=s ae?|C=et ooo=t
+p43.L06: h=r #1=o oo=y W=s s=ce ==n #=s ###=m cc=i vl?|c=l E?=_! ff=e y?|v=s +=c ^=u n?=s! d?|dd=u
+p43.L07: 3s?|B=e f=n 3=u (-z) R=de Hr=r f=n 7?|sl=i! 9=e h=r ff=e +=m! z?|2=e! ==n E?=t! *=d z=u!
+p43.L08: R=p! vl?|c=e! s=rou! +=c Nf?|ff=a Aq?|+f=r! g?|9=il! n?=z #1=o ==n Qb=t rr?=p #b?|Cx=a r?=y! 9=e d=h! ^=u
+p43.L09: Hr?=i! p=c ooo=t s=ce mm=n #=s m=m cc=i vl?|c=l E?=_! ff=e y=s +=c d?|dd=u
+p43.L10: n?=z N=qui vl?|c=l n?=s! R=de (-b) 3=u v=o! #=i! 3s=e ==n E?=t! Nf?|ff=a ###=m 9=e v=di!
+p43.L11: 7?|sl=_ f=n #b?|Cx=a ^=u h=r o=a Cx?|C=y! J?|sl=es (-t) P=que! s=ce cl?|cc=l Nf?|ff=a E?=le ^=u Aq?|+f=r! J?|7=es (-t)
+p43.L12: 3=u ==n Cz?|Cx=g! L?|lo=moy! ff=e mm=n R=de Qb=t Hr=r #1=o (-u) d?|dd=u 9=e h?|6=r
+p43.L13: f=n #1=o ^=u 3=u (-e) mt?|m=a +=u! Aq?|+f=[credict]! ff=e y=_! Phi?|oo=t po~=[faire]! E?|Hr=le 3=u Hr=r
+p43.L14: 3s?|z=s! Nf?|ff=a c=f pour=fai! W=res! g?|9=il! n?=z #1=o xx=n ooo=t z=e! xx=n +=c v=o!
+p43.L15: h=r 9=e #=s #b?|Cx=a E?=t! Aq?|+f=t ff=r! o=a (-p) rr?=p ff=e R=de z=p! ^=u oo=i!
+p43.L16: y=s s=ce +d?|x=l Nf?|ff=a R=de ^=u m=x! s=ce f=n W=s m=m Hr?=i! +d?|x=l E?=_! 3s=e #=s
+p43.L17: p?|#p=c ^=u n?=z N=qui mm=n #b?|Cx=a ^=u v=o! #=i! ff=e ==n Qb=t C?=e! 3=ste! h=r
+p43.L18: 9=e Cz?|Cx=_ sl?=gis! lo?|p=_ ooo=t Aq?|+f=r! ff=e n?=z 4b?|4=et y?|v=s v=o! mm=n E?=t! o=a Cx?=p!
+p43.L19: Hr=r J?|7=e! W=s s=ce cl?|cc=l g?|9=luy! N=qui +=s! J?|7=es (-t) R=de W=s 9=e ###=m a=b!
+p43.L20: Nf?|ff=a Aq?|+f=r! P=que! 3s?|B=e (-s) #b?|Cx=a #p=sso! Hr=r 9=e z?|3=s ff=[mais]! f?|sl=ie! z?|3=s (-t) cc=i t=m
+p43.L21: ff=e N=qui vl?|c=l n?=z ==n r?=e! rr?=p h=r #1=o Aq?|+d=uff! ##?|#=i L?|lo=_! Qb=t 3s?|B=_! Aq?|+f=t
+p43.L22: v=_! f=_! ooo=e! Hr=r #=_! 3s?|B=o! mm=n y?|v=t! +=c Nf?|ff=a Aq?|+f=r! g?|9=il! n?=z #p=o
+p43.L23: ==n E?=t! 9=e ^=u Qb=t h=r v=o! rr?=p R=de +d?|x=l #p=o oo=i! B=s Aq?|+f=ir! 9?|g=il!
+p43.L24: n?=z #1=o ==n Qb=t ff=e L?|lo=u! P=q vl?|c=uel! P=que! o=a (-l) cl?|cc=l Nf?|ff=a Hr=r ###=m 9=e *=d
+p43.L25: 3=u h=r v=o! x?|ae=y! R=de E?|Hr=[nauarre]! ff=m! s=ais! s=ce vl?|c=l Nf?|ff=a y=s ff=e Cx?=p!
+p43.L26: #b?|Cx=a y=s z=s (-e) ae?|C=et 9=e mm=n o=a ^=u #1=o cc=i ff=e ==n Qb=t
+p43.L27: rr?=g! Hr=r Nf?|ff=a ==n R=de +=c h=r 7?|n=_ #b?|Cx=a 7?|sl=i! ==n p=c ooo=t 3s?|B=e
+p43.L28: P=po! A?|^=ur J?|7=es Aq?|+f=t 12=_ 9=r! mm?|M=e! o=a y=s Cx?|Q=s! ff=e n?=z P=_! R=de #=s
+p43.L29: R=_! f=n d?|dd=u B=_! 3s?|B=e n?=z B=_! *=d 40=_! d=h! 13=_ #p=o L?|lo=_! t?|E=m
+p43.L30: 14=_ Nf?=m! ff=e W=_! 100=_ B=s 30=_ O?=_! S?|s=_! 12=_ 7=_ H?|ff=_! A?|^=_! R=_! A?|^=_!
