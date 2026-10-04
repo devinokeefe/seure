@@ -45,59 +45,47 @@ Background, not evidence for the reading:
 - Seure's wish to leave Portugal and his want of money agree with his clear letters of January and February 1559,
   printed by Falgairolle (1895). He was replaced by Jean Nicot in 1559.
 
-## Status
+## How far to trust it
 
-**This is a partial reading, not a solution.**
+This is a partial reading.
 
-- Lines 11-19 are read nearly in full.
-- Lines 4-10 are read in part (line 10 has a gap of 12 signs).
-- Lines 1-3 and line 20 are mostly unread or weak.
+- Lines 11-19 are read nearly in full. Lines 4-10 are read in part (line 10 has a gap of 12 signs). Lines 1-3 and
+  line 20 are mostly unread or weak.
 - 100 words are read, each with a grade: 45 high, 39 medium, 16 low. 36 signs in four places are left unread.
-  If the grades mean what they are intended to mean (high about 0.85, medium about 0.6, low about 0.3), about 66
-  of the 100 words are right; probably fewer, for the reasons given below.
-- There is nothing to verify the reading against. It will stand or fall with an independent re-reading of the
+- The grades are judgment. They combine the decoder's class for the word (table below), the sign-by-sign key
+  evidence and the comparison of competing readings, and they were not calibrated separately. They are meant to
+  correspond roughly to a chance of being right of 0.85 (high), 0.6 (medium) and 0.3 (low). On that footing about
+  66 of the 100 words are right, and probably fewer for the reasons below.
+- There is nothing to check the reading against. It will stand or fall with an independent re-reading of the
   signs, with further known plaintext, or with the discovery of a decipherment.
+
+The class of a word comes from a test on text whose plaintext is known and was withheld: three copies of a
+1,057-sign postscript, decoded blind ([METHOD.md](METHOD.md), section 4). Each decoded word falls into a class by
+its support (S1 best, S3 worst) and by whether the decoder gives it at all three language-model weights (stable):
+
+| class | right / words in the test | precision |
+|---|---|---|
+| S1 stable | 51 / 59 | 0.86 |
+| S2 stable | 21 / 32 | 0.66 |
+| S3 stable | 37 / 64 | 0.58 |
+| S1 unstable | 17 / 28 | 0.61 |
+| S2 unstable | 3 / 12 | 0.25 |
+| S3 unstable | 19 / 76 | 0.25 |
+
+For letter 39 these precisions are an upper bound:
+
+- Letter 39 has its own transcription noise: two transcriptions agreed on 84-89% of its signs (section 1).
+- One of its signs, `Rr`, has no key value.
+- Its subject is less well covered by the language model than the test text, which comes from the same letter as
+  part of the model's training text.
+
+The letter is in the same cipher as the others. Under the letter-40 key its decoder score stands as far above
+shuffled and permuted controls as that of letter 44, which is known to be in this cipher (z = 14.8 and 11.9; table
+in [METHOD.md](METHOD.md), section 5).
 
 Not used as evidence: Seure's clear letters of January and February 1559, printed by Falgairolle, played no part
 in the decoding, in the language model or in the tests. Their wording ("ny puis gueres demeurer") resembles lines
 14-16 here. That is consistent with the reading and does not prove it.
-
-## Is it the same cipher?
-
-Yes, as far as a statistical test can say. With the key from letter 40 alone, the decoder score of the first 350
-signs in their real order was compared with the same signs in shuffled order and with the key's values permuted
-among the signs (`python code/keyfit_control.py`; details in [METHOD.md](METHOD.md)):
-
-| text | real | shuffled order (6 runs) | permuted key (6 runs) |
-|---|---|---|---|
-| letter 44 (known to be in this cipher) | -1174.5 | -1220.1 ± 5.3 (z = 8.6) | -1469.3 ± 26.2 (z = 11.3) |
-| letter 39 | -1124.3 | -1212.2 ± 6.0 (z = 14.8) | -1488.4 ± 30.5 (z = 11.9) |
-
-## How much can be expected: the held-out test
-
-The same decoder was run blind on a text whose plaintext is known and was withheld (block C of the letter of
-12 December, three copies, 1,057 signs; [METHOD.md](METHOD.md)). Character accuracy: 0.508, 0.553, 0.705 (mean
-0.589). Each decoded word falls into a class by its support (S1 best, S3 worst) and by whether the decoder gives
-it at all three language-model weights (stable):
-
-| class | right / words on held-out block C | precision |
-|---|---|---|
-| S1 stable | 51 / 59 | **0.86** |
-| S2 stable | 21 / 32 | **0.66** |
-| S3 stable | 37 / 64 | **0.58** |
-| S1 unstable | 17 / 28 | 0.61 |
-| S2 unstable | 3 / 12 | 0.25 |
-| S3 unstable | 19 / 76 | **0.25** |
-
-Why these numbers are an **upper bound** for letter 39:
-
-- Letter 39 has its own transcription noise: two readers agreed on 84-89% of its signs (section 1).
-- `Rr`, a sign that occurs in letter 39, has no key value.
-- The subject of letter 39 is less well covered by the language model than block C, which comes from the same
-  letter as part of the model's training text.
-- The grades H / M / L in section 3 are **the editor's judgment**. They combine the class of the word, the
-  sign-by-sign key evidence and the comparison of competing readings, and they were not calibrated separately. They
-  are meant to correspond roughly to H ≈ S1 stable (about 0.85), M ≈ 0.55-0.65, L ≈ 0.3 or below.
 
 ## 1. Transcription
 
@@ -221,7 +209,7 @@ Each entry gives:
 
 - the **span**: line.sign to line.sign, signs counted from 0 within the line;
 - the **signs**, then the **reading**;
-- the **grade** (H, M, L, or between two): the editor's judgment, as explained above;
+- the **grade** (H, M, L, or between two): judgment, as explained above;
 - the **decoder**: what the machine decode at weight 0.4 has there, its class and the held-out precision of that
   class;
 - the **basis**: key values, and scores of competing readings where they were compared. Scores are
@@ -422,7 +410,7 @@ The same list in machine-readable form: [data/fr3151/letter39_reading.tsv](../da
 
 Because the grades are judgment, the number of correct words cannot be read off this tally. Under the intended
 meaning of the grades (H about 0.85, M about 0.6, L about 0.3) it would be 66.5 of 100, and probably fewer for the
-reasons given under "How much can be expected".
+reasons given under "How far to trust it".
 
 ## 4. Alternatives and open points
 
@@ -470,4 +458,3 @@ reasons given under "How much can be expected".
 - Reading: data/fr3151/letter39_reading.tsv. Competing readings: data/fr3151/letter39_tests.tsv.
 - Outputs: results/letter39_decode.txt, results/letter39_decode_n5orig.txt, results/letter39_tests.txt,
   results/letter39_readers.txt, results/keyfit_control.txt.
-- Earlier states of the reading: [CHANGELOG.md](CHANGELOG.md).

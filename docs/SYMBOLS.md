@@ -1,40 +1,39 @@
 # Sign labels
 
-The cipher signs are drawn shapes and numerals. In the transcriptions each sign is written as a short ASCII label.
-This file lists the labels, describes the shapes, and gives the value of each sign from the key
-([KEY.md](KEY.md)).
+The cipher signs are drawn shapes and numerals. The transcriptions write each sign as a short ASCII label. This
+page lists the labels, describes the shapes, and gives each sign's value from the key ([KEY.md](KEY.md)).
 
 ## Conventions
 
-- A label names a **shape class**, not a meaning. Labels were chosen by look (`ff` looks like an ff ligature, `#`
-  like a sharp sign, `3s` like a 3 with a stroke) and have nothing to do with the plaintext value.
+- A label names a shape, not a meaning. Labels were chosen by look (`ff` looks like an ff ligature, `#` like a
+  sharp sign, `3s` like a 3 with a stroke) and say nothing about the plaintext value.
 - Labels are case-sensitive (`s`, `S`; `c`, `C`; `oo`, `ooo`).
-- When in doubt the transcription splits rather than merges: a doubtful variant gets its own label, and the key
-  then shows whether two labels share a value.
-- Numerals in the cipher are written as numerals (`4`, `7`, `12`, `13`, `14`, `23`, `30`, `40`, `100`); most of
-  them are nulls. Careful: `1`, `2`, `3`, `6`, `8`, `9` are labels for sign shapes that resemble those digits, not
-  numerals.
-- Labels that begin with `N_` are provisional names for shapes seen once or twice.
-- Notation in the transcription files:
-  - one text line per manuscript line; labels separated by spaces; `%` starts a comment; a comment `Lnn` gives the
-    line number within the cipher block;
-  - in the files of fr. 3151, `oo?`, `8?`, `cc?`, `c?`, `p?`, `t?` are labels in their own right. They mark
-    occurrences on pages that were read before the classes `oo`/`ooo`, `8`/`8p`, `cc`/`cl`, `p`/`po`, `t`/`ts`
-    were split and were not looked at again. A lone `?` is an unreadable sign;
-  - in the second reader's file for letter 39 and in the NAF 6638 files, `label?` means "uncertain" and `a?|b`
-    means "best guess a, close alternative b". The scripts use the first alternative.
+- When in doubt the transcription splits: a doubtful variant gets its own label, and the key then shows whether
+  two labels share a value.
+- Numerals in the cipher are written as numerals (`4`, `7`, `12`, `13`, `14`, `23`, `30`, `40`, `100`); most are
+  nulls. But `1`, `2`, `3`, `6`, `8`, `9` are labels for sign shapes that resemble those digits, not numerals.
+- Labels beginning with `N_` are provisional names for shapes seen once or twice.
 
-## How to see what a label looks like
+In the transcription files:
 
-No sign chart is included in this release (an automatically cut chart exists in the working material, but too many
-of its crops show a neighbouring sign). The practical way is to put a manuscript line next to its transcription:
-open the Gallica view named in the header of each transcription file (letter 39 is view 72, right-hand page);
+- One text line per manuscript line. Labels are separated by spaces, `%` starts a comment, and a comment `Lnn`
+  gives the line number within the cipher block.
+- In the files of fr. 3151, `oo?`, `8?`, `cc?`, `c?`, `p?`, `t?` are labels in their own right. They mark
+  occurrences on pages that were read before the classes `oo`/`ooo`, `8`/`8p`, `cc`/`cl`, `p`/`po`, `t`/`ts` were
+  split and were not looked at again. A lone `?` is an unreadable sign.
+- In the second transcription of letter 39 and in the NAF 6638 files, `label?` means "uncertain" and `a?|b` means
+  "best guess a, close alternative b". The scripts use the first alternative.
+
+## Seeing what a label looks like
+
+There is no sign chart. Put a manuscript line next to its transcription: open the Gallica view named in the header
+of each transcription file (letter 39 is view 72, right-hand page), and
 [data/fr3151/cipher/39_f71r.txt](../data/fr3151/cipher/39_f71r.txt) gives the labels of each line in order. The
-descriptions in the table below are a further help, not a substitute.
+descriptions in the table below help but do not replace the image.
 
 ## Labels that are easily confused
 
-These are the main source of transcription error, and therefore of decoding error:
+These are the main source of transcription error, and so of decoding error:
 
 - `+` (plain cross), `+f` (cross with a loop), `+d` (cross with drooping arms), `Aq` (cross with a looped top);
 - `=` and `xx` (both are n);
@@ -46,8 +45,8 @@ These are the main source of transcription error, and therefore of decoding erro
 - `Qb`, `Ve`, `2`.
 
 Two independent transcriptions of letter 39 agree exactly on 341 of 405 signs (0.842), and on 359 (0.886) if the
-alternatives marked by the second reader are counted ([LETTER39.md](LETTER39.md)). Many disagreements do not change
-the value (`=`/`xx`, `1`/`9`, `cl`/`vl`).
+alternatives marked in the second are counted ([LETTER39.md](LETTER39.md)). Many disagreements do not change the
+value (`=`/`xx`, `1`/`9`, `cl`/`vl`).
 
 ## Table
 
@@ -82,8 +81,8 @@ in a transcription file and look at that place in the manuscript.
 | `W` | wavy "w" (ᔓ) | s (126/151) | 22 | 32 | 38 | 59 | 8 |
 | `Nf` | tall ʎ/π-like sign with flourish | a (133/149) | 16 | 31 | 32 | 70 | 6 |
 | `z` | z / ʐ, often with a loop at the top | s (96/141) | 11 | 22 | 28 | 80 | 10 |
-| `sl` | long ſ / r-like stroke | i (108/144) | 14 | 36 | 39 | 55 | 6 |
 | `xx` | heavy wavy double/triple bar (≡) | n (130/148) | 29 | 37 | 26 | 56 | 2 |
+| `sl` | long ſ / r-like stroke | i (108/144) | 14 | 36 | 39 | 55 | 6 |
 | `ooo` | three joined loops | t (124/140) | 17 | 34 | 31 | 58 | 5 |
 | `Qb` | cross with looped top and long descender (ꝗ-like) | t (121/139) | 6 | 32 | 38 | 63 | 6 |
 | `s` | small s | ce (69/139) | 21 | 37 | 23 | 58 | 5 |
@@ -98,14 +97,14 @@ in a transcription file and look at that place in the manuscript.
 | `oo` | two joined loops ∞ | y (57/105) | 13 | 17 | 21 | 54 | 6 |
 | `Cx` | C enclosing a small x/r | g (28/86) | 6 | 19 | 16 | 45 | 7 |
 | `vl` | small loop with a tail to the right (ɑ~) | l (63/89) | 12 | 19 | 18 | 40 | 4 |
-| `n` | small n | z (68/86) | 16 | 16 | 15 | 39 | 2 |
 | `+d` | cross with drooping arms (ψ-like) | l (70/81) | 5 | 16 | 19 | 41 | 7 |
+| `n` | small n | z (68/86) | 16 | 16 | 15 | 39 | 2 |
 | `c` | small c / ϵ | f (33/86) | 8 | 21 | 22 | 35 | 1 |
 | `P` | capital P with loop | q (33/83) | 6 | 21 | 19 | 37 | 3 |
 | `###` | long bar crossed by 3-4 short verticals | m (67/78) | 5 | 20 | 18 | 35 | 4 |
 | `N` | capital N | qui (64/74) | 10 | 15 | 18 | 31 | 4 |
-| `J` | T/J with top bar | es (51/71) | 11 | 16 | 14 | 30 | 4 |
 | `h` | cursive h with loop (ɧ) | r (53/71) | 17 | 15 | 18 | 21 | 4 |
+| `J` | T/J with top bar | es (51/71) | 11 | 16 | 14 | 30 | 4 |
 | `cl` | pair of small looped e-like signs with a tail (split from cc) | l (58/68) | 4 | 13 | 18 | 33 | 4 |
 | `##` | long bar crossed by 2 verticals | i (44/69) | 10 | 15 | 18 | 26 | 3 |
 | `B` | ß / β | s (33/68) | 9 | 15 | 13 | 31 | 2 |
@@ -125,8 +124,8 @@ in a transcription file and look at that place in the manuscript.
 | `mt` | m with rising tail | a (31/34) | 1 | 11 | 5 | 17 | 2 |
 | `g` | g with top bar | p (27/35) | 5 | 7 | 4 | 19 | 1 |
 | `Zb` | Ƶ with crossbar and loop | et (11/32) | 5 | 5 | 7 | 15 | 2 |
-| `ae` | &-like double loop with tail | et (5/31) | 7 | 4 | 8 | 12 | 0 |
 | `S` | S/ß with top loop | r (20/30) | 1 | 3 | 10 | 16 | 1 |
+| `ae` | &-like double loop with tail | et (5/31) | 7 | 4 | 8 | 12 | 0 |
 | `M` | looped cursive m | _ (28/28) | 5 | 7 | 7 | 9 | 1 |
 | `II` | two uprights with bar (Π) | i (8/27) | 4 | 9 | 5 | 9 | 1 |
 | `po` | small loop on a stem (split from p) | il (9/28) | 3 | 3 | 1 | 21 | 0 |
@@ -141,85 +140,85 @@ in a transcription file and look at that place in the manuscript.
 | `a` | small a-like sign | _ (12/19) | 4 | 6 | 4 | 5 | 1 |
 | `?` | unreadable sign | _ (13/19) | 2 | 5 | 5 | 7 | 0 |
 | `23` | numeral 23 | _ (16/18) | 4 | 2 | 8 | 4 | 0 |
-| `Rl` | small upright R, closed on the right | i (13/16) | 0 | 3 | 1 | 12 | 1 |
 | `Ve` | variant of Qb | t (9/17) | 10 | 7 | 0 | 0 | 0 |
+| `Rl` | small upright R, closed on the right | i (13/16) | 0 | 3 | 1 | 12 | 1 |
 | `+o` | (no description recorded) | _ (15/16) | 0 | 6 | 1 | 9 | 0 |
+| `14` | numeral 14 | _ (10/12) | 0 | 6 | 4 | 2 | 2 |
 | `lo` | tall looped l (first seen in letter 39) | _ (7/13) | 0 | 1 | 3 | 9 | 1 |
 | `r` | small r-like hook with loop | i (5/14) | 3 | 7 | 2 | 2 | 0 |
-| `14` | numeral 14 | _ (10/12) | 0 | 6 | 4 | 2 | 2 |
-| `Cz` | C enclosing a small 2/z | _ (4/10) | 1 | 3 | 3 | 3 | 2 |
 | `Ob` | (no description recorded) | l (8/12) | 2 | 0 | 0 | 10 | 0 |
+| `Cz` | C enclosing a small 2/z | _ (4/10) | 1 | 3 | 3 | 3 | 2 |
 | `L` | (no description recorded) | e (6/11) | 2 | 7 | 1 | 1 | 0 |
-| `ta` | (no description recorded) | [nauires] (11/11) | 3 | 0 | 2 | 6 | 0 |
-| `4b` | closed-top 4 (first seen in letter 39) | et (8/10) | 0 | 1 | 2 | 7 | 1 |
-| `Rq` | looped R / &-like figure (first seen in letter 39) | et (8/10) | 0 | 0 | 1 | 9 | 1 |
 | `Ce` | (no description recorded) | _ (7/11) | 2 | 1 | 3 | 5 | 0 |
+| `Rq` | looped R / &-like figure (first seen in letter 39) | et (8/10) | 0 | 0 | 1 | 9 | 1 |
+| `4b` | closed-top 4 (first seen in letter 39) | et (8/10) | 0 | 1 | 2 | 7 | 1 |
+| `ta` | (no description recorded) | [nauires] (11/11) | 3 | 0 | 2 | 6 | 0 |
 | `ii` | (no description recorded) | _ (7/8) | 2 | 2 | 1 | 3 | 2 |
-| `Ak` | A with long 7-like stroke | _ (7/8) | 1 | 1 | 3 | 3 | 1 |
 | `cc?` | letter 44 cc, not re-inspected for cc/cl | l (3/9) | 0 | 9 | 0 | 0 | 0 |
+| `Ak` | A with long 7-like stroke | _ (7/8) | 1 | 1 | 3 | 3 | 1 |
 | `k` | small k | g (2/9) | 4 | 1 | 4 | 0 | 0 |
-| `U` | ʊ | h (5/7) | 1 | 2 | 1 | 3 | 1 |
 | `13` | numeral 13 | _ (6/6) | 1 | 2 | 1 | 2 | 2 |
 | `Wl` | wavy w with an extra loop | ss (1/5) | 0 | 3 | 0 | 2 | 3 |
+| `U` | ʊ | h (5/7) | 1 | 2 | 1 | 3 | 1 |
 | `ts` | small t with a left curl (split from t) | m (4/5) | 4 | 0 | 0 | 1 | 3 |
-| `=o` | (no description recorded) | _ (6/7) | 0 | 6 | 1 | 0 | 0 |
-| `pa` | (no description recorded) | ent (5/7) | 1 | 2 | 2 | 2 | 0 |
-| `vt` | (no description recorded) | s (3/7) | 2 | 0 | 5 | 0 | 0 |
 | `uT` | (no description recorded) | s (2/7) | 2 | 0 | 0 | 5 | 0 |
-| `oo?` | letter 44 oo, not re-inspected for the oo/ooo split | t (5/7) | 0 | 7 | 0 | 0 | 0 |
-| `Dt` | (no description recorded) | t (6/7) | 1 | 6 | 0 | 0 | 0 |
 | `Cs` | oval with inner loop (ɵ) | e (4/6) | 1 | 0 | 2 | 3 | 1 |
+| `vt` | (no description recorded) | s (3/7) | 2 | 0 | 5 | 0 | 0 |
+| `=o` | (no description recorded) | _ (6/7) | 0 | 6 | 1 | 0 | 0 |
+| `Dt` | (no description recorded) | t (6/7) | 1 | 6 | 0 | 0 | 0 |
+| `pa` | (no description recorded) | ent (5/7) | 1 | 2 | 2 | 2 | 0 |
+| `oo?` | letter 44 oo, not re-inspected for the oo/ooo split | t (5/7) | 0 | 7 | 0 | 0 | 0 |
 | `ss` | ss | q (1/5) | 1 | 2 | 0 | 2 | 1 |
-| `Tq` | (no description recorded) | re (1/5) | 0 | 1 | 1 | 3 | 0 |
-| `re` | (no description recorded) | _ (3/5) | 0 | 4 | 0 | 1 | 0 |
-| `l` | (no description recorded) | il (2/5) | 3 | 1 | 0 | 1 | 0 |
 | `8?` | letter 44 8, not re-inspected for 8/8p | o (3/5) | 0 | 5 | 0 | 0 | 0 |
-| `4` | numeral 4 | est (1/5) | 1 | 1 | 3 | 0 | 0 |
-| `C3` | (no description recorded) | a (3/5) | 1 | 1 | 2 | 1 | 0 |
-| `c?` | letter 44 c, not re-inspected | l (2/5) | 0 | 5 | 0 | 0 | 0 |
+| `Tq` | (no description recorded) | re (1/5) | 0 | 1 | 1 | 3 | 0 |
 | `Cd` | (no description recorded) | p (1/5) | 2 | 2 | 1 | 0 | 0 |
+| `C3` | (no description recorded) | a (3/5) | 1 | 1 | 2 | 1 | 0 |
+| `4` | numeral 4 | est (1/5) | 1 | 1 | 3 | 0 | 0 |
+| `c?` | letter 44 c, not re-inspected | l (2/5) | 0 | 5 | 0 | 0 | 0 |
+| `l` | (no description recorded) | il (2/5) | 3 | 1 | 0 | 1 | 0 |
+| `re` | (no description recorded) | _ (3/5) | 0 | 4 | 0 | 1 | 0 |
 | `Ca` | (no description recorded) | _ (3/4) | 1 | 1 | 0 | 2 | 0 |
 | `N_lb` | (no description recorded) | que (2/4) | 0 | 0 | 4 | 0 | 0 |
-| `ma` | (no description recorded) | e (1/3) | 1 | 0 | 1 | 1 | 0 |
-| `N_Phib` | (no description recorded) | que (3/3) | 0 | 3 | 0 | 0 | 0 |
-| `40` | numeral 40 | a (3/3) | 0 | 2 | 1 | 0 | 0 |
+| `+2` | (no description recorded) | i (3/3) | 3 | 0 | 0 | 0 | 0 |
+| `30` | numeral 30 | _ (3/3) | 1 | 0 | 1 | 1 | 0 |
+| `Sh` | (no description recorded) | f (1/3) | 0 | 3 | 0 | 0 | 0 |
 | `dd` | (no description recorded) | _ (3/3) | 1 | 0 | 0 | 2 | 0 |
 | `p?` | letter 44 p, not re-inspected for p/po | f (2/3) | 0 | 3 | 0 | 0 | 0 |
-| `Sh` | (no description recorded) | f (1/3) | 0 | 3 | 0 | 0 | 0 |
+| `40` | numeral 40 | a (3/3) | 0 | 2 | 1 | 0 | 0 |
+| `N_Phib` | (no description recorded) | que (3/3) | 0 | 3 | 0 | 0 | 0 |
 | `Pb` | (no description recorded) | o (1/3) | 1 | 1 | 1 | 0 | 0 |
-| `30` | numeral 30 | _ (3/3) | 1 | 0 | 1 | 1 | 0 |
-| `+2` | (no description recorded) | i (3/3) | 3 | 0 | 0 | 0 | 0 |
-| `t?` | letter 44 t, not re-inspected for t/ts | n (2/2) | 0 | 2 | 0 | 0 | 0 |
+| `ma` | (no description recorded) | e (1/3) | 1 | 0 | 1 | 1 | 0 |
 | `N_ang` | (no description recorded) | bl (1/2) | 0 | 2 | 0 | 0 | 0 |
-| `ca` | (no description recorded) | la (1/2) | 1 | 0 | 0 | 1 | 0 |
-| `8b` | ʚ loop variant of 8 | r (1/2) | 2 | 0 | 0 | 0 | 0 |
-| `3o` | (no description recorded) | y (1/2) | 0 | 2 | 0 | 0 | 0 |
-| `CR` | (no description recorded) | i (1/2) | 0 | 2 | 0 | 0 | 0 |
-| `Ll` | (no description recorded) | oys (1/2) | 0 | 0 | 0 | 2 | 0 |
-| `O` | (no description recorded) | t (1/2) | 2 | 0 | 0 | 0 | 0 |
 | `Xs` | (no description recorded) | g (2/2) | 0 | 2 | 0 | 0 | 0 |
 | `sm` | (no description recorded) | t (1/2) | 0 | 2 | 0 | 0 | 0 |
+| `O` | (no description recorded) | t (1/2) | 2 | 0 | 0 | 0 | 0 |
+| `3o` | (no description recorded) | y (1/2) | 0 | 2 | 0 | 0 | 0 |
+| `ca` | (no description recorded) | la (1/2) | 1 | 0 | 0 | 1 | 0 |
+| `CR` | (no description recorded) | i (1/2) | 0 | 2 | 0 | 0 | 0 |
+| `8b` | ʚ loop variant of 8 | r (1/2) | 2 | 0 | 0 | 0 | 0 |
+| `Ll` | (no description recorded) | oys (1/2) | 0 | 0 | 0 | 2 | 0 |
 | `N_ven` | (no description recorded) | t (1/2) | 0 | 0 | 2 | 0 | 0 |
-| `CS` | (no description recorded) | i (1/1) | 0 | 1 | 0 | 0 | 0 |
-| `Td` | (no description recorded) | [castille] (1/1) | 1 | 0 | 0 | 0 | 0 |
-| `rr` | (no description recorded) | p (1/1) | 0 | 1 | 0 | 0 | 0 |
-| `Pt` | (no description recorded) | que (1/1) | 1 | 0 | 0 | 0 | 0 |
-| `tl` | (no description recorded) | u (1/1) | 1 | 0 | 0 | 0 | 0 |
-| `N_mo` | (no description recorded) | m (1/1) | 0 | 0 | 0 | 1 | 0 |
-| `H` | (no description recorded) | lz (1/1) | 1 | 0 | 0 | 0 | 0 |
-| `Il` | (no description recorded) | _ (1/1) | 1 | 0 | 0 | 0 | 0 |
-| `#x` | (no description recorded) | li (1/1) | 1 | 0 | 0 | 0 | 0 |
-| `N_pt` | (no description recorded) | _ (1/1) | 0 | 0 | 0 | 1 | 0 |
-| `bar` | (no description recorded) | _ (1/1) | 1 | 0 | 0 | 0 | 0 |
-| `Lam` | (no description recorded) | s (1/1) | 1 | 0 | 0 | 0 | 0 |
-| `D` | (no description recorded) | e (1/1) | 0 | 1 | 0 | 0 | 0 |
+| `t?` | letter 44 t, not re-inspected for t/ts | n (2/2) | 0 | 2 | 0 | 0 | 0 |
 | `cx` | (no description recorded) | il (1/1) | 1 | 0 | 0 | 0 | 0 |
-| `N_lo0` | (no description recorded) | b (1/1) | 0 | 0 | 0 | 1 | 0 |
 | `Cv` | (no description recorded) | g (1/1) | 0 | 1 | 0 | 0 | 0 |
-| `N_bb` | (no description recorded) | i (1/1) | 0 | 0 | 1 | 0 | 0 |
+| `#x` | (no description recorded) | li (1/1) | 1 | 0 | 0 | 0 | 0 |
+| `bar` | (no description recorded) | _ (1/1) | 1 | 0 | 0 | 0 | 0 |
+| `N_pt` | (no description recorded) | _ (1/1) | 0 | 0 | 0 | 1 | 0 |
+| `Lam` | (no description recorded) | s (1/1) | 1 | 0 | 0 | 0 | 0 |
+| `Td` | (no description recorded) | [castille] (1/1) | 1 | 0 | 0 | 0 | 0 |
 | `yb` | (no description recorded) | r (1/1) | 1 | 0 | 0 | 0 | 0 |
-| `Et` | (no description recorded) | _ (1/1) | 0 | 1 | 0 | 0 | 0 |
-| `Pl` | (no description recorded) | a (1/1) | 0 | 1 | 0 | 0 | 0 |
+| `tl` | (no description recorded) | u (1/1) | 1 | 0 | 0 | 0 | 0 |
+| `rr` | (no description recorded) | p (1/1) | 0 | 1 | 0 | 0 | 0 |
 | `Rr` | R rotated 90 degrees (seen only in letter 39) | - | 0 | 0 | 0 | 0 | 1 |
+| `N_mo` | (no description recorded) | m (1/1) | 0 | 0 | 0 | 1 | 0 |
+| `Et` | (no description recorded) | _ (1/1) | 0 | 1 | 0 | 0 | 0 |
 | `Lcs` | (no description recorded) | [peru] (1/1) | 0 | 0 | 0 | 1 | 0 |
+| `Il` | (no description recorded) | _ (1/1) | 1 | 0 | 0 | 0 | 0 |
+| `H` | (no description recorded) | lz (1/1) | 1 | 0 | 0 | 0 | 0 |
+| `N_bb` | (no description recorded) | i (1/1) | 0 | 0 | 1 | 0 | 0 |
+| `Pt` | (no description recorded) | que (1/1) | 1 | 0 | 0 | 0 | 0 |
+| `D` | (no description recorded) | e (1/1) | 0 | 1 | 0 | 0 | 0 |
+| `N_lo0` | (no description recorded) | b (1/1) | 0 | 0 | 0 | 1 | 0 |
+| `CS` | (no description recorded) | i (1/1) | 0 | 1 | 0 | 0 | 0 |
+| `Pl` | (no description recorded) | a (1/1) | 0 | 1 | 0 | 0 | 0 |
 <!-- sign-table:end -->

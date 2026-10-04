@@ -62,10 +62,9 @@ of 1560-1561; Simancas; Lisbon.
   decipherments.
 - **Vladimir Chichkine, "Mirage d'une alliance. Les relations franco-portugaises dans les collections manuscrites
   de Saint-Pétersbourg (1557-1572)", *Histoire, économie & société* 2021/1, pp. 38-55.** On the St Petersburg
-  collection from which NAF 6638 was copied. The working notes of this project record, from an online check on
-  2026-10-04, that the article speaks of the key of Seure's cipher as not found. The article itself could not be
-  retrieved again when this file was written; the statement should be verified against the article before it is
-  relied on.
+  collection from which NAF 6638 was copied. An online check on 2026-10-04 found the article speaking of the key
+  of Seure's cipher as not found. The article could not be retrieved again afterwards, so that statement should
+  be verified before it is relied on.
 - **Luís de Matos, *Les Portugais en France au XVIe siècle* (Coimbra, 1952).** Said by Potter to print Seure's clear
   letters of 1559 from fr. 15871. Not consulted.
 - **Daniel Bourdeau, open catalogue of unsolved historical ciphers**

@@ -1,26 +1,25 @@
 # The key
 
-The key of the cipher used by Michel de Seure in his letters from Lisbon of December 1558 (BnF ms. fr. 3151,
-nos. 39-44), as recovered from the contemporary decipherments bound in the same volume.
+The key of the cipher in Michel de Seure's letters of December 1558 (BnF ms. fr. 3151, nos. 39-44), recovered from
+the contemporary decipherments bound in the same volume.
 
-Machine-readable versions: [data/key/key.csv](../data/key/key.csv) and [data/key/key.json](../data/key/key.json).
-The table below is generated from the same data by `python code/build_key.py --publish`.
+If you only want to know which signs write which letter, go to the [short key](#short-key). The
+[full table](#full-table) has every sign with its evidence. The same data is in
+[data/key/key.csv](../data/key/key.csv) and [data/key/key.json](../data/key/key.json).
 
 ## The system
 
-- **Homophonic substitution.** Each letter has several signs. Well-attested examples: e = `ff`, `1`, `3s`, `9`;
-  n = `xx`, `=`, `mm`, `f`; a = `#b`, `o`, `Nf`; u = `^`, `d`, `3`; t = `ooo`, `Qb`, `Aq`; s = `W`, `z`; r = `Hr`,
-  `h`, `+f`.
-- **Syllable signs:** `R` = de, `E` = le, `J` = es, `N` = qui, `Rq` and `4b` = et, `C` = pa (weak), `P` = que
-  (see "Revised values"), and others.
-- **Word signs:** `ta` = navires (11 of 11), `A` = pour and `V` = faict (see "Revised values"); two rare signs were
-  each aligned once with a whole word (Castille, Peru). Word values are written in square brackets in the tables,
-  e.g. `[pour]`. Square-bracketed words also turn up in the "other alignments" of many signs; those are alignment
-  noise, not word values.
-- **Nulls:** `7`, `M`, `12`, `13`, `14`, `100`, `2`, `Tr`, `ii`, `Ak` and others; most numerals are nulls. Written
-  `_` in the tables.
-- u/v and i/j are not distinguished; k is written c and w is written u in the normalised plaintext.
-- Words are not separated. A syllable or word sign can run across a word boundary.
+- Each letter has several signs. Well-attested examples: e = `ff`, `1`, `3s`, `9`; n = `xx`, `=`, `mm`, `f`;
+  a = `#b`, `o`, `Nf`; u = `^`, `d`, `3`; t = `ooo`, `Qb`, `Aq`; s = `W`, `z`; r = `Hr`, `h`, `+f`.
+- Some signs stand for a syllable: `R` = de, `E` = le, `J` = es, `N` = qui, `Rq` and `4b` = et, `C` = pa (weak),
+  `P` = que (see "Revised values").
+- A few stand for a word: `ta` = navires (11 of 11), `A` = pour and `V` = faict (see "Revised values"). Two rare
+  signs were each aligned once with a whole word (Castille, Peru).
+- Some mean nothing: `7`, `M`, `12`, `13`, `14`, `100`, `2`, `Tr`, `ii`, `Ak` and others. Most numerals are nulls.
+- u/v and i/j are not distinguished. In the normalised plaintext k is written c and w is written u.
+- Words are not separated, and a syllable or word sign can run across a word boundary.
+
+In the tables a null is written `_` and a word value is written in square brackets, e.g. `[pour]`.
 
 ## Where the values come from
 
@@ -34,39 +33,27 @@ with their plaintext:
 | 41, another copy of the letter of 12 Dec | 76r-77r | 1,883 | the same text (blocks A, B, C of no. 44) |
 | 43, another copy of the letter of 12 Dec, almost wholly in cipher | 80r-82r | 3,522 | the whole text of no. 44, clear parts included |
 
-The value of a sign is the plaintext unit it was aligned with most often. The alignment and the key were refined
-in turn until they stopped changing ([METHOD.md](METHOD.md)). The alignments themselves are in
-results/align_*.txt.
+The value of a sign is the plaintext unit it was aligned with most often. Alignment and key were refined in turn
+until they stopped changing ([METHOD.md](METHOD.md)). The alignments are in results/align_*.txt.
 
-Two things follow from this and should be kept in mind when the table is used:
+Two cautions when using the tables:
 
-- The counts contain noise from two sources: signs that were misread in transcription, and places where the
-  alignment is wrong. A long tail of single odd alignments in the "other alignments" column is that noise, not
-  evidence of extra values.
+- The counts contain noise from misread signs and from places where the alignment is wrong. The long tail of
+  single odd alignments in the "other alignments" column is that noise. Bracketed words in that column are noise
+  too, not word values.
 - The postscript (block C: 41 fo. 77r, 43 fo. 82r, 44 fo. 86r; 1,057 signs) was kept out while the key was built,
-  so that it could serve as a test. The table below does include it, aligned afterwards with the finished key. The
-  key built from the training sets alone has 156 signs ([results/key_train.tsv](../results/key_train.tsv)); the
-  table has 159.
-
-## Columns
-
-- **sign**: transcription label ([SYMBOLS.md](SYMBOLS.md)).
-- **value**: the most frequent aligned unit. `_` = null; `[word]` = a whole word.
-- **evidence**: occurrences aligned with that value / all aligned occurrences.
-- **conf**: high = at least 8 occurrences and at least 75% on the value; medium = at least 4 occurrences and at
-  least 60%; low = everything else. Of the 159 signs, 46 are high, 30 medium, 83 low.
-- **other alignments**: the full distribution.
-- **n40, n44, n41, n43, n39**: occurrences of the sign in the transcription of each letter.
+  so that it could serve as a test. The tables do include it, aligned afterwards with the finished key. The key
+  built without it has 156 signs ([results/key_train.tsv](../results/key_train.tsv)); the tables have 159.
 
 ## Revised values (from NAF 6638)
 
 The cipher block "N. 5" of BnF ms. NAF 6638 ([NAF6638.md](NAF6638.md)) gives 4,261 further signs with known
-plaintext, in a 19th-century copy. The copyist regularised the sign shapes, so that material was **not** added to
-the counts below. It was used only for nine signs whose shape in the copy matches the original sign unmistakably
+plaintext, in a 19th-century copy. The copyist regularised the sign shapes, so that material was not added to the
+counts. It was used only for nine signs whose shape in the copy matches the original unmistakably
 ([data/key/revised_values.tsv](../data/key/revised_values.tsv),
 [data/key/naf6638_n5_values.tsv](../data/key/naf6638_n5_values.tsv)):
 
-| sign | table below | revised | basis |
+| sign | full table | revised | basis |
 |---|---|---|---|
 | `mt` | a (31/34) | **au** | N. 5: au 7 of 11. In fr. 3151 the alignment gave the sign "a" and left the following u without a sign: an alignment artefact. |
 | `A` | ur (22/42) | **[pour]** | N. 5: the word pour 11 of 21 (16 of 21 if the partial alignments po, pou are counted). In fr. 3151 the sign before `A` was forced to "po", leaving "ur": an artefact. |
@@ -76,14 +63,14 @@ the counts below. It was used only for nine signs whose shape in the copy matche
 | `4b` | et (8/10) | **et** (confirmed) | N. 5: et 3 of 5. |
 | `14`, `13`, `12` | null | **null** (confirmed) | N. 5: 3 of 3, 1 of 1, 2 of 3. |
 
-These revisions do not change the measured accuracy on the held-out text (mean character accuracy 0.589 without
-them, 0.587 to 0.595 with them, depending on how they are applied; the signs concerned are rare there). They matter
-for a few words of letter 39 ([LETTER39.md](LETTER39.md)).
+The revisions do not change the measured accuracy on the test text (mean character accuracy 0.589 without them,
+0.587 to 0.595 with them, depending on how they are applied). They matter for a few words of letter 39
+([LETTER39.md](LETTER39.md)).
 
 ## Known weaknesses
 
-- **Mixed classes.** For some labels no clean visual distinction could be found between occurrences with
-  different values. Each occurrence has to be resolved from context:
+- Mixed classes. For some labels no clean visual distinction could be found between occurrences with different
+  values, so each occurrence has to be resolved from context:
   - `#`: s 136, i 81 of 338;
   - `+`: c 76, r 35 of 224 (many of the r and l alignments are probably the look-alike signs `+f` and `+d`
     misread);
@@ -93,26 +80,68 @@ for a few words of letter 39 ([LETTER39.md](LETTER39.md)).
   - `C`: pa 17, y 11 of 40;
   - `oo`: y 57, t 25 of 105 (the t cases are probably the three-loop sign `ooo` misread);
   - also `*`, `s`, `8`, `B`, `c`, `p`, `v`.
-- **Classes split late.** `oo` (two loops) / `ooo` (three loops), `8` / `8p`, `p` / `po`, `cc` / `cl`, `t` / `ts`
-  were first transcribed as one class each and separated afterwards, when occurrences sorted by their aligned value
-  showed a visible difference. That evidence is selection-biased; the visual difference is real, but some
-  occurrences are certainly on the wrong side.
-- **Rare signs.** 83 of the 159 values are of low confidence, most of them because the sign occurs only a few
-  times. Labels beginning with `N_` are provisional names for shapes seen once or twice.
-- **`Rr`** occurs once, in letter 39, and nowhere in the known plaintext. It has no value.
-- **Several readers.** The transcriptions of letters 41, 43 and 44 were made in separate passes; differences of
-  labelling habit between passes are part of the distributions.
+- Classes split late. `oo` / `ooo`, `8` / `8p`, `p` / `po`, `cc` / `cl` and `t` / `ts` were first transcribed as
+  one class each and separated afterwards, when occurrences sorted by aligned value showed a visible difference.
+  That evidence is selection-biased: the visual difference is real, but some occurrences are on the wrong side.
+- Rare signs. 83 of the 159 values are of low confidence, most because the sign occurs only a few times. Labels
+  beginning with `N_` are provisional names for shapes seen once or twice.
+- `Rr` occurs once, in letter 39, and nowhere in the known plaintext. It has no value.
+- The transcriptions of letters 41, 43 and 44 were made in separate passes, and differences of labelling habit
+  between passes are part of the distributions.
 
-## Validation
+## How well it works
 
-The key was tested on text that was not used to build it: the three copies of block C were decoded with the
-training-only key and a language model that had not seen block C. Character accuracy: 0.508 (44 C), 0.553 (41 C),
-0.705 (43 PS); mean 0.589. Details and the word-level results are in [METHOD.md](METHOD.md). The accuracy is
-limited by sign-reading noise and by the homophone and syllable ambiguity of the cipher, not only by the key.
+Decoding the withheld block C with the key built without it gets 51%, 55% and 70% of the letters right on the
+three copies (mean 0.589). The accuracy is limited by sign-reading noise and by the ambiguity built into the
+cipher, as well as by the key. See [METHOD.md](METHOD.md).
 
 ## Key table
 
+The short key lists, for each plaintext unit, the signs that write it with high or medium confidence, with their
+evidence (occurrences aligned with that value / all aligned occurrences).
+
+Columns of the full table:
+
+- **sign**: transcription label ([SYMBOLS.md](SYMBOLS.md)).
+- **value**: the most frequent aligned unit.
+- **evidence**: occurrences aligned with that value / all aligned occurrences.
+- **conf**: high = at least 8 occurrences and at least 75% on the value; medium = at least 4 occurrences and at
+  least 60%; low = everything else. Of the 159 signs, 46 are high, 30 medium, 83 low.
+- **other alignments**: the full distribution.
+- **n40, n44, n41, n43, n39**: occurrences of the sign in the transcription of each letter.
+
+Both tables are generated by `python code/build_key.py --publish`.
+
 <!-- key-table:start (generated by code/build_key.py --publish) -->
+### Short key
+
+| plaintext | signs |
+|---|---|
+| _ | `7` (41/55), `Tr` (40/49), `M` (28/28), `2` (19/25), `12` (21/22), `Q` (12/20), `100` (17/19), `a` (12/19), `?` (13/19), `23` (16/18), `+o` (15/16), `14` (10/12), `Ce` (7/11), `ii` (7/8), `Ak` (7/8), `=o` (6/7), `13` (6/6), `re` (3/5), `Ca` (3/4) |
+| a | `o` (148/175), `#b` (145/170), `Nf` (133/149), `mt` (31/34), `C3` (3/5) |
+| e | `ff` (297/359), `3s` (242/282), `1` (170/199), `9` (107/126), `Cs` (4/6) |
+| h | `th` (22/25), `U` (5/7) |
+| i | `sl` (108/144), `##` (44/69), `Lc` (43/45), `cc` (28/39), `Rl` (13/16) |
+| l | `vl` (63/89), `+d` (70/81), `cl` (58/68), `Ob` (8/12) |
+| m | `###` (67/78), `m` (41/64), `ts` (4/5) |
+| n | `f` (176/207), `mm` (130/157), `xx` (130/148), `=` (92/104) |
+| o | `#1` (144/179), `#p` (106/131), `8?` (3/5) |
+| p | `EE` (45/51), `g` (27/35), `8p` (18/22) |
+| r | `Hr` (116/132), `+f` (74/105), `h` (53/71), `S` (20/30) |
+| s | `W` (126/151), `z` (96/141) |
+| t | `Aq` (122/170), `ooo` (124/140), `Qb` (121/139), `Dt` (6/7), `oo?` (5/7) |
+| u | `3` (149/215), `^` (170/195), `d` (131/162) |
+| z | `n` (68/86) |
+| [nauires] | `ta` (11/11) |
+| de | `R` (186/216) |
+| ent | `pa` (5/7) |
+| es | `J` (51/71) |
+| et | `Rq` (8/10), `4b` (8/10) |
+| le | `E` (130/181) |
+| qui | `N` (64/74) |
+
+### Full table
+
 | sign | value | evidence | conf | other alignments | n40 | n44 | n41 | n43 | n39 |
 |---|---|---|---|---|---|---|---|---|---|
 | `ff` | e | 297/359 | high | e:297 _:12 a:9 [mais]:5 l:3 n:2 ais:2 d:2 m:2 t:2 as:1 nt:1 u:1 la:1 mer:1 i:1 bie:1 feu:1 [iamais]:1 po:1 ux:1 h:1 nee:1 uou:1 q:1 fic:1 o:1 lad:1 par:1 r:1 arr:1 s:1 is:1 | 46 | 86 | 75 | 152 | 21 |
@@ -276,31 +305,4 @@ limited by sign-reading noise and by the homophone and syllable ambiguity of the
 | `N_mo` | m | 1/1 | low | m:1 | 0 | 0 | 0 | 1 | 0 |
 
 Signs that occur in letter 39 but in no known-plaintext alignment (no key value): `Rr`.
-
-### Inverse key (high and medium confidence only)
-
-| plaintext | signs |
-|---|---|
-| _ | `7` (41/55), `Tr` (40/49), `M` (28/28), `2` (19/25), `12` (21/22), `Q` (12/20), `100` (17/19), `a` (12/19), `?` (13/19), `23` (16/18), `+o` (15/16), `14` (10/12), `Ce` (7/11), `ii` (7/8), `Ak` (7/8), `=o` (6/7), `13` (6/6), `re` (3/5), `Ca` (3/4) |
-| a | `o` (148/175), `#b` (145/170), `Nf` (133/149), `mt` (31/34), `C3` (3/5) |
-| e | `ff` (297/359), `3s` (242/282), `1` (170/199), `9` (107/126), `Cs` (4/6) |
-| h | `th` (22/25), `U` (5/7) |
-| i | `sl` (108/144), `##` (44/69), `Lc` (43/45), `cc` (28/39), `Rl` (13/16) |
-| l | `vl` (63/89), `+d` (70/81), `cl` (58/68), `Ob` (8/12) |
-| m | `###` (67/78), `m` (41/64), `ts` (4/5) |
-| n | `f` (176/207), `mm` (130/157), `xx` (130/148), `=` (92/104) |
-| o | `#1` (144/179), `#p` (106/131), `8?` (3/5) |
-| p | `EE` (45/51), `g` (27/35), `8p` (18/22) |
-| r | `Hr` (116/132), `+f` (74/105), `h` (53/71), `S` (20/30) |
-| s | `W` (126/151), `z` (96/141) |
-| t | `Aq` (122/170), `ooo` (124/140), `Qb` (121/139), `Dt` (6/7), `oo?` (5/7) |
-| u | `3` (149/215), `^` (170/195), `d` (131/162) |
-| z | `n` (68/86) |
-| [nauires] | `ta` (11/11) |
-| de | `R` (186/216) |
-| ent | `pa` (5/7) |
-| es | `J` (51/71) |
-| et | `Rq` (8/10), `4b` (8/10) |
-| le | `E` (130/181) |
-| qui | `N` (64/74) |
 <!-- key-table:end -->

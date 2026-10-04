@@ -103,7 +103,6 @@ here.
 | [docs/METHOD.md](docs/METHOD.md) | how the key was built and tested |
 | [docs/NAF6638.md](docs/NAF6638.md) | the cipher blocks of February 1559 and their decipherment |
 | [docs/LITERATURE.md](docs/LITERATURE.md) | sources, earlier work, what was and was not checked |
-| [docs/CHANGELOG.md](docs/CHANGELOG.md) | history of the reading |
 | [data/](data/README.md) | transcriptions, plaintexts, key files, language-model text |
 | [code/](code/README.md) | the scripts |
 | results/ | their output |

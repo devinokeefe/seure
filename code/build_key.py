@@ -152,8 +152,16 @@ def write_key_files(rows, outdir):
 
 def md_key_table(rows, occ):
     B = '`'
-    L = ['| sign | value | evidence | conf | other alignments | n40 | n44 | n41 | n43 | n39 |',
-         '|---|---|---|---|---|---|---|---|---|---|']
+    inv = collections.defaultdict(list)
+    for r in rows:
+        if r['confidence'] != 'low':
+            inv[r['value']].append(f'{B}{r["sign"]}{B} ({r["n_value"]}/{r["n_total"]})')
+    L = ['### Short key', '', '| plaintext | signs |', '|---|---|']
+    for u in sorted(inv, key=lambda x: (len(x.strip('[]_')) > 1, x)):
+        L.append(f'| {u} | {", ".join(inv[u])} |')
+    L += ['', '### Full table', '',
+          '| sign | value | evidence | conf | other alignments | n40 | n44 | n41 | n43 | n39 |',
+          '|---|---|---|---|---|---|---|---|---|---|']
     for r in rows:
         L.append(f'| {B}{r["sign"]}{B} | {r["value"]} | {r["n_value"]}/{r["n_total"]} | {r["confidence"]} | '
                  f'{r["distribution"]} | {r["n40"]} | {r["n44"]} | {r["n41"]} | {r["n43"]} | {r["n39"]} |')
@@ -161,13 +169,6 @@ def md_key_table(rows, occ):
     new = sorted(set(occ['39']) - seen)
     L += ['', 'Signs that occur in letter 39 but in no known-plaintext alignment (no key value): '
           + (', '.join(f'{B}{s}{B}' for s in new) or 'none') + '.']
-    inv = collections.defaultdict(list)
-    for r in rows:
-        if r['confidence'] != 'low':
-            inv[r['value']].append(f'{B}{r["sign"]}{B} ({r["n_value"]}/{r["n_total"]})')
-    L += ['', '### Inverse key (high and medium confidence only)', '', '| plaintext | signs |', '|---|---|']
-    for u in sorted(inv, key=lambda x: (len(x.strip('[]_')) > 1, x)):
-        L.append(f'| {u} | {", ".join(inv[u])} |')
     return '\n'.join(L)
 
 
